@@ -1,8 +1,8 @@
 {
-   id: "US008080243B2",
-   number: "US 8,080,243 B2",
-   date: "Dec. 20, 2011",
-   name: "ISOLATIED ANTIBODY WHICH SPECIFICALLY BINDS TO PCSK9",
+   patentId: "US008080243B2",
+   patnetNumber: "US 8,080,243 B2",
+   patentDate: "Dec. 20, 2011",
+   patentName: "ISOLATIED ANTIBODY WHICH SPECIFICALLY BINDS TO PCSK9",
    assignees: "Riuut Neuruscience Corp.. Swah Sau Francisco, CA (US). Pfizer Inc New York, NY (US)",
    seqlisting: "PC33718A_SequenceListing.txt",
    sequences: {
