@@ -1,0 +1,3116 @@
+                         SEQUENCE LISTING
+
+<110>  Rinat Neuroscience Corporation
+       Pfizer Inc.
+ 
+<120>  PCSK9 Antagonists
+
+<130>  PC33718A
+
+<140>  12558312
+<141>  2009-09-11
+
+<150>  61/096,716
+<151>  2008-09-12
+
+<150>  61/232,161
+<151>  2009-08-07
+
+<150>  61/235,643
+<151>  2009-08-20
+
+<160>  187  
+
+<170>  PatentIn version 3.5
+
+<210>  1
+<211>  15
+<212>  PRT
+<213>  Homo sapiens
+
+<400>  1
+
+Asp Thr Ser Ile Gln Ser Asp His Arg Glu Ile Glu Gly Arg Val 
+1               5                   10                  15  
+
+
+<210>  2
+<211>  10
+<212>  PRT
+<213>  Homo sapiens
+
+<400>  2
+
+Gly Arg Asp Ala Gly Val Ala Lys Gly Ala 
+1               5                   10  
+
+
+<210>  3
+<211>  9
+<212>  PRT
+<213>  Homo sapiens
+
+<400>  3
+
+Ala Ser Ser Asp Cys Ser Thr Cys Phe 
+1               5                   
+
+
+<210>  4
+<211>  6
+<212>  PRT
+<213>  Homo sapiens
+
+<400>  4
+
+Gly Gly Ser Leu Val Glu 
+1               5       
+
+
+<210>  5
+<211>  6
+<212>  PRT
+<213>  Homo sapiens
+
+<400>  5
+
+Gln Pro Val Gly Pro Leu 
+1               5       
+
+
+<210>  6
+<211>  5
+<212>  PRT
+<213>  Homo sapiens
+
+<400>  6
+
+His Gly Ala Gly Trp 
+1               5   
+
+
+<210>  7
+<211>  5
+<212>  PRT
+<213>  Homo sapiens
+
+<400>  7
+
+Ala Glu Pro Glu Leu 
+1               5   
+
+
+<210>  8
+<211>  5
+<212>  PRT
+<213>  Artificial
+
+<220>
+<223>  VARIABLE HEAVY CHAIN CDR
+
+<400>  8
+
+Ser Tyr Tyr Met His 
+1               5   
+
+
+<210>  9
+<211>  17
+<212>  PRT
+<213>  Artificial
+
+<220>
+<223>  VARIABLE HEAVY CHAIN CDR
+
+<400>  9
+
+Glu Ile Ser Pro Phe Gly Gly Arg Thr Asn Tyr Asn Glu Lys Phe Lys 
+1               5                   10                  15      
+
+
+Ser 
+    
+
+
+<210>  10
+<211>  9
+<212>  PRT
+<213>  Artificial
+
+<220>
+<223>  VARIABLE HEAVY CHAIN CDR
+
+<400>  10
+
+Glu Arg Pro Leu Tyr Ala Ser Asp Leu 
+1               5                   
+
+
+<210>  11
+<211>  11
+<212>  PRT
+<213>  Artificial
+
+<220>
+<223>  VARIABLE LIGHT CHAIN CDR
+
+<400>  11
+
+Arg Ala Ser Gln Gly Ile Ser Ser Ala Leu Ala 
+1               5                   10      
+
+
+<210>  12
+<211>  7
+<212>  PRT
+<213>  Artificial
+
+<220>
+<223>  VARIABLE LIGHT CHAIN CDR
+
+<400>  12
+
+Ser Ala Ser Tyr Arg Tyr Thr 
+1               5           
+
+
+<210>  13
+<211>  9
+<212>  PRT
+<213>  Artificial
+
+<220>
+<223>  VARIABLE LIGHT CHAIN CDR
+
+<400>  13
+
+Gln Gln Arg Tyr Ser Leu Trp Arg Thr 
+1               5                   
+
+
+<210>  14
+<211>  214
+<212>  PRT
+<213>  Artificial
+
+<220>
+<223>  HUMANIZED L1L3 LIGHT CHAIN
+
+<400>  14
+
+Asp Ile Gln Met Thr Gln Ser Pro Ser Ser Leu Ser Ala Ser Val Gly 
+1               5                   10                  15      
+
+
+Asp Arg Val Thr Ile Thr Cys Arg Ala Ser Gln Gly Ile Ser Ser Ala 
+            20                  25                  30          
+
+
+Leu Ala Trp Tyr Gln Gln Lys Pro Gly Lys Ala Pro Lys Leu Leu Ile 
+        35                  40                  45              
+
+
+Tyr Ser Ala Ser Tyr Arg Tyr Thr Gly Val Pro Ser Arg Phe Ser Gly 
+    50                  55                  60                  
+
+
+Ser Gly Ser Gly Thr Asp Phe Thr Phe Thr Ile Ser Ser Leu Gln Pro 
+65                  70                  75                  80  
+
+
+Glu Asp Ile Ala Thr Tyr Tyr Cys Gln Gln Arg Tyr Ser Leu Trp Arg 
+                85                  90                  95      
+
+
+Thr Phe Gly Gln Gly Thr Lys Leu Glu Ile Lys Arg Thr Val Ala Ala 
+            100                 105                 110         
+
+
+Pro Ser Val Phe Ile Phe Pro Pro Ser Asp Glu Gln Leu Lys Ser Gly 
+        115                 120                 125             
+
+
+Thr Ala Ser Val Val Cys Leu Leu Asn Asn Phe Tyr Pro Arg Glu Ala 
+    130                 135                 140                 
+
+
+Lys Val Gln Trp Lys Val Asp Asn Ala Leu Gln Ser Gly Asn Ser Gln 
+145                 150                 155                 160 
+
+
+Glu Ser Val Thr Glu Gln Asp Ser Lys Asp Ser Thr Tyr Ser Leu Ser 
+                165                 170                 175     
+
+
+Ser Thr Leu Thr Leu Ser Lys Ala Asp Tyr Glu Lys His Lys Val Tyr 
+            180                 185                 190         
+
+
+Ala Cys Glu Val Thr His Gln Gly Leu Ser Ser Pro Val Thr Lys Ser 
+        195                 200                 205             
+
+
+Phe Asn Arg Gly Glu Cys 
+    210                 
+
+
+<210>  15
+<211>  444
+<212>  PRT
+<213>  Artificial
+
+<220>
+<223>  HUMANIZED L1L3 HEAVY CHAIN
+
+<400>  15
+
+Gln Val Gln Leu Val Gln Ser Gly Ala Glu Val Lys Lys Pro Gly Ala 
+1               5                   10                  15      
+
+
+Ser Val Lys Val Ser Cys Lys Ala Ser Gly Tyr Thr Phe Thr Ser Tyr 
+            20                  25                  30          
+
+
+Tyr Met His Trp Val Arg Gln Ala Pro Gly Gln Gly Leu Glu Trp Met 
+        35                  40                  45              
+
+
+Gly Glu Ile Ser Pro Phe Gly Gly Arg Thr Asn Tyr Asn Glu Lys Phe 
+    50                  55                  60                  
+
+
+Lys Ser Arg Val Thr Met Thr Arg Asp Thr Ser Thr Ser Thr Val Tyr 
+65                  70                  75                  80  
+
+
+Met Glu Leu Ser Ser Leu Arg Ser Glu Asp Thr Ala Val Tyr Tyr Cys 
+                85                  90                  95      
+
+
+Ala Arg Glu Arg Pro Leu Tyr Ala Ser Asp Leu Trp Gly Gln Gly Thr 
+            100                 105                 110         
+
+
+Thr Val Thr Val Ser Ser Ala Ser Thr Lys Gly Pro Ser Val Phe Pro 
+        115                 120                 125             
+
+
+Leu Ala Pro Cys Ser Arg Ser Thr Ser Glu Ser Thr Ala Ala Leu Gly 
+    130                 135                 140                 
+
+
+Cys Leu Val Lys Asp Tyr Phe Pro Glu Pro Val Thr Val Ser Trp Asn 
+145                 150                 155                 160 
+
+
+Ser Gly Ala Leu Thr Ser Gly Val His Thr Phe Pro Ala Val Leu Gln 
+                165                 170                 175     
+
+
+Ser Ser Gly Leu Tyr Ser Leu Ser Ser Val Val Thr Val Pro Ser Ser 
+            180                 185                 190         
+
+
+Asn Phe Gly Thr Gln Thr Tyr Thr Cys Asn Val Asp His Lys Pro Ser 
+        195                 200                 205             
+
+
+Asn Thr Lys Val Asp Lys Thr Val Glu Arg Lys Cys Cys Val Glu Cys 
+    210                 215                 220                 
+
+
+Pro Pro Cys Pro Ala Pro Pro Val Ala Gly Pro Ser Val Phe Leu Phe 
+225                 230                 235                 240 
+
+
+Pro Pro Lys Pro Lys Asp Thr Leu Met Ile Ser Arg Thr Pro Glu Val 
+                245                 250                 255     
+
+
+Thr Cys Val Val Val Asp Val Ser His Glu Asp Pro Glu Val Gln Phe 
+            260                 265                 270         
+
+
+Asn Trp Tyr Val Asp Gly Val Glu Val His Asn Ala Lys Thr Lys Pro 
+        275                 280                 285             
+
+
+Arg Glu Glu Gln Phe Asn Ser Thr Phe Arg Val Val Ser Val Leu Thr 
+    290                 295                 300                 
+
+
+Val Val His Gln Asp Trp Leu Asn Gly Lys Glu Tyr Lys Cys Lys Val 
+305                 310                 315                 320 
+
+
+Ser Asn Lys Gly Leu Pro Ser Ser Ile Glu Lys Thr Ile Ser Lys Thr 
+                325                 330                 335     
+
+
+Lys Gly Gln Pro Arg Glu Pro Gln Val Tyr Thr Leu Pro Pro Ser Arg 
+            340                 345                 350         
+
+
+Glu Glu Met Thr Lys Asn Gln Val Ser Leu Thr Cys Leu Val Lys Gly 
+        355                 360                 365             
+
+
+Phe Tyr Pro Ser Asp Ile Ala Val Glu Trp Glu Ser Asn Gly Gln Pro 
+    370                 375                 380                 
+
+
+Glu Asn Asn Tyr Lys Thr Thr Pro Pro Met Leu Asp Ser Asp Gly Ser 
+385                 390                 395                 400 
+
+
+Phe Phe Leu Tyr Ser Lys Leu Thr Val Asp Lys Ser Arg Trp Gln Gln 
+                405                 410                 415     
+
+
+Gly Asn Val Phe Ser Cys Ser Val Met His Glu Ala Leu His Asn His 
+            420                 425                 430         
+
+
+Tyr Thr Gln Lys Ser Leu Ser Leu Ser Pro Gly Lys 
+        435                 440                 
+
+
+<210>  16
+<211>  108
+<212>  PRT
+<213>  Mus musculus
+
+<400>  16
+
+Asp Ile Val Met Thr Gln Ser Gln Lys Phe Met Ser Thr Ser Val Gly 
+1               5                   10                  15      
+
+
+Asp Arg Val Ser Val Thr Cys Lys Ala Ser Gln Asn Val Gly Thr Asn 
+            20                  25                  30          
+
+
+Val Ala Trp Tyr Gln Gln Lys Pro Gly Gln Ser Pro Lys Ala Leu Ile 
+        35                  40                  45              
+
+
+Tyr Ser Ala Ser Tyr Arg Tyr Ser Gly Val Pro Asp Arg Phe Thr Gly 
+    50                  55                  60                  
+
+
+Ser Gly Ser Gly Thr Asp Phe Thr Leu Thr Ile Ser Asn Val Leu Ser 
+65                  70                  75                  80  
+
+
+Glu Asp Leu Ala Glu Tyr Phe Cys Gln Gln Phe Tyr Ser Tyr Pro Tyr 
+                85                  90                  95      
+
+
+Thr Phe Gly Gly Gly Thr Lys Leu Glu Ile Lys Arg 
+            100                 105             
+
+
+<210>  17
+<211>  108
+<212>  PRT
+<213>  Mus musculus
+
+<400>  17
+
+Asp Ile Val Met Thr Gln Ser His Lys Phe Met Ser Thr Ser Val Gly 
+1               5                   10                  15      
+
+
+Asp Arg Val Ser Ile Thr Cys Lys Ala Ser Gln Asp Val Ser Thr Ala 
+            20                  25                  30          
+
+
+Val Ala Trp Tyr Gln Gln Lys Pro Gly Gln Ser Pro Lys Leu Leu Ile 
+        35                  40                  45              
+
+
+Tyr Ser Ala Ser Tyr Arg Tyr Thr Gly Val Pro Asp Arg Phe Thr Gly 
+    50                  55                  60                  
+
+
+Ser Gly Ser Gly Thr Asp Phe Thr Phe Thr Ile Ser Ser Val Gln Ala 
+65                  70                  75                  80  
+
+
+Glu Asp Leu Ala Val Tyr Tyr Cys Gln Gln Arg Tyr Ser Thr Pro Arg 
+                85                  90                  95      
+
+
+Thr Phe Gly Gly Gly Thr Lys Leu Glu Ile Lys Arg 
+            100                 105             
+
+
+<210>  18
+<211>  107
+<212>  PRT
+<213>  Mus musculus
+
+<400>  18
+
+Asp Ile Gln Met Thr Gln Thr Thr Ser Ser Leu Ser Ala Ser Leu Gly 
+1               5                   10                  15      
+
+
+Asp Arg Val Thr Ile Ser Cys Ser Ala Ser Gln Gly Ile Ser Asn Tyr 
+            20                  25                  30          
+
+
+Leu Asn Trp Tyr Gln Gln Lys Pro Asp Gly Thr Val Lys Leu Leu Ile 
+        35                  40                  45              
+
+
+Tyr Tyr Thr Ser Ser Leu His Ser Gly Val Pro Ser Arg Phe Ser Gly 
+    50                  55                  60                  
+
+
+Ser Gly Ser Gly Thr Asp Tyr Ser Leu Thr Ile Ser Asn Leu Glu Pro 
+65                  70                  75                  80  
+
+
+Glu Asp Ile Ala Thr Tyr Tyr Cys Gln Gln Tyr Ser Lys Leu Pro Phe 
+                85                  90                  95      
+
+
+Thr Phe Gly Ser Gly Thr Lys Leu Glu Ile Lys 
+            100                 105         
+
+
+<210>  19
+<211>  108
+<212>  PRT
+<213>  Mus musculus
+
+<400>  19
+
+Asp Ile Val Met Thr Gln Ser His Lys Phe Met Ser Thr Ser Phe Gly 
+1               5                   10                  15      
+
+
+Asp Arg Val Ser Ile Thr Cys Lys Ala Ser Gln Asp Val Ser Asn Ala 
+            20                  25                  30          
+
+
+Leu Ala Trp Tyr Gln Gln Lys Pro Gly His Ser Pro Lys Leu Leu Ile 
+        35                  40                  45              
+
+
+Phe Ser Ala Ser Tyr Arg Tyr Thr Gly Val Pro Asp Arg Phe Thr Gly 
+    50                  55                  60                  
+
+
+Ser Gly Ser Gly Thr Asp Phe Thr Phe Thr Ile Ser Ser Val Gln Ala 
+65                  70                  75                  80  
+
+
+Glu Asp Leu Ala Val Tyr Tyr Cys Gln Gln His Tyr Ser Thr Pro Trp 
+                85                  90                  95      
+
+
+Thr Phe Gly Gly Gly Thr Lys Leu Glu Ile Lys Arg 
+            100                 105             
+
+
+<210>  20
+<211>  115
+<212>  PRT
+<213>  Mus musculus
+
+<400>  20
+
+Glu Val Gln Leu Gln Gln Ser Gly Pro Glu Leu Val Lys Pro Gly Ala 
+1               5                   10                  15      
+
+
+Ser Val Lys Ile Ser Cys Lys Ala Ser Gly Tyr Thr Phe Thr Asp Tyr 
+            20                  25                  30          
+
+
+Tyr Met Asn Trp Val Lys Gln Ser His Gly Lys Ser Leu Glu Trp Ile 
+        35                  40                  45              
+
+
+Gly Asp Ile Asn Pro Asn Asn Gly Gly Thr Thr Tyr Asn Gln Lys Phe 
+    50                  55                  60                  
+
+
+Lys Gly Lys Ala Thr Leu Thr Val Asp Lys Ser Tyr Ser Thr Ala Tyr 
+65                  70                  75                  80  
+
+
+Met Glu Leu Arg Ser Leu Thr Ser Glu Asp Ser Ala Val Tyr Tyr Cys 
+                85                  90                  95      
+
+
+Ala Arg Trp Leu Leu Phe Ala Tyr Trp Gly Gln Gly Thr Leu Val Thr 
+            100                 105                 110         
+
+
+Val Ser Ala 
+        115 
+
+
+<210>  21
+<211>  118
+<212>  PRT
+<213>  Mus musculus
+
+<400>  21
+
+Gln Val Gln Leu Gln Gln Pro Gly Ala Glu Leu Val Lys Pro Gly Ala 
+1               5                   10                  15      
+
+
+Ser Val Lys Leu Ser Cys Lys Ala Ser Gly Tyr Thr Phe Thr Ser Tyr 
+            20                  25                  30          
+
+
+Trp Met His Trp Val Lys Gln Arg Pro Gly Gln Gly Leu Glu Trp Ile 
+        35                  40                  45              
+
+
+Gly Glu Ile Asn Pro Ser Asn Gly Arg Thr Asn Tyr Asn Glu Lys Phe 
+    50                  55                  60                  
+
+
+Lys Ser Lys Ala Thr Leu Thr Val Asp Lys Ser Ser Ser Thr Ala Tyr 
+65                  70                  75                  80  
+
+
+Met Gln Leu Ser Ser Leu Thr Ser Glu Asp Ser Ala Val Tyr Tyr Cys 
+                85                  90                  95      
+
+
+Ala Arg Glu Arg Pro Leu Tyr Ala Met Asp Tyr Trp Gly Gln Gly Thr 
+            100                 105                 110         
+
+
+Ser Val Thr Val Ser Ser 
+        115             
+
+
+<210>  22
+<211>  123
+<212>  PRT
+<213>  Mus musculus
+
+<400>  22
+
+Glu Val Gln Leu Gln Gln Ser Gly Pro Glu Leu Val Lys Pro Gly Ala 
+1               5                   10                  15      
+
+
+Ser Val Lys Ile Ser Cys Lys Ala Ser Gly Tyr Thr Phe Thr Asp Tyr 
+            20                  25                  30          
+
+
+Tyr Met Asn Trp Val Lys Gln Ser His Gly Lys Ser Leu Glu Trp Ile 
+        35                  40                  45              
+
+
+Gly Asp Ile Asn Pro Asn Asn Gly Gly Thr Ser Tyr Asn Gln Lys Phe 
+    50                  55                  60                  
+
+
+Lys Gly Lys Ala Thr Leu Thr Val Asp Lys Ser Ser Ser Thr Ala Tyr 
+65                  70                  75                  80  
+
+
+Met Glu Leu Arg Ser Leu Thr Ser Glu Asp Ser Ala Val Tyr Tyr Cys 
+                85                  90                  95      
+
+
+Ala Gly Gly Gly Ile Tyr Tyr Arg Tyr Asp Arg Asn Tyr Phe Asp Tyr 
+            100                 105                 110         
+
+
+Trp Gly Gln Gly Thr Thr Leu Thr Val Ser Ser 
+        115                 120             
+
+
+<210>  23
+<211>  117
+<212>  PRT
+<213>  Mus musculus
+
+<400>  23
+
+Glu Val Lys Leu Val Glu Ser Glu Gly Gly Leu Val Gln Pro Gly Ser 
+1               5                   10                  15      
+
+
+Ser Met Lys Leu Ser Cys Thr Ala Ser Gly Phe Thr Phe Ser Asp Tyr 
+            20                  25                  30          
+
+
+Tyr Met Ala Trp Val Arg Gln Val Pro Glu Lys Gly Leu Glu Trp Val 
+        35                  40                  45              
+
+
+Ala Asn Ile Asn Tyr Asp Gly Ser Asn Thr Ser Tyr Leu Asp Ser Leu 
+    50                  55                  60                  
+
+
+Lys Ser Arg Phe Ile Ile Ser Arg Asp Asn Ala Lys Asn Ile Leu Tyr 
+65                  70                  75                  80  
+
+
+Leu Gln Met Ser Ser Leu Lys Ser Glu Asp Thr Ala Thr Tyr Tyr Cys 
+                85                  90                  95      
+
+
+Ala Arg Glu Lys Phe Ala Ala Met Asp Tyr Trp Gly Gln Gly Thr Ser 
+            100                 105                 110         
+
+
+Val Thr Val Ser Ser 
+        115         
+
+
+<210>  24
+<211>  15
+<212>  PRT
+<213>  Artificial
+
+<220>
+<223>  LINKING PEPTIDE
+
+<400>  24
+
+Gly Gly Gly Gly Ser Gly Gly Gly Gly Ser Gly Gly Gly Gly Ser 
+1               5                   10                  15  
+
+
+<210>  25
+<211>  642
+<212>  DNA
+<213>  Artificial
+
+<220>
+<223>  HUMANIZED LIGHT CHAIN NUCLEOTIDE SEQUENCE
+
+<400>  25
+gatatacaaa tgacacaatc tccatcctct ctttccgcat cagtcggcga ccgcgtaacc     60
+
+atcacatgta gagcttctca aggcatctcc tccgccctcg catggtacca acaaaaacca    120
+
+ggtaaagccc caaaactcct catatactca gcttcataca gatacaccgg cgtaccctca    180
+
+agattctcag gttcaggctc tggaacagac tttactttca ccatttcatc actccaaccc    240
+
+gaagacatag ctacatatta ctgccaacaa agatacagcc tctggagaac atttggccaa    300
+
+ggaacaaaac tcgagatcaa acgtacggtg gctgcaccat ctgtcttcat cttcccgcca    360
+
+tctgatgagc agttgaaatc tggaactgcc tctgttgtgt gcctgctgaa taacttctat    420
+
+cccagagagg ccaaagtaca gtggaaggtg gataacgccc tccaatcggg taactcccag    480
+
+gagagtgtca cagagcagga cagcaaggac agcacctaca gcctcagcag caccctgacg    540
+
+ctgagcaaag cagactacga gaaacacaaa gtctacgcct gcgaagtcac ccatcagggc    600
+
+ctgagctcgc ccgtcacaaa gagcttcaac aggggagagt gt                       642
+
+
+<210>  26
+<211>  1332
+<212>  DNA
+<213>  Artificial
+
+<220>
+<223>  HUMANIZED HEAVY CHAIN NUCLEOTIDE SEQUENCE
+
+<400>  26
+caagttcaac tcgttcaatc tggagcagaa gtaaaaaaac ctggcgcctc tgttaaagta     60
+
+agttgtaaag catccggtta cacattcaca tcatattaca tgcattgggt aagacaagcc    120
+
+cctggacaag gactcgaatg gatgggtgaa atctctcctt ttggcggccg aacaaactat    180
+
+aatgaaaaat ttaaatcccg cgtaactatg acccgagaca catccacatc tactgtttat    240
+
+atggaacttt cctcactgcg ttctgaagac actgctgttt attactgtgc acgcgaaaga    300
+
+cctctctacg cttccgatct ctggggccaa ggaacaacgg tcaccgtctc ctcagcctcc    360
+
+accaagggcc catctgtctt cccactggcc ccatgctccc gcagcacctc cgagagcaca    420
+
+gccgccctgg gctgcctggt caaggactac ttcccagaac ctgtgaccgt gtcctggaac    480
+
+tctggcgctc tgaccagcgg cgtgcacacc ttcccagctg tcctgcagtc ctcaggtctc    540
+
+tactccctca gcagcgtggt gaccgtgcca tccagcaact tcggcaccca gacctacacc    600
+
+tgcaacgtag atcacaagcc aagcaacacc aaggtagata agaccgtgga gagaaagtgt    660
+
+tgtgtggagt gtccaccttg tccagcccct ccagtggccg gaccatccgt gttcctgttc    720
+
+cctccaaagc caaaggacac cctgatgatc tccagaaccc cagaggtgac ctgtgtggtg    780
+
+gtggacgtgt cccacgagga cccagaggtg cagttcaact ggtatgtgga cggagtggag    840
+
+gtgcacaacg ccaagaccaa gccaagagag gagcagttca actccacctt cagagtggtg    900
+
+agcgtgctga ccgtggtgca ccaggactgg ctgaacggaa aggagtataa gtgtaaggtg    960
+
+tccaacaagg gactgccatc cagcatcgag aagaccatct ccaagaccaa gggacagcca   1020
+
+agagagccac aggtgtatac cctgccccca tccagagagg agatgaccaa gaaccaggtg   1080
+
+tccctgacct gtctggtgaa gggattctat ccatccgaca tcgccgtgga gtgggagtcc   1140
+
+aacggacagc cagagaacaa ctataagacc acccctccaa tgctggactc cgacggatcc   1200
+
+ttcttcctgt attccaagct gaccgtggac aagtccagat ggcagcaggg aaacgtgttc   1260
+
+tcttgttccg tgatgcacga ggccctgcac aaccactata cccagaagag cctgtccctg   1320
+
+tctccaggaa ag                                                       1332
+
+
+<210>  27
+<211>  11
+<212>  PRT
+<213>  Mus musculus
+
+<400>  27
+
+Lys Ala Ser Gln Asn Val Gly Thr Asn Val Ala 
+1               5                   10      
+
+
+<210>  28
+<211>  7
+<212>  PRT
+<213>  Mus musculus
+
+<400>  28
+
+Ser Ala Ser Tyr Arg Tyr Ser 
+1               5           
+
+
+<210>  29
+<211>  9
+<212>  PRT
+<213>  Mus musculus
+
+<400>  29
+
+Gln Gln Phe Tyr Ser Tyr Pro Tyr Thr 
+1               5                   
+
+
+<210>  30
+<211>  11
+<212>  PRT
+<213>  Mus musculus
+
+<400>  30
+
+Lys Ala Ser Gln Asp Val Ser Thr Ala Val Ala 
+1               5                   10      
+
+
+<210>  31
+<211>  9
+<212>  PRT
+<213>  Mus musculus
+
+<400>  31
+
+Gln Gln Arg Tyr Ser Thr Pro Arg Thr 
+1               5                   
+
+
+<210>  32
+<211>  11
+<212>  PRT
+<213>  Mus musculus
+
+<400>  32
+
+Ser Ala Ser Gln Gly Ile Ser Asn Tyr Leu Asn 
+1               5                   10      
+
+
+<210>  33
+<211>  7
+<212>  PRT
+<213>  Mus musculus
+
+<400>  33
+
+Tyr Thr Ser Ser Leu His Ser 
+1               5           
+
+
+<210>  34
+<211>  11
+<212>  PRT
+<213>  Mus musculus
+
+<400>  34
+
+Lys Ala Ser Gln Asp Val Ser Asn Ala Leu Ala 
+1               5                   10      
+
+
+<210>  35
+<211>  9
+<212>  PRT
+<213>  Mus musculus
+
+<400>  35
+
+Gln Gln His Tyr Ser Thr Pro Trp Thr 
+1               5                   
+
+
+<210>  36
+<211>  7
+<212>  PRT
+<213>  Mus musculus
+
+<400>  36
+
+Gly Tyr Thr Phe Thr Asp Tyr 
+1               5      
+
+
+<210>  37
+<211>  5
+<212>  PRT
+<213>  Mus musculus
+
+<400>  37
+
+Asp Tyr Tyr Met Asn 
+1               5   
+
+
+<210>  38
+<211>  6
+<212>  PRT
+<213>  Mus musculus
+
+<400>  38
+
+Asn Pro Asn Asn Gly Gly 
+1               5              
+
+
+<210>  39
+<211>  17
+<212>  PRT
+<213>  Mus musculus
+
+<400>  39
+
+Asp Ile Asn Pro Asn Asn Gly Gly Thr Thr Tyr Asn Gln Lys Phe Lys 
+1               5                   10                  15      
+
+
+Gly 
+    
+
+
+<210>  40
+<211>  6
+<212>  PRT
+<213>  Mus musculus
+
+<400>  40
+
+Trp Leu Leu Phe Ala Tyr 
+1               5       
+
+
+<210>  41
+<211>  7
+<212>  PRT
+<213>  Mus musculus
+
+<400>  41
+
+Gly Tyr Thr Phe Thr Ser Tyr 
+1               5    
+
+
+<210>  42
+<211>  5
+<212>  PRT
+<213>  Mus musculus
+
+<400>  42
+
+Ser Tyr Trp Met His 
+1               5   
+
+
+<210>  43
+<211>  6
+<212>  PRT
+<213>  Mus musculus
+
+<400>  43
+
+Asn Pro Ser Asn Gly Arg 
+1               5             
+
+
+<210>  44
+<211>  17
+<212>  PRT
+<213>  Mus musculus
+
+<400>  44
+
+Glu Ile Asn Pro Ser Asn Gly Arg Thr Asn Tyr Asn Glu Lys Phe Lys 
+1               5                   10                  15      
+
+
+Ser 
+    
+
+
+<210>  45
+<211>  9
+<212>  PRT
+<213>  Mus musculus
+
+<400>  45
+
+Glu Arg Pro Leu Tyr Ala Met Asp Tyr 
+1               5                   
+
+
+<210>  46
+<211>  17
+<212>  PRT
+<213>  Mus musculus
+
+<400>  46
+
+Asp Ile Asn Pro Asn Asn Gly Gly Thr Ser Tyr Asn Gln Lys Phe Lys 
+1               5                   10                  15      
+
+
+Gly 
+    
+
+
+<210>  47
+<211>  14
+<212>  PRT
+<213>  Mus musculus
+
+<400>  47
+
+Gly Gly Ile Tyr Tyr Arg Tyr Asp Arg Asn Tyr Phe Asp Tyr 
+1               5                   10                  
+
+
+<210>  48
+<211>  7
+<212>  PRT
+<213>  Mus musculus
+
+<400>  48
+
+Gly Phe Thr Phe Ser Asp Tyr 
+1               5       
+
+
+<210>  49
+<211>  5
+<212>  PRT
+<213>  Mus musculus
+
+<400>  49
+
+Asp Tyr Tyr Met Ala 
+1               5   
+
+
+<210>  50
+<211>  6
+<212>  PRT
+<213>  Mus musculus
+
+<400>  50
+
+Asn Tyr Asp Gly Ser Asn 
+1               5             
+
+
+<210>  51
+<211>  16
+<212>  PRT
+<213>  Mus musculus
+
+<400>  51
+
+Asn Ile Asn Tyr Asp Gly Ser Asn Thr Ser Tyr Leu Asp Ser Leu Lys 
+1               5                   10                  15      
+
+
+<210>  52
+<211>  8
+<212>  PRT
+<213>  Mus musculus
+
+<400>  52
+
+Glu Lys Phe Ala Ala Met Asp Tyr 
+1               5               
+
+
+<210>  53
+<211>  107
+<212>  PRT
+<213>  homo sapiens
+
+<400>  53
+
+Asp Ile Gln Met Thr Gln Ser Pro Ser Ser Leu Ser Ala Ser Val Gly 
+1               5                   10                  15      
+
+
+Asp Arg Val Thr Ile Thr Cys Arg Ala Ser Gln Gly Ile Ser Ser Ala 
+            20                  25                  30          
+
+
+Leu Ala Trp Tyr Gln Gln Lys Pro Gly Lys Ala Pro Lys Leu Leu Ile 
+        35                  40                  45              
+
+
+Tyr Ser Ala Ser Tyr Arg Tyr Thr Gly Val Pro Ser Arg Phe Ser Gly 
+    50                  55                  60                  
+
+
+Ser Gly Ser Gly Thr Asp Phe Thr Phe Thr Ile Ser Ser Leu Gln Pro 
+65                  70                  75                  80  
+
+
+Glu Asp Ile Ala Thr Tyr Tyr Cys Gln Gln Arg Tyr Ser Leu Trp Arg 
+                85                  90                  95      
+
+
+Thr Phe Gly Gln Gly Thr Lys Leu Glu Ile Lys 
+            100                 105         
+
+
+<210>  54
+<211>  118
+<212>  PRT
+<213>  homo sapiens
+
+<400>  54
+
+Gln Val Gln Leu Val Gln Ser Gly Ala Glu Val Lys Lys Pro Gly Ala 
+1               5                   10                  15      
+
+
+Ser Val Lys Val Ser Cys Lys Ala Ser Gly Tyr Thr Phe Thr Ser Tyr 
+            20                  25                  30          
+
+
+Tyr Met His Trp Val Arg Gln Ala Pro Gly Gln Gly Leu Glu Trp Met 
+        35                  40                  45              
+
+
+Gly Glu Ile Ser Pro Phe Gly Gly Arg Thr Asn Tyr Asn Glu Lys Phe 
+    50                  55                  60                  
+
+
+Lys Ser Arg Val Thr Met Thr Arg Asp Thr Ser Thr Ser Thr Val Tyr 
+65                  70                  75                  80  
+
+
+Met Glu Leu Ser Ser Leu Arg Ser Glu Asp Thr Ala Val Tyr Tyr Cys 
+                85                  90                  95      
+
+
+Ala Arg Glu Arg Pro Leu Tyr Ala Ser Asp Leu Trp Gly Gln Gly Thr 
+            100                 105                 110         
+
+
+Thr Val Thr Val Ser Ser 
+        115             
+
+
+<210>  55
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  55
+
+Gln Gln Tyr Ser Lys Leu Pro Phe Thr 
+1               5                   
+
+
+<210>  56
+<211>  10
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  56
+
+Gly Tyr Thr Phe Thr Asp Tyr Tyr Met Asn 
+1               5                   10  
+
+
+<210>  57
+<211>  10
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  57
+
+Gly Tyr Thr Phe Thr Ser Tyr Trp Met His 
+1               5                   10  
+
+
+<210>  58
+<211>  10
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  58
+
+Gly Phe Thr Phe Ser Asp Tyr Tyr Met Ala 
+1               5                   10  
+
+
+<210>  59
+<211>  10
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  59
+
+Gly Tyr Thr Phe Thr Ser Tyr Tyr Met His 
+1               5                   10  
+
+
+<210>  60
+<211>  7
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  60
+
+Gly Tyr Thr Phe Thr Ser Tyr 
+1               5           
+
+
+<210>  61
+<211>  6
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  61
+
+Ser Pro Phe Gly Gly Arg 
+1               5       
+
+
+<210>  62
+<211>  8
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  62
+
+Gln Asp Val Ser Thr Ala Val Ala 
+1               5               
+
+
+<210>  63
+<211>  11
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  63
+
+Gly Gly Thr Arg Val Val Ser Thr Ala Val Ala 
+1               5                   10      
+
+
+<210>  64
+<211>  10
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  64
+
+Arg Gly Asp Phe Val Ser Thr Ala Val Ala 
+1               5                   10  
+
+
+<210>  65
+<211>  17
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  65
+
+Glu Ile Asn Pro Ser Gly Gly Arg Thr Asn Tyr Asn Glu Lys Phe Lys 
+1               5                   10                  15      
+
+
+Ser 
+    
+
+
+<210>  66
+<211>  17
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  66
+
+Glu Ile Asn Pro Ser Ser Gly Arg Thr Asn Tyr Asn Glu Lys Phe Lys 
+1               5                   10                  15      
+
+
+Ser 
+    
+
+
+<210>  67
+<211>  17
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  67
+
+Glu Ile Asn Pro Ser Thr Gly Arg Thr Asn Tyr Asn Glu Lys Phe Lys 
+1               5                   10                  15      
+
+
+Ser 
+    
+
+
+<210>  68
+<211>  17
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  68
+
+Glu Ile Asn Pro Ser Ile Gly Arg Thr Asn Tyr Asn Glu Lys Phe Lys 
+1               5                   10                  15      
+
+
+Ser 
+    
+
+
+<210>  69
+<211>  17
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  69
+
+Glu Ile Asn Pro Ser Asp Ser Arg Thr Asn Tyr Asn Glu Lys Phe Lys 
+1               5                   10                  15      
+
+
+Ser 
+    
+
+
+<210>  70
+<211>  17
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  70
+
+Glu Ile Asn Pro Ser Gly Asn Arg Thr Asn Tyr Asn Glu Lys Phe Lys 
+1               5                   10                  15      
+
+
+Ser 
+    
+
+
+<210>  71
+<211>  17
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  71
+
+Glu Ile Asn Pro Ser Ser Ser Arg Thr Asn Tyr Asn Glu Lys Phe Lys 
+1               5                   10                  15      
+
+
+Ser 
+    
+
+
+<210>  72
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  72
+
+Glu Arg Pro Leu Tyr Ala Met Asp Tyr 
+1               5                   
+
+
+<210>  73
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  73
+
+Glu Arg Pro Leu Tyr Ala Ala Asp Tyr 
+1               5                   
+
+
+<210>  74
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  74
+
+Glu Arg Pro Leu Tyr Ala Ile Asp Tyr 
+1               5                   
+
+
+<210>  75
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  75
+
+Glu Arg Pro Leu Tyr Ala Arg Asp Tyr 
+1               5                   
+
+
+<210>  76
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  76
+
+Glu Arg Pro Leu Tyr Ala Gly Asp Tyr 
+1               5                   
+
+
+<210>  77
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  77
+
+Glu Arg Pro Leu Tyr Ala Lys Asp Tyr 
+1               5                   
+
+
+<210>  78
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  78
+
+Glu Arg Pro Leu Tyr Ala Pro Asp Tyr 
+1               5                   
+
+
+<210>  79
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  79
+
+Glu Arg Pro Leu Tyr Ala Ser Asp Tyr 
+1               5                   
+
+
+<210>  80
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  80
+
+Glu Arg Pro Leu Tyr Ala Leu Asp Tyr 
+1               5                   
+
+
+<210>  81
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  81
+
+Glu Arg Pro Leu Tyr Ala Val Asp Tyr 
+1               5                   
+
+
+<210>  82
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  82
+
+Glu Arg Pro Leu Tyr Ala Trp Asp Tyr 
+1               5                   
+
+
+<210>  83
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  83
+
+Glu Arg Pro Leu Tyr Ala His Asp Tyr 
+1               5                   
+
+
+<210>  84
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  84
+
+Glu Arg Pro Leu Tyr Ala Phe Asp Tyr 
+1               5                   
+
+
+<210>  85
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  85
+
+Glu Arg Pro Leu Tyr Ala Thr Asp Tyr 
+1               5                   
+
+
+<210>  86
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  86
+
+Gln Gln Arg Phe Ser Thr Pro Arg Thr 
+1               5                   
+
+
+<210>  87
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  87
+
+Gln Gln Arg Tyr Ser Asp Trp Arg Thr 
+1               5                   
+
+
+<210>  88
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  88
+
+Gln Gln Arg Tyr Ser Ser Trp Arg Thr 
+1               5                   
+
+
+<210>  89
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  89
+
+Gln Gln Arg Tyr Ser Thr Ala Arg Thr 
+1               5                   
+
+
+<210>  90
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  90
+
+Gln Gln Arg Tyr Ser Leu Tyr Arg Thr 
+1               5                   
+
+
+<210>  91
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  91
+
+Gln Gln Arg Tyr Ser Phe Trp Arg Thr 
+1               5                   
+
+
+<210>  92
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  92
+
+Gln Gln Arg Tyr Ser Pro Trp Arg Thr 
+1               5                   
+
+
+<210>  93
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  93
+
+Gln Gln Arg Tyr Ser Gly Trp Arg Thr 
+1               5                   
+
+
+<210>  94
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  94
+
+Gln Gln Arg Tyr Ser Ile Trp Arg Thr 
+1               5                   
+
+
+<210>  95
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  95
+
+Gln Gln Arg Tyr Ser Ala Trp Arg Thr 
+1               5                   
+
+
+<210>  96
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  96
+
+Gln Gln Arg Tyr Ser Leu Phe Arg Thr 
+1               5                   
+
+
+<210>  97
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  97
+
+Gln Gln Arg Tyr Ser Thr Arg Arg Thr 
+1               5                   
+
+
+<210>  98
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  98
+
+Gln Gln Arg Tyr Ser Thr Leu Tyr Thr 
+1               5                   
+
+
+<210>  99
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  99
+
+Gln Gln Arg Tyr Ser Thr Trp Arg Thr 
+1               5                   
+
+
+<210>  100
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  100
+
+Gln Gln Arg Tyr Ser Leu Ala Arg Thr 
+1               5                   
+
+
+<210>  101
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  101
+
+Gln Gln Arg Tyr Ser Ser Glu Arg Thr 
+1               5                   
+
+
+<210>  102
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  102
+
+Gln Gln Arg Tyr Gly Thr Ala Arg Thr 
+1               5                   
+
+
+<210>  103
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  103
+
+Gln Gln Arg Tyr Ser Gln Ala Arg Thr 
+1               5                   
+
+
+<210>  104
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  104
+
+Gln Gln Arg Tyr Ser Leu His Arg Thr 
+1               5                   
+
+
+<210>  105
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  105
+
+Gln Gln Arg Tyr Ser Gly Val Arg Thr 
+1               5                   
+
+
+<210>  106
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  106
+
+Gln Gln Arg Tyr Ser Gln Ser Arg Thr 
+1               5                   
+
+
+<210>  107
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  107
+
+Gln Gln Arg Tyr Ser Ala Glu Arg Thr 
+1               5                   
+
+
+<210>  108
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  108
+
+Gln Gln Arg Tyr Ser Gln Phe Arg Thr 
+1               5                   
+
+
+<210>  109
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  109
+
+Gln Gln Arg Tyr Ser Ser Arg Arg Thr 
+1               5                   
+
+
+<210>  110
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  110
+
+Gln Gln Arg Tyr Ser Cys Ser Arg Thr 
+1               5                   
+
+
+<210>  111
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  111
+
+Gln Gln Arg Tyr Ser Thr Asn Arg Arg 
+1               5                   
+
+
+<210>  112
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  112
+
+Gln Gln Arg Tyr Ser Arg Trp Arg Thr 
+1               5                   
+
+
+<210>  113
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  113
+
+Gln Gln Arg Tyr Ser Pro Tyr Arg Thr 
+1               5                   
+
+
+<210>  114
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  114
+
+Gln Gln Arg Tyr Ser Tyr Trp Arg Thr 
+1               5                   
+
+
+<210>  115
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  115
+
+Gln Gln Arg Tyr Ser Gly Phe Arg Thr 
+1               5                   
+
+
+<210>  116
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  116
+
+Gln Gln Arg Tyr Ser Tyr Trp Arg Thr 
+1               5                   
+
+
+<210>  117
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  117
+
+Gln Gln Arg Tyr Ser Phe Lys Arg Thr 
+1               5                   
+
+
+<210>  118
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  118
+
+Gln Gln Arg Tyr Ser Ala Arg Arg Thr 
+1               5                   
+
+
+<210>  119
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  119
+
+Gln Gln Arg Tyr Ser Arg Tyr Arg Thr 
+1               5                   
+
+
+<210>  120
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  120
+
+Gln Gln Arg Tyr Ser Leu Gln Arg Thr 
+1               5                   
+
+
+<210>  121
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  121
+
+Gln Gln Arg Tyr Ser Thr Ser Arg Thr 
+1               5                   
+
+
+<210>  122
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  122
+
+Gln Gln Arg Tyr Ser His Ala Arg Thr 
+1               5                   
+
+
+<210>  123
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  123
+
+Gln Gln Arg Tyr Ser Lys Tyr Arg Thr 
+1               5                   
+
+
+<210>  124
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  124
+
+Gln Gln Arg Tyr Ser Gln Ser Arg Thr 
+1               5                   
+
+
+<210>  125
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  125
+
+Gln Gln Arg Tyr Ser Thr Ala Phe Thr 
+1               5                   
+
+
+<210>  126
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  126
+
+Gln Gln Arg Tyr Ser Thr Cys Cys Thr 
+1               5                   
+
+
+<210>  127
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  127
+
+Gln Gln Arg Tyr Ser Thr Asp Arg Thr 
+1               5                   
+
+
+<210>  128
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  128
+
+Gln Gln Arg Tyr Ser Glu Asp Arg Thr 
+1               5                   
+
+
+<210>  129
+<211>  8
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  129
+
+Gln Gln Arg Tyr Val Gly Arg Thr 
+1               5               
+
+
+<210>  130
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  130
+
+Gln Gln Arg Tyr Ser Leu Ser Arg Thr 
+1               5                   
+
+
+<210>  131
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  131
+
+Gln Gln Arg Tyr Ser Leu Gly Arg Thr 
+1               5                   
+
+
+<210>  132
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  132
+
+Gln Gln Arg Tyr Ser Arg Ala Arg Thr 
+1               5                   
+
+
+<210>  133
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  133
+
+Gln Gln Arg Tyr Ser His Ala Arg Thr 
+1               5                   
+
+
+<210>  134
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  134
+
+Gln Gln Arg Tyr Ser Thr Pro Asp Thr 
+1               5                   
+
+
+<210>  135
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  135
+
+Gln Gln Arg Tyr Gln Gln Pro Arg Thr 
+1               5                   
+
+
+<210>  136
+<211>  17
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  136
+
+Glu Ile Gln Val Ser Gly Gly Arg Thr Asn Tyr Asn Glu Lys Phe Lys 
+1               5                   10                  15      
+
+
+Ser 
+    
+
+
+<210>  137
+<211>  17
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  137
+
+Glu Ile Asn Pro Trp Gln Gly Arg Thr Asn Tyr Asn Glu Lys Phe Lys 
+1               5                   10                  15      
+
+
+Ser 
+    
+
+
+<210>  138
+<211>  17
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  138
+
+Glu Ile Asn Pro Val Gln Gly Arg Thr Asn Tyr Asn Glu Lys Phe Lys 
+1               5                   10                  15      
+
+
+Ser 
+    
+
+
+<210>  139
+<211>  17
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  139
+
+Glu Ile Ser Pro Tyr Gly Gly Arg Thr Asn Tyr Asn Glu Lys Phe Lys 
+1               5                   10                  15      
+
+
+Ser 
+    
+
+
+<210>  140
+<211>  17
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  140
+
+Glu Ile Gln Glu Ser Gly Gly Arg Thr Asn Tyr Asn Glu Lys Phe Lys 
+1               5                   10                  15      
+
+
+Ser 
+    
+
+
+<210>  141
+<211>  17
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  141
+
+Glu Ile Ser Pro Ile Gly Gly Arg Thr Asn Tyr Asn Glu Lys Phe Lys 
+1               5                   10                  15      
+
+
+Ser 
+    
+
+
+<210>  142
+<211>  17
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  142
+
+Glu Ile Asn Pro Glu His Gly Arg Thr Asn Tyr Asn Glu Lys Phe Lys 
+1               5                   10                  15      
+
+
+Ser 
+    
+
+
+<210>  143
+<211>  17
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  143
+
+Glu Ile Asn Pro Ser Glu Gly Arg Thr Asn Tyr Asn Glu Lys Phe Lys 
+1               5                   10                  15      
+
+
+Ser 
+    
+
+
+<210>  144
+<211>  17
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  144
+
+Glu Ile Asn Pro Trp Met Gly Arg Thr Asn Tyr Asn Glu Lys Phe Lys 
+1               5                   10                  15      
+
+
+Ser 
+    
+
+
+<210>  145
+<211>  17
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  145
+
+Glu Ile Asn Pro Gln Gly Gly Arg Thr Asn Tyr Asn Glu Lys Phe Lys 
+1               5                   10                  15      
+
+
+Ser 
+    
+
+
+<210>  146
+<211>  17
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  146
+
+Glu Ile Asn Pro Val Lys Gly Arg Thr Asn Tyr Asn Glu Lys Phe Lys 
+1               5                   10                  15      
+
+
+Ser 
+    
+
+
+<210>  147
+<211>  17
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  147
+
+Glu Ile Gly Pro Trp Gly Gly Arg Thr Asn Tyr Asn Glu Lys Phe Lys 
+1               5                   10                  15      
+
+
+Ser 
+    
+
+
+<210>  148
+<211>  17
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  148
+
+Glu Ile Asn Pro Ile Gly Gly Arg Thr Asn Tyr Asn Glu Lys Phe Lys 
+1               5                   10                  15      
+
+
+Ser 
+    
+
+
+<210>  149
+<211>  17
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  149
+
+Glu Ile Gln Ile Ser Gly Gly Arg Thr Asn Tyr Asn Glu Lys Phe Lys 
+1               5                   10                  15      
+
+
+Ser 
+    
+
+
+<210>  150
+<211>  17
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  150
+
+Glu Ile Asn Pro Gln Gly Thr Arg Thr Asn Tyr Asn Glu Lys Phe Lys 
+1               5                   10                  15      
+
+
+Ser 
+    
+
+
+<210>  151
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  151
+
+Glu Arg Pro Leu Tyr Ala Ser Asp Ser 
+1               5                   
+
+
+<210>  152
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  152
+
+Glu Arg Pro Leu Tyr Ala Ser Asp Arg 
+1               5                   
+
+
+<210>  153
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  153
+
+Glu Arg Pro Leu Tyr Ala Met Asp Arg 
+1               5                   
+
+
+<210>  154
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  154
+
+Glu Arg Pro Leu Tyr Ala Asn Asp Ala 
+1               5                   
+
+
+<210>  155
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  155
+
+Glu Arg Pro Leu Tyr Ala Asn Asp Val 
+1               5                   
+
+
+<210>  156
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  156
+
+Glu Arg Pro Leu Tyr Ala His Asp Val 
+1               5                   
+
+
+<210>  157
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  157
+
+Glu Arg Pro Leu Tyr Ala Ser Asp Tyr 
+1               5                   
+
+
+<210>  158
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  158
+
+Glu Arg Pro Leu Tyr Ala Ser Asp Val 
+1               5                   
+
+
+<210>  159
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  159
+
+Glu Arg Pro Leu Tyr Ala Ser Asp Ala 
+1               5                   
+
+
+<210>  160
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  160
+
+Glu Arg Pro Leu Tyr Ala Asn Asp Ser 
+1               5                   
+
+
+<210>  161
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  161
+
+Glu Arg Pro Leu Tyr Ala Thr Asp Leu 
+1               5                   
+
+
+<210>  162
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  162
+
+Glu Arg Pro Leu Tyr Ala Ser Asp Ser 
+1               5                   
+
+
+<210>  163
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  163
+
+Glu Arg Pro Leu Tyr Ala Asn Asp Met 
+1               5                   
+
+
+<210>  164
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  164
+
+Glu Arg Pro Leu Tyr Ala His Asp Leu 
+1               5                   
+
+
+<210>  165
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  165
+
+Glu Arg Pro Leu Tyr Ala His Asp Ile 
+1               5                   
+
+
+<210>  166
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  166
+
+Glu Arg Pro Leu Tyr Ala Asn Asp Val 
+1               5                   
+
+
+<210>  167
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  167
+
+Glu Arg Pro Leu Tyr Ala Ser Asp Tyr 
+1               5                   
+
+
+<210>  168
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  168
+
+Glu Arg Pro Leu Tyr Ala Ser Asp Arg 
+1               5                   
+
+
+<210>  169
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  169
+
+Glu Arg Pro Leu Tyr Ala Ser Asp Val 
+1               5                   
+
+
+<210>  170
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  170
+
+Glu Arg Pro Leu Tyr Ala His Asp Val 
+1               5                   
+
+
+<210>  171
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  171
+
+Glu Arg Pro Leu Tyr Ala Asn Asp Met 
+1               5                   
+
+
+<210>  172
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  172
+
+Glu Arg Pro Leu Tyr Ala His Asp Leu 
+1               5                   
+
+
+<210>  173
+<211>  17
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  173
+
+Glu Ile Asn Pro Trp Gln Gly Arg Thr Asn Tyr Asn Glu Lys Phe Lys 
+1               5                   10                  15      
+
+
+Ser 
+    
+
+
+<210>  174
+<211>  17
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  174
+
+Glu Ile Asn Pro Val Gln Gly Arg Thr Asn Tyr Asn Glu Lys Phe Lys 
+1               5                   10                  15      
+
+
+Ser 
+    
+
+
+<210>  175
+<211>  17
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  175
+
+Glu Ile Ser Pro Tyr Gly Gly Arg Thr Asn Tyr Asn Glu Lys Phe Lys 
+1               5                   10                  15      
+
+
+Ser 
+    
+
+
+<210>  176
+<211>  17
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  176
+
+Glu Ile Gly Pro Trp Gly Gly Arg Thr Asn Tyr Asn Glu Lys Phe Lys 
+1               5                   10                  15      
+
+
+Ser 
+    
+
+
+<210>  177
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  177
+
+Gln Gln Arg Tyr Ser Asp Trp Arg Thr 
+1               5                   
+
+
+<210>  178
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  178
+
+Gln Gln Arg Tyr Ser Ser Trp Arg Thr 
+1               5                   
+
+
+<210>  179
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  179
+
+Gln Gln Arg Tyr Ser Ala Glu Arg Thr 
+1               5                   
+
+
+<210>  180
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  180
+
+Gln Gln Arg Tyr Ser Leu His Arg Thr 
+1               5                   
+
+
+<210>  181
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  181
+
+Gln Gln Arg Tyr Ser Ser Glu Arg Thr 
+1               5                   
+
+
+<210>  182
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  182
+
+Gln Gln Arg Tyr Ser Leu Gln Arg Thr 
+1               5                   
+
+
+<210>  183
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  183
+
+Gln Gln Arg Tyr Ser Thr Arg Arg Thr 
+1               5                   
+
+
+<210>  184
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  184
+
+Gln Gln Arg Tyr Ser Asp Trp Arg Thr 
+1               5                   
+
+
+<210>  185
+<211>  17
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  185
+
+Glu Ile Ser Pro Tyr Gly Gly Arg Thr Asn Tyr Asn Glu Lys Phe Lys 
+1               5                   10                  15      
+
+
+Ser 
+    
+
+
+<210>  186
+<211>  9
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  186
+
+Gln Gln Arg Tyr Ser Arg Ser Arg Thr 
+1               5                   
+
+
+<210>  187
+<211>  7
+<212>  PRT
+<213>  Artificial Sequence
+
+<220>
+<223>  Synthetic
+
+<400>  187
+
+Asp Ala Ser Asn Arg Ala Thr 
+1               5           
