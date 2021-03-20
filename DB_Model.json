@@ -1,16 +1,23 @@
-[
-   {
-      "patentId": "US008080243B2",
-      "patentNumber": "US 8,080,243 B2",
-      "patentFiled": "2009-09-11",
-      "patentDate": "2011-12-20",
-      "patentName": "ISOLATIED ANTIBODY WHICH SPECIFICALLY BINDS TO PCSK9",
-      "patentAssignees": "Riuut Neuruscience Corp.. Swah Sau Francisco, CA (US). Pfizer Inc New York, NY (US)",
-      "patentSeqListing": "PC33718A_SequenceListing.txt",
-      "patentSequences": {
-         "seqId": "53",
-         "epitopeResidues": "153, 154, 155, 194, 195, 197, 237, 238, 239, 367, 369, 374, 375, 376, 377, 378, 379, 381"
-      },
-      "patentLegalOpinion": ""
-   }
-]
+{
+    "id": ""                                                   // the db doc id
+    "jobId": ""                                                // the upload job Id 
+    "docId": "US008080243B2",                                  // 10
+    "docType": "patent|patent_app",                            // 12 
+    "appNums": ["12/474,176"],                                 // 21
+    "appDates": [""],                                          // 22
+    "preGrantDate": "",                                        // 44 
+    "claimsDate": "",                                          // 46
+    "grantDate": "",                                           // 45
+    "title": "",                                               // 54
+    "relatedDocs": [{"number":"", "date":""}]                  // 60-68
+    "applicants": [""],                                        // 71
+    "inventors": [""],                                         // 72
+    "assignees": [""],                                         // 73
+    "patentAttorney": "",                                      // 74
+    "sequences": [{"seqNoId": "", "seqRef": ""}],              // mined
+    "proteinIds": "PCSK9",                                     // entered by user
+    "epitopes": [{"seqNoId": 53, "numbers": [1,3,5,7]}],       // mined
+    "legalOpinion":[{"txt": "", "date":"", "userId":""}],      // added by lawyers
+    "legalStatus": [{"status":"", "date":""}]                  // valid values are "allowed,re-issued,invalidated,under_challenge!
+    "created": "",                                             // db created time
+}
