@@ -19,5 +19,6 @@
     "epitopes": [{"seqNoId": 53, "numbers": [1,3,5,7]}],       // mined
     "legalOpinion":[{"txt": "", "date":"", "userId":""}],      // added by lawyers
     "legalStatus": [{"status":"", "date":""}]                  // valid values are "allowed,re-issued,invalidated,under_challenge!
-    "created": "",                                             // db created time
+    "created": ""                                              // db created time
 }
+// review the wipo standard ST.9 for the description of the fields https://www.wipo.int/export/sites/www/standards/en/pdf/03-09-01.pdf 
