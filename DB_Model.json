@@ -15,7 +15,7 @@
     "assignees": [""],                                         // 73
     "patentAttorney": "",                                      // 74
     "sequences": [{"seqNoId": "", "seqRef": ""}],              // mined
-    "proteinIds": "PCSK9",                                     // entered by user
+    "proteinId": "PCSK9",                                      // entered by user
     "epitopes": [{"seqNoId": 53, "numbers": [1,3,5,7]}],       // mined
     "legalOpinion":[{"txt": "", "date":"", "userId":""}],      // added by lawyers
     "legalStatus": [{"status":"", "date":""}]                  // valid values are "allowed,re-issued,invalidated,under_challenge!
