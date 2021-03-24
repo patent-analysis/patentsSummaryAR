@@ -1,24 +1,631 @@
 {
-    "id": ""                                                   // the db doc id
-    "jobId": ""                                                // the upload job Id 
-    "docId": "US008080243B2",                                  // 10
-    "docType": "patent|patent_app",                            // 12 
-    "appNums": ["12/474,176"],                                 // 21
-    "appDates": [""],                                          // 22
-    "preGrantDate": "",                                        // 44 
-    "claimsDate": "",                                          // 46
-    "grantDate": "",                                           // 45
-    "title": "",                                               // 54
-    "relatedDocs": [{"number":"", "date":""}]                  // 60-68
-    "applicants": [""],                                        // 71
-    "inventors": [""],                                         // 72
-    "assignees": [""],                                         // 73
-    "patentAttorney": "",                                      // 74
-    "sequences": [{"seqNoId": "", "seqRef": ""}],              // mined
-    "proteinId": "PCSK9",                                      // entered by user
-    "epitopes": [{"seqNoId": 53, "numbers": [1,3,5,7]}],       // mined
-    "legalOpinion":[{"txt": "", "date":"", "userId":""}],      // added by lawyers
-    "legalStatus": [{"status":"", "date":""}]                  // valid values are "allowed,re-issued,invalidated,under_challenge!
-    "created": ""                                              // db created time
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "http://example.com/example.json",
+    "type": "object",
+    "title": "The root schema",
+    "description": "The root schema comprises the entire JSON document.",
+    "default": {},
+    "examples": [
+        {
+            "id": "8741564399646",
+            "jobId": "615IKHF233214ANS234AUGf564",
+            "docId": "US08399646B2",
+            "docNumber": "08399646",
+            "docDate": "2020-03-09T00:00:00.000Z",
+            "docType": "patent|patent_app",
+            "appNumber": "16039511",
+            "appDate": "2020-03-09T00:00:00.000Z",
+            "title": "Isolated nucleic acid encoding an antibody which specifically binds to PCSK9 and a host cell that produces the antibody",
+            "claimsCount": 14,
+            "relatedDocs": [
+                {
+                    "number": "",
+                    "date": ""
+                }
+            ],
+            "applicants": [
+                "Liang, Hong",
+                "Abdiche, Yasmina Noubia"
+            ],
+            "inventors": [
+                "Liang, Hong",
+                "Abdiche, Yasmina Noubia"
+            ],
+            "assignees": [
+                "Rinat Neuroscience Corp",
+                "Pfizer Inc."
+            ],
+            "examiners": [
+                "Chandra, Gyan"
+            ],
+            "sequenceCount": 187,
+            "proteinId": "PCSK9",
+            "claimedResidues": [
+                {
+                    "seqNoId": 53,
+                    "numbers": [
+                        1,
+                        3,
+                        5,
+                        7
+                    ]
+                }
+            ],
+            "legalOpinion": [
+                {
+                    "txt": "This is a legal opinion text",
+                    "date": "2020-03-09T00:00:00.000Z",
+                    "userId": "615IKHF233214ANS234AUGf564"
+                }
+            ],
+            "legalStatus": [
+                {
+                    "status": "challenged",
+                    "date": "2020-03-09T00:00:00.000Z"
+                }
+            ],
+            "created": "2020-03-09T00:00:00.000Z"
+        }
+    ],
+    "required": [
+        "id",
+        "jobId",
+        "docId",
+        "docNumber",
+        "docDate",
+        "docType",
+        "appNumber",
+        "appDate",
+        "title",
+        "claimsCount",
+        "relatedDocs",
+        "applicants",
+        "inventors",
+        "assignees",
+        "examiners",
+        "sequenceCount",
+        "proteinId",
+        "claimedResidues",
+        "legalOpinion",
+        "legalStatus",
+        "created"
+    ],
+    "properties": {
+        "id": {
+            "$id": "#/properties/id",
+            "type": "string",
+            "title": "The id schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "8741564399646"
+            ]
+        },
+        "jobId": {
+            "$id": "#/properties/jobId",
+            "type": "string",
+            "title": "The jobId schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "615IKHF233214ANS234AUGf564"
+            ]
+        },
+        "docId": {
+            "$id": "#/properties/docId",
+            "type": "string",
+            "title": "The docId schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "US08399646B2"
+            ]
+        },
+        "docNumber": {
+            "$id": "#/properties/docNumber",
+            "type": "string",
+            "title": "The docNumber schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "08399646"
+            ]
+        },
+        "docDate": {
+            "$id": "#/properties/docDate",
+            "type": "string",
+            "title": "The docDate schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "2020-03-09T00:00:00.000Z"
+            ]
+        },
+        "docType": {
+            "$id": "#/properties/docType",
+            "type": "string",
+            "title": "The docType schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "patent|patent_app"
+            ]
+        },
+        "appNumber": {
+            "$id": "#/properties/appNumber",
+            "type": "string",
+            "title": "The appNumber schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "16039511"
+            ]
+        },
+        "appDate": {
+            "$id": "#/properties/appDate",
+            "type": "string",
+            "title": "The appDate schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "2020-03-09T00:00:00.000Z"
+            ]
+        },
+        "title": {
+            "$id": "#/properties/title",
+            "type": "string",
+            "title": "The title schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "Isolated nucleic acid encoding an antibody which specifically binds to PCSK9 and a host cell that produces the antibody"
+            ]
+        },
+        "claimsCount": {
+            "$id": "#/properties/claimsCount",
+            "type": "integer",
+            "title": "The claimsCount schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": 0,
+            "examples": [
+                14
+            ]
+        },
+        "relatedDocs": {
+            "$id": "#/properties/relatedDocs",
+            "type": "array",
+            "title": "The relatedDocs schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": [],
+            "examples": [
+                [
+                    {
+                        "number": "",
+                        "date": ""
+                    }
+                ]
+            ],
+            "additionalItems": true,
+            "items": {
+                "$id": "#/properties/relatedDocs/items",
+                "anyOf": [
+                    {
+                        "$id": "#/properties/relatedDocs/items/anyOf/0",
+                        "type": "object",
+                        "title": "The first anyOf schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": {},
+                        "examples": [
+                            {
+                                "number": "",
+                                "date": ""
+                            }
+                        ],
+                        "required": [
+                            "number",
+                            "date"
+                        ],
+                        "properties": {
+                            "number": {
+                                "$id": "#/properties/relatedDocs/items/anyOf/0/properties/number",
+                                "type": "string",
+                                "title": "The number schema",
+                                "description": "An explanation about the purpose of this instance.",
+                                "default": "",
+                                "examples": [
+                                    ""
+                                ]
+                            },
+                            "date": {
+                                "$id": "#/properties/relatedDocs/items/anyOf/0/properties/date",
+                                "type": "string",
+                                "title": "The date schema",
+                                "description": "An explanation about the purpose of this instance.",
+                                "default": "",
+                                "examples": [
+                                    ""
+                                ]
+                            }
+                        },
+                        "additionalProperties": true
+                    }
+                ]
+            }
+        },
+        "applicants": {
+            "$id": "#/properties/applicants",
+            "type": "array",
+            "title": "The applicants schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": [],
+            "examples": [
+                [
+                    "Liang, Hong",
+                    "Abdiche, Yasmina Noubia"
+                ]
+            ],
+            "additionalItems": true,
+            "items": {
+                "$id": "#/properties/applicants/items",
+                "anyOf": [
+                    {
+                        "$id": "#/properties/applicants/items/anyOf/0",
+                        "type": "string",
+                        "title": "The first anyOf schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": "",
+                        "examples": [
+                            "Liang, Hong",
+                            "Abdiche, Yasmina Noubia"
+                        ]
+                    }
+                ]
+            }
+        },
+        "inventors": {
+            "$id": "#/properties/inventors",
+            "type": "array",
+            "title": "The inventors schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": [],
+            "examples": [
+                [
+                    "Liang, Hong",
+                    "Abdiche, Yasmina Noubia"
+                ]
+            ],
+            "additionalItems": true,
+            "items": {
+                "$id": "#/properties/inventors/items",
+                "anyOf": [
+                    {
+                        "$id": "#/properties/inventors/items/anyOf/0",
+                        "type": "string",
+                        "title": "The first anyOf schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": "",
+                        "examples": [
+                            "Liang, Hong",
+                            "Abdiche, Yasmina Noubia"
+                        ]
+                    }
+                ]
+            }
+        },
+        "assignees": {
+            "$id": "#/properties/assignees",
+            "type": "array",
+            "title": "The assignees schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": [],
+            "examples": [
+                [
+                    "Rinat Neuroscience Corp",
+                    "Pfizer Inc."
+                ]
+            ],
+            "additionalItems": true,
+            "items": {
+                "$id": "#/properties/assignees/items",
+                "anyOf": [
+                    {
+                        "$id": "#/properties/assignees/items/anyOf/0",
+                        "type": "string",
+                        "title": "The first anyOf schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": "",
+                        "examples": [
+                            "Rinat Neuroscience Corp",
+                            "Pfizer Inc."
+                        ]
+                    }
+                ]
+            }
+        },
+        "examiners": {
+            "$id": "#/properties/examiners",
+            "type": "array",
+            "title": "The examiners schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": [],
+            "examples": [
+                [
+                    "Chandra, Gyan"
+                ]
+            ],
+            "additionalItems": true,
+            "items": {
+                "$id": "#/properties/examiners/items",
+                "anyOf": [
+                    {
+                        "$id": "#/properties/examiners/items/anyOf/0",
+                        "type": "string",
+                        "title": "The first anyOf schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": "",
+                        "examples": [
+                            "Chandra, Gyan"
+                        ]
+                    }
+                ]
+            }
+        },
+        "sequenceCount": {
+            "$id": "#/properties/sequenceCount",
+            "type": "integer",
+            "title": "The sequenceCount schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": 0,
+            "examples": [
+                187
+            ]
+        },
+        "proteinId": {
+            "$id": "#/properties/proteinId",
+            "type": "string",
+            "title": "The proteinId schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "PCSK9"
+            ]
+        },
+        "claimedResidues": {
+            "$id": "#/properties/claimedResidues",
+            "type": "array",
+            "title": "The claimedResidues schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": [],
+            "examples": [
+                [
+                    {
+                        "seqNoId": 53,
+                        "numbers": [
+                            1,
+                            3,
+                            5,
+                            7
+                        ]
+                    }
+                ]
+            ],
+            "additionalItems": true,
+            "items": {
+                "$id": "#/properties/claimedResidues/items",
+                "anyOf": [
+                    {
+                        "$id": "#/properties/claimedResidues/items/anyOf/0",
+                        "type": "object",
+                        "title": "The first anyOf schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": {},
+                        "examples": [
+                            {
+                                "seqNoId": 53,
+                                "numbers": [
+                                    1,
+                                    3,
+                                    5,
+                                    7
+                                ]
+                            }
+                        ],
+                        "required": [
+                            "seqNoId",
+                            "numbers"
+                        ],
+                        "properties": {
+                            "seqNoId": {
+                                "$id": "#/properties/claimedResidues/items/anyOf/0/properties/seqNoId",
+                                "type": "integer",
+                                "title": "The seqNoId schema",
+                                "description": "An explanation about the purpose of this instance.",
+                                "default": 0,
+                                "examples": [
+                                    53
+                                ]
+                            },
+                            "numbers": {
+                                "$id": "#/properties/claimedResidues/items/anyOf/0/properties/numbers",
+                                "type": "array",
+                                "title": "The numbers schema",
+                                "description": "An explanation about the purpose of this instance.",
+                                "default": [],
+                                "examples": [
+                                    [
+                                        1,
+                                        3
+                                    ]
+                                ],
+                                "additionalItems": true,
+                                "items": {
+                                    "$id": "#/properties/claimedResidues/items/anyOf/0/properties/numbers/items",
+                                    "anyOf": [
+                                        {
+                                            "$id": "#/properties/claimedResidues/items/anyOf/0/properties/numbers/items/anyOf/0",
+                                            "type": "integer",
+                                            "title": "The first anyOf schema",
+                                            "description": "An explanation about the purpose of this instance.",
+                                            "default": 0,
+                                            "examples": [
+                                                1,
+                                                3
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "additionalProperties": true
+                    }
+                ]
+            }
+        },
+        "legalOpinion": {
+            "$id": "#/properties/legalOpinion",
+            "type": "array",
+            "title": "The legalOpinion schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": [],
+            "examples": [
+                [
+                    {
+                        "txt": "This is a legal opinion text",
+                        "date": "2020-03-09T00:00:00.000Z",
+                        "userId": "615IKHF233214ANS234AUGf564"
+                    }
+                ]
+            ],
+            "additionalItems": true,
+            "items": {
+                "$id": "#/properties/legalOpinion/items",
+                "anyOf": [
+                    {
+                        "$id": "#/properties/legalOpinion/items/anyOf/0",
+                        "type": "object",
+                        "title": "The first anyOf schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": {},
+                        "examples": [
+                            {
+                                "txt": "This is a legal opinion text",
+                                "date": "2020-03-09T00:00:00.000Z",
+                                "userId": "615IKHF233214ANS234AUGf564"
+                            }
+                        ],
+                        "required": [
+                            "txt",
+                            "date",
+                            "userId"
+                        ],
+                        "properties": {
+                            "txt": {
+                                "$id": "#/properties/legalOpinion/items/anyOf/0/properties/txt",
+                                "type": "string",
+                                "title": "The txt schema",
+                                "description": "An explanation about the purpose of this instance.",
+                                "default": "",
+                                "examples": [
+                                    "This is a legal opinion text"
+                                ]
+                            },
+                            "date": {
+                                "$id": "#/properties/legalOpinion/items/anyOf/0/properties/date",
+                                "type": "string",
+                                "title": "The date schema",
+                                "description": "An explanation about the purpose of this instance.",
+                                "default": "",
+                                "examples": [
+                                    "2020-03-09T00:00:00.000Z"
+                                ]
+                            },
+                            "userId": {
+                                "$id": "#/properties/legalOpinion/items/anyOf/0/properties/userId",
+                                "type": "string",
+                                "title": "The userId schema",
+                                "description": "An explanation about the purpose of this instance.",
+                                "default": "",
+                                "examples": [
+                                    "615IKHF233214ANS234AUGf564"
+                                ]
+                            }
+                        },
+                        "additionalProperties": true
+                    }
+                ]
+            }
+        },
+        "legalStatus": {
+            "$id": "#/properties/legalStatus",
+            "type": "array",
+            "title": "The legalStatus schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": [],
+            "examples": [
+                [
+                    {
+                        "status": "challenged",
+                        "date": "2020-03-09T00:00:00.000Z"
+                    }
+                ]
+            ],
+            "additionalItems": true,
+            "items": {
+                "$id": "#/properties/legalStatus/items",
+                "anyOf": [
+                    {
+                        "$id": "#/properties/legalStatus/items/anyOf/0",
+                        "type": "object",
+                        "title": "The first anyOf schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": {},
+                        "examples": [
+                            {
+                                "status": "challenged",
+                                "date": "2020-03-09T00:00:00.000Z"
+                            }
+                        ],
+                        "required": [
+                            "status",
+                            "date"
+                        ],
+                        "properties": {
+                            "status": {
+                                "$id": "#/properties/legalStatus/items/anyOf/0/properties/status",
+                                "type": "string",
+                                "title": "The status schema",
+                                "description": "An explanation about the purpose of this instance.",
+                                "default": "",
+                                "examples": [
+                                    "challenged"
+                                ]
+                            },
+                            "date": {
+                                "$id": "#/properties/legalStatus/items/anyOf/0/properties/date",
+                                "type": "string",
+                                "title": "The date schema",
+                                "description": "An explanation about the purpose of this instance.",
+                                "default": "",
+                                "examples": [
+                                    "2020-03-09T00:00:00.000Z"
+                                ]
+                            }
+                        },
+                        "additionalProperties": true
+                    }
+                ]
+            }
+        },
+        "created": {
+            "$id": "#/properties/created",
+            "type": "string",
+            "title": "The created schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "2020-03-09T00:00:00.000Z"
+            ]
+        }
+    },
+    "additionalProperties": true
 }
-// review the wipo standard ST.9 for the description of the fields https://www.wipo.int/export/sites/www/standards/en/pdf/03-09-01.pdf 
