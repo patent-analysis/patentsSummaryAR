@@ -1,0 +1,136 @@
+{
+    "$id": "http://example.com/example.json",
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "default": {},
+    "description": "The root schema comprises the entire JSON document.",
+    "examples": [
+        {
+            "id": "8741564399646",
+            "refDocId": "US08399646B2",
+            "refDocNumber": "08399646",
+            "seqIdNo": 10,
+            "length": 200,
+            "type": "DNA|RNA|PRT",
+            "organism": "Artificial Sequence",
+            "relevantInfo": "VARIABLE HEAVY CHAIN CDR",
+            "text": "Glu Ile Ser Pro Phe Gly Gly Arg Thr Asn Tyr Asn Glu Lys Phe Lys",
+            "created": "2020-03-09T00:00:00.000Z"
+        }
+    ],
+    "required": [
+        "id",
+        "refDocId",
+        "refDocNumber",
+        "seqIdNo",
+        "length",
+        "type",
+        "organism",
+        "text",
+        "created"
+    ],
+    "title": "The root schema",
+    "type": "object",
+    "properties": {
+        "id": {
+            "$id": "#/properties/id",
+            "type": "string",
+            "title": "The id schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "8741564399646"
+            ]
+        },
+        "refDocId": {
+            "$id": "#/properties/refDocId",
+            "type": "string",
+            "title": "The refDocId schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "US08399646B2"
+            ]
+        },
+        "refDocNumber": {
+            "$id": "#/properties/refDocNumber",
+            "type": "string",
+            "title": "The refDocNumber schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "08399646"
+            ]
+        },
+        "seqIdNo": {
+            "$id": "#/properties/seqIdNo",
+            "type": "integer",
+            "title": "The seqIdNo schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": 0,
+            "examples": [
+                10
+            ]
+        },
+        "length": {
+            "$id": "#/properties/length",
+            "type": "integer",
+            "title": "The length schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": 0,
+            "examples": [
+                200
+            ]
+        },
+        "type": {
+            "$id": "#/properties/type",
+            "type": "string",
+            "title": "The type schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "DNA|RNA|PRT"
+            ]
+        },
+        "organism": {
+            "$id": "#/properties/organism",
+            "type": "string",
+            "title": "The organism schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "Artificial Sequence"
+            ]
+        },
+        "relevantInfo": {
+            "$id": "#/properties/relevantInfo",
+            "default": "",
+            "description": "An explanation about the purpose of this instance.",
+            "examples": [
+                "VARIABLE HEAVY CHAIN CDR"
+            ],
+            "title": "The relevantInfo schema",
+            "type": "string"
+        },
+        "text": {
+            "$id": "#/properties/text",
+            "type": "string",
+            "title": "The text schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "Glu Ile Ser Pro Phe Gly Gly Arg Thr Asn Tyr Asn Glu Lys Phe Lys"
+            ]
+        },
+        "created": {
+            "$id": "#/properties/created",
+            "type": "string",
+            "title": "The created schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "2020-03-09T00:00:00.000Z"
+            ]
+        }
+    },
+    "additionalProperties": true
+}
