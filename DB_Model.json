@@ -43,11 +43,15 @@
             "claimedResidues": [
                 {
                     "seqNoId": 53,
-                    "numbers": [
-                        1,
-                        3,
-                        5,
-                        7
+                    "values": [
+                        {
+                            "num": 1,
+                            "code": "Gly"
+                        },
+                        {
+                            "num": 3,
+                            "code": "Tyr"
+                        }
                     ]
                 }
             ],
@@ -400,11 +404,15 @@
                 [
                     {
                         "seqNoId": 53,
-                        "numbers": [
-                            1,
-                            3,
-                            5,
-                            7
+                        "values": [
+                            {
+                                "num": 1,
+                                "code": "Gly"
+                            },
+                            {
+                                "num": 3,
+                                "code": "Tyr"
+                            }
                         ]
                     }
                 ]
@@ -422,17 +430,21 @@
                         "examples": [
                             {
                                 "seqNoId": 53,
-                                "numbers": [
-                                    1,
-                                    3,
-                                    5,
-                                    7
+                                "values": [
+                                    {
+                                        "num": 1,
+                                        "code": "Gly"
+                                    },
+                                    {
+                                        "num": 3,
+                                        "code": "Tyr"
+                                    }
                                 ]
                             }
                         ],
                         "required": [
                             "seqNoId",
-                            "numbers"
+                            "values"
                         ],
                         "properties": {
                             "seqNoId": {
@@ -445,32 +457,67 @@
                                     53
                                 ]
                             },
-                            "numbers": {
-                                "$id": "#/properties/claimedResidues/items/anyOf/0/properties/numbers",
+                            "values": {
+                                "$id": "#/properties/claimedResidues/items/anyOf/0/properties/values",
                                 "type": "array",
-                                "title": "The numbers schema",
+                                "title": "The values schema",
                                 "description": "An explanation about the purpose of this instance.",
                                 "default": [],
                                 "examples": [
                                     [
-                                        1,
-                                        3
+                                        {
+                                            "num": 1,
+                                            "code": "Gly"
+                                        },
+                                        {
+                                            "num": 3,
+                                            "code": "Tyr"
+                                        }
                                     ]
                                 ],
                                 "additionalItems": true,
                                 "items": {
-                                    "$id": "#/properties/claimedResidues/items/anyOf/0/properties/numbers/items",
+                                    "$id": "#/properties/claimedResidues/items/anyOf/0/properties/values/items",
                                     "anyOf": [
                                         {
-                                            "$id": "#/properties/claimedResidues/items/anyOf/0/properties/numbers/items/anyOf/0",
-                                            "type": "integer",
+                                            "$id": "#/properties/claimedResidues/items/anyOf/0/properties/values/items/anyOf/0",
+                                            "type": "object",
                                             "title": "The first anyOf schema",
                                             "description": "An explanation about the purpose of this instance.",
-                                            "default": 0,
+                                            "default": {},
                                             "examples": [
-                                                1,
-                                                3
-                                            ]
+                                                {
+                                                    "num": 1,
+                                                    "code": "Gly"
+                                                }
+                                            ],
+                                            "required": [
+                                                "num",
+                                                "code"
+                                            ],
+                                            "properties": {
+                                                "num": {
+                                                    "$id": "#/properties/claimedResidues/items/anyOf/0/properties/values/items/anyOf/0/properties/num",
+                                                    "type": "integer",
+                                                    "title": "The num schema",
+                                                    "description": "An explanation about the purpose of this instance.",
+                                                    "default": 0,
+                                                    "examples": [
+                                                        1
+                                                    ]
+                                                },
+                                                "code": {
+                                                    "$id": "#/properties/claimedResidues/items/anyOf/0/properties/values/items/anyOf/0/properties/code",
+                                                    "type": "string",
+                                                    "title": "The code schema",
+                                                    "description": "An explanation about the purpose of this instance.",
+                                                    "default": "",
+                                                    "examples": [
+                                                        "Gly"
+                                                    ]
+                                                }
+                                            },
+                                            "additionalProperties": true
                                         }
                                     ]
                                 }
