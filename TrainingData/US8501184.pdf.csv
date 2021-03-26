@@ -1,0 +1,807 @@
+In a first aspect, the invention provides fully human mono-
+clonal antibodies (mAbs) and antigen-binding fragments
+thereof that specifically bind and neutralize human PCSK9
+(hPCSK9) activity.;[noData]
+
+In one embodiment, the invention comprises an antibody or
+antigen-binding fragment of an antibody that specifically
+binds hPCSK9 and is characterized by at least one of:
+(I) capable of reducing serum total cholesterol at least
+about 25-35% and sustaining the reduction over at least a 24
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+day period relative to a predose level, preferably the reduction
+in serum total cholesterol is at least about 30-40%;;[noData]
+
+(ii) capable of reducing serum LDL cholesterol at least
+about 65-80% and sustaining the reduction over at least a 24
+day period relative to a predose level;;[noData]
+
+(iii) capable of reducing serum triglyceride at least about
+25-40% relative to predose level;;[noData]
+
+(iv) does not reduce serum HDL cholesterol or reduces
+serum HDL cholesterol no more than 5% relative to predose
+level.;[noData]
+
+In one embodiment, the invention comprises an antibody or
+antigen-binding fragment of an antibody that specifically
+binds hPCSK9 and is characterized by at least one of:
+(I) capable of reducing serum LDL cholesterol at least
+about 40-70% and sustaining the reduction over at least a 60
+or 90 day period relative to a predose level;;[noData]
+
+(ii) capable of reducing serum triglyceride at least about
+25-40% relative to predose level;;[noData]
+
+(iii) does not reduce serum HDL cholesterol or reduces
+serum HDL cholesterol no more than 5% relative to predose
+level.;[noData]
+
+In one embodiment, the antibody or antigen-binding frag-
+ment is characterized as binding an epitope comprising amino
+acid residue 238 of hPCSK9 (SEQ ID NO:755).;[238, 755]
+
+In a more
+specific embodiment, the antibody or antigen-binding frag-
+ment binds an epitope comprising one or more of amino acid
+residue 238, 153, 159 and 343 of hPCSK9 (SEQ ID
+NO:755).).;[238, 153, 159, 343, 755]
+
+In a more specific embodiment, the antibody or
+fragment thereof is characterized as binding an epitope which
+does not comprise an amino acid residue at position 192, 194,
+197 and/or 237 of SEQ ID NO:755.;[noData]
+
+In one embodiment, the antibody or antigen-binding frag-
+ment is characterized as binding an epitope comprising amino
+acid residue 366 of hPCSK9 (SEQ ID NO:755).;[366, 755]
+
+In a more
+specific embodiment, the antibody or antigen-binding frag-
+ment binds an epitope comprising one or more of amino acid
+residue at position 147, 366 and 380 of SEQ ID NO:755.;[147, 366, 380, 755]
+
+In a
+more specific embodiment, the antibody or antigen-binding
+fragment of an antibody is characterized as binding an
+epitope which does not comprise an amino acid residue at
+position 215 or 238 of SEQ ID NO:755.;[noData]
+
+In one embodiment, the antibody or antigen-binding frag-
+ment is characterized as exhibiting an enhanced binding
+affinity (K~) for hPCSK9 at pH 5.5 relative to the K~ at pH
+7.4, as measured by plasmon surface resonance.;[noData]
+
+In a specific
+embodiment, the antibody or fragment thereof exhibits at
+least a 20-fold, at least a 40-fold or at least a 50-fold enhanced
+affinity for PCSK9 at an acidic pH relative to a neutral pH, as
+measured by surface plasmon resonance.;[noData]
+
+In one embodiment, the antibody or antigen-binding frag-
+ment is characterized as not exhibiting an enhanced binding
+affinity for PCSK9 at an acidic pH relative to a neutral pH, as
+measured by surface plasmon resonance.;[noData]
+
+In a specific
+embodiment, the antibody or fragment thereof exhibits a
+decreased binding affinity at an acidic pH.;[noData]
+
+In another embodiment, the antibody or antigen-binding
+fragment binds human, human GOF mutation D374Y, cyno-
+molgus monkey, rhesus monkey, mouse, rat and hamster
+PCSK9.;[noData]
+
+In one embodiment, the antibody or antigen-binding frag-
+ment binds human and monkey PCSK9, but does not bind
+mouse, rat or hamster PCSK9.;[noData]
+
+The mAbs can be full-length (e.g.;[noData]
+
+, an IgGI or IgG4 anti-
+body) or may comprise only an antigen-binding portion (e.g.;[noData]
+
+,
+a Fab, F(ab')~ or scFv fragment), and may be modified to
+affect functionality, e.g.;[noData]
+
+, to eliminate residual effector func-
+tions (Reddy et al.;[noData]
+
+(2000) J.;[noData]
+
+Immunol.;[noData]
+
+164:1925-1933).;[noData]
+
+US 8,501,184 B2
+In one embodiment, the invention comprises an antibody or
+antigen-binding fragment of an antibody comprising a heavy
+chain variable region (HCVR) selected from the group con-
+sisting of SEQ ID NO:2, 18, 22, 26, 42, 46, 50, 66, 70, 74, 90,
+94, 98, 114, 118, 122, 138, 142, 146, 162, 166, 170, 186, 190,
+194, 210, 214, 218, 234, 238, 242, 258, 262, 266, 282, 286,
+290, 306, 310, 314, 330, 334, 338, 354, 358, 362, 378, 382,
+386, 402, 406, 410, 426, 430, 434, 450, 454, 458, 474, 478,
+482, 498, 502, 506, 522, 526, 530, 546, 550, 554, 570, 574,
+578, 594, 598, 602, 618, 622, 626, 642, 646, 650, 666, 670,
+674, 690, 694, 698, 714, 718, 722, 738 and 742, or a substan-
+tially similar sequence thereof having at least 90%, at least
+95%, at least 98% or at least 99% sequence identity.;[noData]
+
+In one
+embodiment, the HCVR comprises an amino acid sequence
+selected from the group consisting of SEQ ID NO:50, 66, 70,
+74, 90, 94, 122, 138, 142, 218, 234, 238, 242, 258, 262, 314,
+330 and 334.;[noData]
+
+In a more specific embodiment, the HCVR
+comprises SEQ ID NO:90 or 218.;[noData]
+
+In one embodiment, the antibody or fragment thereof fur-
+ther comprises a light chain variable region (LCVR) selected
+from the group consisting of SEQ ID NO:10, 20, 24, 34, 44,
+48, 58, 68, 72, 82, 92, 96, 106, 116, 120, 130, 140, 144, 154,
+164, 168, 178, 188, 192, 202, 212, 216, 226, 236, 240, 250,
+260, 264, 274, 284, 288, 298, 308, 312, 322, 332, 336, 346,
+356, 360, 370, 380, 384, 394, 404, 408, 418, 428, 432, 442,
+452, 456, 466, 476, 480, 490, 500, 504, 514, 524, 528, 538,
+548, 552, 562, 572, 576, 586, 596, 600, 610, 620, 624, 634,
+644, 648, 658, 668, 672, 682, 692, 696, 706, 716, 720, 730,
+740 and 744, or a substantially similar sequence thereof hav-
+ing at least 90%, at least 95%, at least 98% or at least 99%
+sequence identity.;[noData]
+
+In one embodiment, the LCVR comprises
+an amino acid sequence selected from the group consisting of
+SEQ ID NO: 58, 68, 72, 82, 92, 96, 130, 140, 144, 226, 236,
+240, 250, 260, 264, 322, 332 and 336.;[noData]
+
+In a more specific
+embodiment, the LCVR comprises SEQ ID NO:92 or 226.;[noData]
+
+In specific embodiments, the antibody or fragment thereof
+comprises a HCVR and LCVR (HCVR/LCVR) sequence
+pair selected from the group consisting of SEQ ID NO: 2/10,
+18/20, 22/24, 26/34, 42/44, 46/48, 50/58, 66/68, 70/72, 74/82,
+90/92, 94/96, 98/106, 114/116, 118/120, 122/130, 138/140,
+142/144, 146/154, 162/164, 166/168, 170/178, 186/188, 190/
+192, 194/202, 210/212, 214/216, 218/226, 234/236, 238/240,
+242/250, 258/260, 262/264, 266/274, 282/284, 286/288, 290/
+298, 306/308, 310/312, 314/322, 330/332, 334/336, 338/346,
+354/356, 358/360, 362/370, 378/380, 382/384, 386/394, 402/
+404, 406/408, 410/418, 426/428, 430/432, 434/442, 450/452,
+454/456, 458/466, 474/476, 478/480, 482/490, 498/500, 502/
+504, 506/514, 522/524, 526/528, 530/538, 546/548, 550/552,
+554/562, 570/572, 574/576, 578/586, 594/596, 598/600, 602/
+610, 618/620, 622/624, 626/634, 642/644, 646/648, 650/658,
+666/668, 670/672, 674/682, 690/692, 694/696, 698/706, 714/
+716, 718/720, 722/730, 738/740 and 742/744.;[noData]
+
+In one embodi-
+ment, the HCVR and LCVR sequence pair comprises one of
+SEQ ID NO: 50/58, 66/68, 70/72, 74/82, 90/92, 94/96, 122/
+130, 138/140, 142/144, 218/226, 234/236, 238/240, 242/250,
+258/260, 262/264, 314/322, 330/332 and 334/336.;[noData]
+
+In a more
+specific embodiment, the HCVR/LCVR pair comprises SEQ
+ID NO:90/92 or 218/226.;[noData]
+
+In a second aspect, the invention features an antibody or
+antigen-binding fragment of an antibody comprising a heavy
+chain CDR3 (HCDR3) domain selected from the group con-
+sisting of SEQ ID NO:8, 32, 56, 80, 104, 128, 152, 176, 200,
+224, 248, 272, 296, 320, 344, 368, 392, 416, 440, 464, 488,
+512, 536, 560, 584, 608, 632, 656, 680, 704 and 728, or a
+substantially similar sequence thereof having at least 90%, at
+least 95%, at least 98% or at least 99% sequence identity;;[noData]
+
+and
+a light chain CDR3 (LCDR3) domain selected from the group
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+consisting of SEQ ID NO:16, 40, 64, 88, 112, 136, 160, 184,
+208, 232, 256, 280, 304, 328, 352, 376, 400, 424, 448, 472,
+496, 520, 544, 568, 592, 616, 640, 664, 688, 712 and 736, or
+substantially similar sequences thereof having at least 90%, at
+least 95%, at least 98% or at least 99% sequence identity.;[noData]
+
+In
+one embodiment, the HCDR3/LCDR3 sequence pair is
+selected from the group consisting of SEQ ID NO:56/64,
+80/88, 128/136, 224/232, 248/256 and 320/328.;[noData]
+
+In a more
+specific embodiment, the HCDR3/LCDR3 sequence pair
+comprises SEQ ID NO:80/88 or 224/232.;[noData]
+
+In a further embodiment, the invention comprising an anti-
+body or fragment thereof further comprising a heavy chain
+CDRI (HCDRI) domain selected from the group consisting
+of SEQ ID NO:4, 28, 52, 76, 100, 124, 148, 172, 196, 220,
+244, 268, 292, 316, 340, 364, 388, 412, 436, 460, 484, 508,
+532, 556, 580, 604, 628, 652, 676, 700 and 724, or a substan-
+tially similar sequence thereof having at least 90%, at least
+95%, at least 98% or at least 99% sequence identity;;[noData]
+
+a heavy
+chain CDR2 (HCDR2) domain selected from the group con-
+sisting of SEQ ID NO:6, 30, 54, 78, 102, 126, 150, 174, 198,
+222, 246, 270, 294, 318, 342, 366, 390, 414, 438, 462, 486,
+510, 534, 558, 582, 606, 630, 654, 678, 702 and 726, or a
+substantially similar sequence thereof having at least 90%, at
+least 95%, at least 98% or at least 99% sequence identity;;[noData]
+
+a
+light chain CDRI (LCDRI) domain selected from the group
+consisting of SEQ ID NO:12, 36, 60, 84, 108, 132, 156, 180,
+204, 228, 252, 276, 300, 324, 348, 372, 396, 420, 444, 468,
+492, 516, 540, 564, 588, 612, 636, 660, 684, 708 and 732, or
+a substantially similar sequence thereof having at least 90%,
+at least 95%, at least 98% or at least 99% sequence identity;;[noData]
+
+and a light chain CDR2 (LCDR2) domain selected from the
+group consisting of SEQ ID NO:14, 38, 62, 86, 110, 134, 158,
+182, 206, 230, 254, 278, 302, 326, 350, 374, 398, 422, 446,
+470, 494, 518, 542, 566, 590, 614, 638, 662, 686, 710and734,
+or a substantially similar sequence thereof having at least
+90%, at least 95%, at least 98% or at least 99% sequence
+identity.;[noData]
+
+In one embodiment, the heavy and light chain CDR
+sequences comprise a sequence selected from the group con-
+sisting ofSEQ ID NO:52, 54, 56, 60, 62, 64;;[noData]
+
+76, 78, 80, 84, 86,
+88;;[noData]
+
+124, 126, 128, 132, 134, 136;;[noData]
+
+220, 222, 224, 228, 230,
+232;;[noData]
+
+244, 246, 248, 252, 254, 256;;[noData]
+
+and 316, 318, 320, 324,
+326, 328.;[noData]
+
+In more specific embodiments, the CDR sequences
+comprise SEQ ID NO: 76, 78, 80, 84, 86, 88;;[noData]
+
+or 220, 222, 224,
+228, 230, 232.;[noData]
+
+In a related embodiment, the invention comprises an anti-
+body or antigen-binding fragment of an antibody which spe-
+cifically binds hPCSK9, wherein the antibody or fragment
+comprises heavy and light chain CDR domains contained
+within heavy and light chain sequence pairs selected from the
+group consisting of SEQ ID NO: 2/10, 18/20, 22/24, 26/34,
+42/44, 46/48, 50/58, 66/68, 70/72, 74/82, 90/92, 94/96,
+98/106, 114/116, 118/120, 122/130, 138/140, 142/144, 146/
+154, 162/164, 166/168, 170/178, 186/188, 190/192, 194/202,
+210/212, 214/216, 218/226, 234/236, 238/240, 242/250, 258/
+260, 262/264, 266/274, 282/284, 286/288, 290/298, 306/308,
+310/312, 314/322, 330/332, 334/336, 338/346, 354/356, 358/
+360, 362/370, 378/380, 382/384, 386/394, 402/404, 406/408,
+410/418, 426/428, 430/432, 434/442, 450/452, 454/456, 458/
+466, 474/476, 478/480, 482/490, 498/500, 502/504, 506/514,
+522/524, 526/528, 530/538, 546/548, 550/552, 554/562, 570/
+572, 574/576, 578/586, 594/596, 598/600, 602/610, 618/620,
+622/624, 626/634, 642/644, 646/648, 650/658, 666/668, 670/
+672, 674/682, 690/692, 694/696, 698/706, 714/716, 718/720,
+722/730, 738/740 and 742/744.;[noData]
+
+In one embodiment, the CDR
+sequences are contained within HCVR and LCVR selected
+from the amino acid sequence pairs of SEQ ID NO: 50/58,
+66/68, 70/72, 74/82, 90/92, 94/96, 122/130, 138/140, 142/
+US 8,501,184 B2
+144, 218/226, 234/236, 238/240, 242/250, 258/260, 262/264,
+314/322, 330/332 and 334/336.;[noData]
+
+In more specific embodi-
+ments, the CDR sequences are comprised within HCVR/
+LCVR sequences selected from SEQ ID NO: 90/92 or 218/
+226.;[noData]
+
+In one embodiment, the invention provides fully human
+monoclonal antibody or antigen-binding fragment thereof
+that specifically bind hPCSK9 and neutralize PCSK9 activity,
+wherein the antibody or fragment thereof exhibits one or
+more of the following characteristics: (I) capable of reducing
+serum total cholesterol at least about 25-35% and sustaining
+the reduction over at least a 24 day period relative to a predo se
+level, preferably the reduction in serum total cholesterol is at
+least about 30-40%;;[noData]
+
+(ii) capable of reducing serum LDL
+cholesterol at least about 65-80% and sustaining the reduc-
+tion over at least a 24 day period relative to a predose level;;[noData]
+
+(iii) capable of reducing serum triglyceride at least about
+25-40% relative to predose level;;[noData]
+
+(iv) does not reduce serum
+HDL cholesterol or reduces serum HDL cholesterol no more
+than 5% relative to predose level;;[noData]
+
+(v) binds an epitope com-
+prising amino acid residue 238 of hPCSK9 (SEQ ID
+NO:755);;[noData]
+
+(vi) exhibits an enhanced binding affinity (K~) for
+hPCSK9 at p H 5.5 relative to the K~ at p H 7.4, as measured by
+plasmon surface resonance, wherein the enhanced affinity is
+at least about a 20- to 50-fold increase in afiinity;;[noData]
+
+(vii) binds
+human, human GOF mutation D374Y, cynomolgus monkey,
+rhesus monkey, mouse, rat and hamster PCSK9;;[noData]
+
+(viii) com-
+prises heavy and light chain CDR3 sequences comprising
+SEQ ID NO:80 and 88;;[noData]
+
+and (ix) comprises CDR sequences
+from SEQ ID NO:90 and 92.;[noData]
+
+In one embodiment, the invention provides fully human
+monoclonal antibody or antigen-binding fragment thereof
+that specifically bind human PCSK9 (hPCSK9) and neutral-
+ize PCSK9 activity, wherein the antibody or fragment thereof
+exhibits one or more of the following characteristics: (I)
+capable of reducing serum LDL cholesterol at least about
+40-70% and sustaining the reduction over at least a 60 or 90
+day period relative to a predose level;;[noData]
+
+(ii) capable of reducing
+serum triglyceride at least about 25-40% relative to predose
+level;;[noData]
+
+(iii) does not reduce serum HDL cholesterol or reduces
+serum HDL cholesterol no more than 5% relative to predose
+level;;[noData]
+
+(iv) binds an epitope comprising amino acid residue
+366 of hPCSK9 (SEQ ID NO:755);;[366, 755]
+
+(v) does not exhibit an
+enhanced binding affinity for PCSK9 at an acidic pH relative
+to a neutral pH, as measured by surface plasmon resonance;;[noData]
+
+(vi) binds human and monkey PCSK9, but does not bind
+mouse, rat or hamster PCSK9;;[noData]
+
+(vii) comprises heavy and light
+chain CDR3 sequences comprising SEQ ID NO:224 and 232;;[noData]
+
+and (viii) comprises CDR sequences from SEQ ID NO:218
+and 226.;[noData]
+
+In a third aspect, the invention provides nucleic acid mol-
+ecules encoding anti-PCSK9 antibodies or fragments thereof.;[noData]
+
+Recombinant expression vectors carrying the nucleic acids of
+the invention, and host cells into which such vectors have
+been introduced, are also encompassed by the invention, as
+are methods ofproducing the antibodies by culturing the host
+cells under conditions permitting production of the antibod-
+ies, and recovering the antibodies produced.;[noData]
+
+In one embodiment, the invention provides an antibody or
+fragment thereof comprising a HCVR encoded by a nucleic
+acid sequence selected from the group consisting of SEQ ID
+NO: I, 17, 21, 25, 41, 45, 49, 65, 69, 73, 89, 93, 97, 113, 117,
+121, 137, 141, 145, 161, 165, 169, 185, 189, 193, 209, 213,
+217, 233, 237, 241, 257, 261, 265, 281, 285, 289, 305, 309,
+313, 329, 333, 337, 353, 357, 361, 377, 381, 385, 401, 405,
+409, 425, 429, 433, 449, 453, 457, 473, 477, 481, 497, 501,
+505, 521, 525, 529, 545, 549, 553, 569, 573, 577, 593, 597,
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+601, 617, 621, 625, 641, 645, 649, 665, 669, 673, 689, 693,
+697, 713, 717, 721, 737 and 741, or a substantially identical
+sequence having at least 90%, at least 95%, at least 98%, or at
+least 99%homology thereof.;[noData]
+
+In one embodiment, the HCVR
+is encoded by a nucleic acid sequence selected from the group
+consisting of SEQ ID NO: 49, 65, 69, 73, 89, 93, 121, 137,
+141, 217, 233, 237, 241, 257, 261, 313,329 and 333.;[noData]
+
+In more
+specific embodiments, the HCVR is encoded by a nucleic
+acid sequence selected from the group consisting of SEQ ID
+NO: 89 and 217.;[noData]
+
+In one embodiment, the antibody or fragment thereof fur-
+ther comprises a LCVR encoded by a nucleic acid sequence
+selected from the group consisting of SEQ ID NO: 9, 19, 23,
+33, 43, 47, 57, 67, 71, 81, 91,95, 105, 115,119,129, 139, 143,
+153, 163, 167, 177, 187, 191, 201, 211, 215, 225, 235, 239,
+249, 259, 263, 273, 283, 287, 297, 307, 311,321, 331, 335,
+345, 355, 359, 369, 379, 383, 393, 403, 407, 417, 427, 431,
+441, 451, 455, 465, 475, 479, 489, 499, 503, 513, 523, 527,
+537, 547, 551, 561, 571, 575, 585, 595, 599, 609, 619, 623,
+633, 643, 647, 657, 667, 671, 681, 691, 695, 705, 715, 719,
+729, 739 and 743, or a substantially identical sequence having
+at least 90%, at least 95%, at least 98%, or at least 99%
+homology thereof.;[noData]
+
+In one embodiment, the LCVR is encoded
+by a nucleic acid sequence selected from the group consisting
+ofSEQ ID NO: 57, 67, 71, 81, 91, 95, 129, 139, 143, 225, 235,
+239, 249, 259, 263, 321, 331 and 335.;[noData]
+
+In more specific
+embodiments, the LCVR is encoded by a nucleic acid
+sequence selected from the group consisting of SEQ ID NO:
+91 and 225.;[noData]
+
+In one embodiment, the invention features an antibody or
+antigen-binding fragment of an antibody comprising a
+HCDR3 domain encoded by a nucleotide sequence selected
+from the group consisting of SEQ ID NO:7, 31, 55, 79, 103,
+127, 151, 175, 199, 223, 247, 271, 295, 319, 343, 367, 391,
+415, 439, 463, 487, 511, 535, 559, 583, 607, 631, 655, 679,
+703 and 727, or a substantially identical sequence having at
+least 90%, at least 95%, at least 98%, or at least 99%homol-
+ogy thereof;;[noData]
+
+and a LCDR3 domain encoded by a nucleotide
+sequence selected from the group consisting of SEQ ID NO:
+15, 39, 63, 87, 111, 135, 159, 183, 207, 231, 255, 279, 303,
+327, 351, 375, 399, 423, 447, 471, 495, 519, 543, 567, 591,
+615, 639, 663, 687, 711 and 735, or a substantially identical
+sequence having at least 90%, at least 95%, at least 98%, or at
+least 99% homology thereof.;[noData]
+
+In one embodiment, the
+HCDR3 and LCDR3 comprise a sequence pair encoded by
+the nucleic acid sequence of SEQ ID NO: 55/63, 79/87,
+127/135, 223/231, 247/255 and 319/327, respectively.;[noData]
+
+In
+more specific embodiments, the HCDR3 and LCDR3 com-
+prise a sequence pair encoded by the nucleic acid sequence of
+SEQ ID NO: 79/87 and 223/231.;[noData]
+
+In a further embodiment, the antibody or fragment thereof
+further comprises, a HCDRI domain encoded by a nucleotide
+sequence selected from the group consisting of SEQ ID NO:
+3, 27, 51, 75, 99, 123, 147, 171, 195, 219, 243, 267, 291, 315,
+339, 363, 387, 411, 435, 459, 483, 507, 531, 555, 579, 603,
+627, 651, 675, 699 and 723, or a substantially identical
+sequence having at least 90%, at least 95%, at least 98%, or at
+least 99%homology thereof;;[noData]
+
+a HCDR2 domain encoded by a
+nucleotide sequence selected from the group consisting of
+SEQ ID NO:5, 29, 53, 77, 101, 125, 149, 173, 197, 221, 245,
+269, 293, 317, 341, 365, 389, 413, 437, 461, 485, 509, 533,
+557, 581, 605, 629, 653, 677, 701 and 725, or a substantially
+identical sequence having at least 90%, at least 95%, at least
+98%, or at least 99% homology thereof;;[noData]
+
+a LCDRI domain
+encoded by a nucleotide sequence selected from the group
+consisting of SEQ ID NO: 11,35, 59, 83, 107, 131, 155, 179,
+203, 227, 251, 275, 299, 323, 347, 371, 395, 419, 443, 467,
+US 8,501,184 B2
+491, 515, 539, 563, 587, 611, 635, 659, 683, 707 and 731, or
+a substantially identical sequence having at least 90%, at least
+95%, at least 98%, or at least 99% homology thereof;;[noData]
+
+and a
+LCDR2 domain encoded by a nucleotide sequence selected
+from the group consisting of SEQ ID NO: 13,37, 61, 85, 109,
+133, 157, 181, 205, 229, 253, 277, 301, 325, 349, 373, 397,
+421, 445, 469, 493, 517, 541, 565, 589, 613, 637, 661, 685,
+709 and 733, or a substantially identical sequence having at
+least 90%, at least 95%, at least 98%, or at least 99%homol-
+ogy thereof.;[noData]
+
+In one embodiment, the heavy and light chain
+CDR sequences are encoded by the nucleic acid sequences of
+SEQ ID NO: 51, 53, 55, 59, 61, 63;;[noData]
+
+75, 77, 79, 83, 85, 87;;[noData]
+
+123,
+125, 127, 131, 133, 135;;[noData]
+
+219, 221, 223, 227, 229, 231;;[noData]
+
+243,
+245, 247, 251, 253, 255;;[noData]
+
+and315, 317,319,323, 325, 327.;[noData]
+
+In
+more specific embodiments, the heavy and light chain CDR
+sequences are encoded by the nucleic acid sequences of SEQ
+ID NO: 75, 77, 79, 83, 85, 87;;[noData]
+
+and 219, 221, 223, 227, 229,
+231.;[noData]
+
+In a fourth aspect, the invention features an isolated anti-
+body or antigen-binding fragment thereof that specifically
+binds hPCSK9, comprising a HCDR3 and a LCDR3, wherein
+HCDR3 comprises an amino acid sequence of the formula
+X'-X -X -X -X -X -X -X -X -X' -X"-X' -X' -X' -X'-
+X -X -X -X -X (SEQ ID NO:747), wherein X js Ala,
+X isArgorLys, X isAsp, X is SerorIle, X isAsnorVal,
+X is Leuor Trp, X is GlyorMet, X isAsnorVal, X is Phe
+or Tyr, X' is Asp, X"is Leu or Met, X' is Asp or absent, X'
+is Tyrorabsent, X' is Tyror absent, X' is Tyrorabsent, X'
+is Tyrorabsent, X' isGlyorabsent, X' isMetorabsent, X'
+is Asp or absent, and X is Val or absent;;[noData]
+
+and LCDR3 com-
+prises an amino acid sequence of the formula X'-X -X -X-
+X -X -X -X -X (SEQ ID NO:750), wherein X' is Gln or
+Met, X is Gln, X is Tyr or Thr, X is Tyr or Leu, X is Thr or
+Gln, X is Thr, X is Pro, X is Tyr or Leu, and X is Thr.;[noData]
+
+In a further embodiment, the antibody or fragment thereof
+further comprise a HCDRI sequence of the formula X'-X-
+X -X -X -X -X -X (SEQ ID NO:745), wherein X' is Gly,
+X is Phe, X is Thr, X is Phe, X is SerorAsn, X is Seror
+Asn, X is Tyror His, andX isAlaor Trp;;[noData]
+
+a HCDR2 sequence
+of the formula X -X -X -X -X -X -X -X (SEQ ID
+NO:746), whereinX' is Ile, X is SerorAsn, X is GlyorGln,
+X isAsporSer, X is Gly, X is SerorGly, X is ThrorGlu,
+and X is Thr or Lys;;[noData]
+
+a LCDRI sequence of the formula
+X'-X -X -X -X -X -X -X -X -X' -X"-X' (SEQ ID
+NO:748) wherein X' is Gln, X is Ser, X is Val or Leu, X is
+Leu, X is His or Tyr, X is Arg or Ser, X is Ser or Asn, X is
+AsnorGly, X isAsn, X' isArgorAsn, X"isAsnor Tyr, and
+X' is Phe or absent;;[noData]
+
+a LCDR2 sequence of the formula
+X'-X -X (SEQ ID NO:749) wherein X' is Trp orLeu, X is
+Ala or Gly, and X is Ser.;[noData]
+
+FIG.;[noData]
+
+1 shows the sequence align-
+ment of heavy and light chain variable regions for 316P and
+300N mAbs.;[noData]
+
+In a fifth aspect, the invention features a human anti-
+PCSK9 antibody or antigen-binding fragment of an antibody
+comprising a heavy chain variable region (HCVR) encoded
+by nucleotide sequence segments derived from V~, Dem and J~
+germline sequences, and a light chain variable region
+(LCVR) encoded by nucleotide sequence segments derived
+from V~ and J~ germline sequences, wherein the germline
+sequences are (a) V~ gene segment 3-23, D~ gene segment
+7-27, J~ gene segment 2, V~ gene segment 4-1 and J~ gene
+segment 2;;[noData]
+
+or (b) V~ gene segment 3-7, D~ gene segment 2-8,
+J~ gene segment 6, V~ gene segment 2-28 and J~ gene seg-
+ment 4.;[noData]
+
+In a sixth aspect, the invention features an antibody or
+antigen-binding fragment thereof that binds to a PCSK9 pro-
+tein of SEQ ID NO:755, wherein the binding of the antibody
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+or fragment thereof to a variant PCSK9 protein is less than
+50% of the binding between the antibody or fragment thereof
+and the PCSK9 protein of SEQ ID NO:755.;[noData]
+
+In specific
+embodiment, the antibody or fragment thereof binds to the
+variant PCSK9 protein with a binding affinity (K~) which is
+less than about 50%, less than about 60%, less than about
+70%, less than about 80%, less than about 90% or less than
+about 95% compared to the binding to PCSK9 (SEQ ID
+NO:755).;[noData]
+
+In one embodiment, the variant PCSK9 protein comprises
+at least one mutation at position 238 of SEQ ID NO:755.;[noData]
+
+In a
+more specific embodiment, the mutation is D238R.;[noData]
+
+In one
+embodiment, the antibody or antibody fragment binding
+affinity for the variant PCSK9 protein is at least 90% less
+relative to the wildtype protein of SEQ ID NO:755, wherein
+the variant protein comprises a mutation at residue 238.;[noData]
+
+In one
+embodiment, the antibody or antibody fragment binding
+affinity for the variant PCSK9 protein is at least 80% less
+relative to the wildtype protein of SEQ ID NO:755, wherein
+the variant protein comprises a mutation at one or more of
+residue 153, 159, 238 and 343.;[noData]
+
+In a more specific embodi-
+ment, the mutation is one of S153R, E159R, D238R and
+D343R.;[noData]
+
+In one embodiment, the variant PCSK9 protein comprises
+at least one mutation at position 366 of SEQ ID NO:755.;[noData]
+
+In a
+more specific embodiment, the mutation is E366K.;[noData]
+
+In one
+embodiment, the antibody or antibody fragment binding
+affinity for the variant PCSK9 protein is at least 95% less
+relative to the wildtype protein of SEQ ID NO:755, wherein
+the variant protein comprises a mutation at residue 366.;[noData]
+
+In one
+embodiment, the antibody or antibody fragment binding
+affinity for the variant PCSK9 protein is at least 90% less
+relative to the wildtype protein of SEQ ID NO:755, wherein
+the variant protein comprises a mutation at one or more of
+residue 147, 366 and 380.;[noData]
+
+In a more specific embodiment, the
+mutation is one ofS147F,E366Kand V380M.;[noData]
+
+In one embodi-
+ment, the antibody or antibody fragment binding affinity for
+the variant PCSK9 protein is at least 80% less relative to the
+wildtype protein of SEQ ID NO:755, wherein the variant
+protein comprises a mutation at one or more of residue 147,
+366 and 380.;[noData]
+
+In a more specific embodiment, the mutation is
+one of S147F, E366K and V380M.;[noData]
+
+The invention encompasses anti-PCSK9 antibodies having
+a modified glycosylation pattern.;[noData]
+
+In some applications, modi-
+fication to remove undesirable glycosylation sites may be
+useful, or e.g.;[noData]
+
+, removal of a fucose moiety to increase anti-
+body dependent cellular cytotoxicity (ADCC) function (see
+Shield et al.;[noData]
+
+(2002) JBC 277:26733).;[noData]
+
+In other applications,
+modification of galactosylation can be made in order to
+modify complement dependent cytotoxicity (CDC).;[noData]
+
+In a seventh aspect, the invention features a pharmaceutical
+composition comprising a recombinant human antibody or
+fragment thereof which specifically binds hPCSK9 and a
+pharmaceutically acceptable carrier.;[noData]
+
+In one embodiment, the
+invention features a composition which is a combination ofan
+antibody or antigen-binding fragment of an antibody of the
+invention, and a second therapeutic agent.;[noData]
+
+The second thera-
+peutic agent may be any agent that is advantageously com-
+bined with the antibody or fragment thereof of the invention,
+for example, an agent capable of inducing a cellular depletion
+of cholesterol synthesis by inhibiting 3-hydroxy-3-methyl-
+glutaryl (HMG)-coenzyme A (CoA) reductase, such as, for
+example, cerovastatin, atorvastatin, simvastatin, pitavastin,
+rosuvastatin, fluvastatin, lovastatin, pravastatin, etc.;[noData]
+
+capable
+of inhibiting cholesterol uptake and or bile acid re-absorp-
+tion;;[noData]
+
+capable of increasing lipoprotein catabolism (such as
+US 8,501,184 B2
+10
+niacin);;[noData]
+
+and/or activators of the LXR transcription factor that
+plays a role in cholesterol elimination such as 22-hydroxyc-
+hole sterol.;[noData]
+
+In an eighth aspect, the invention features methods for
+inhibiting hPCSK9 activity using the anti-PCSK9 antibody or
+antigen-binding portion of the antibody of the invention,
+wherein the therapeutic methods comprise administering a
+therapeutically effective amount of a pharmaceutical compo-
+sition comprising an antibody or antigen-binding fragment of
+an antibody of the invention.;[noData]
+
+The disorder treated is any
+disease or condition which is improved, ameliorated, inhib-
+ited or prevented by removal, inhibition or reduction of
+PCSK9 activity.;[noData]
+
+Specific populations treatable by the thera-
+peutic methods of the invention include subjects indicated for
+LDL apheresis, subjects with PCSK9-activating mutations
+(gain of function mutations, "GOF"), subjects with heterozy-
+gous Familial Hypercholesterolemia (heFH);;[noData]
+
+subjects with
+primary hypercholesterolemia who are statin intolerant or
+statin uncontrolled;;[noData]
+
+and subjects at risk for developing hyper-
+cholesterolemia who may be preventably treated.;[noData]
+
+Other indi-
+cations include dyslipidemia associated with secondary
+causes such as Type 2 diabetes mellitus, cholestatic liver
+diseases (primary biliary cirrhosis), nephrotic syndrome,
+hypothyroidism, obesity;;[noData]
+
+and the prevention and treatment of
+atherosclerosis and cardiovascular diseases.;[noData]
+
+In specific embodiments ofthe method ofthe invention, the
+anti-hPCSK9 antibody or antibody fragment of the invention
+is useful to reduce elevated total cholesterol, non-HDL cho-
+lesterol, LDL cholesterol, and/or apolipoprotein B (apolipo-
+protein B100).;[noData]
+
+The antibody or antigen-binding fragment of the invention
+may be used alone or in combination with a second agent, for
+example, an HMG-CoA reductase inhibitor and/or other lipid
+lowering drugs.;[noData]
+
+Other embodiments will become apparent from a review of
+the ensuing detailed description.;[noData]
+
