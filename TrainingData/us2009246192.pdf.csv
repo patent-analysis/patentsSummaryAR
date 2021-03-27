@@ -1,0 +1,5550 @@
+[0044] The present invention relates to antagonists of 
+PCSK9 and, in particular embodiments, those antagonists 
+that inhibit both human and murine PCSK9 and those that 
+preferentially target processed PCSK9.;[noData]
+
+Protein-specific 
+antagonists of PCSK9 (or "PCSK9-specific antagonists") in 
+accordance herewith are effective in the selective binding to 
+and inhibition of PCSK9 function and, thus, are of import in 
+the treatment of conditions associated with or impacted by 
+PCSK9 function, including, but not limited to, hypercholes- 
+terolemia, coronary heart disease, metabolic syndrome, acute 
+coronary syndrome and related conditions.;[noData]
+
+Use of the term 
+"antagonist" refers to the fact that the subject molecule can 
+antagonize the functioning of PCSK9.;[noData]
+
+Use of the term 
+"antagonizing" or derivatives thereof refers to the act of 
+opposing, counteracting, inhibiting, neutralizing or curtailing 
+one or more functions of PCSK9.;[noData]
+
+Reference herein to PCSK9 
+function or PCSK9 activity refers to any function or activity 
+that is driven by, requires, or is exacerbated or enhanced by 
+PCSK9.;[noData]
+
+PCSK9-specific antagonists as described herein 
+have proven to be effective for counteracting human and/or 
+murine PCS K9-dependent inhibition of cellular LDL-uptake.;[noData]
+
+[0045] One important embodiment hereof relates to I D05 
+antibody molecules.;[noData]
+
+Such I D05 antibody molecules are char- 
+acterized as comprising a (I) heavy chain variable region 
+("VH") comprising SEQ ID NO: 11;;[noData]
+
+and (ii) a light chain 
+variable region ("VL") comprising SEQ ID NO: 27.;[noData]
+
+Said VH 
+and VL regions comprise the full complement of disclosed 
+CDRs I, 2 and 3 for the VH (SEQ ID NOs: 13, 15 and 17) and 
+VL regions (SEQ ID NOs: 3, 5 and 7), respectively.;[noData]
+
+Examples 
+of ID05 antibody molecules include without limitation: (I) a 
+Fab which comprises a light chain comprising SEQ ID NO: I 
+and an Fd chain comprising amino acids 1-233 of SEQ ID 
+NO: 9 (or SEQ ID NO: 9);;[noData]
+
+and (ii) a full length antibody 
+molecule which comprises a light chain comprising SEQ ID 
+NO: 26 and a heavy chain comprising SEQ ID NO: 25.;[noData]
+
+The 
+select group of ID05 antibodies demonstrate that PCSK9- 
+specific antagonists as disclosed herein effectively inhibit 
+both human and murine PCSK9 and may be studied pharma- 
+cologically in murine models absent the expression of human 
+PCSK9.;[noData]
+
+[0046] The CDR definitions arrived at and disclosed herein 
+were defined using the Morphosys software program 
+Sequence Analysis Software ("SAS").;[noData]
+
+Applicants wish to 
+note, however, that various other methods are available to 
+delineate and define the start and end points of the CDR 
+sequences, including but not limited to Kabat, 1991 
+Sequences of proteins of Immunological Interest, 5' edit.;[noData]
+
+, 
+NIH Publication no.;[noData]
+
+91-3242 U.;[noData]
+
+S.;[noData]
+
+Department of Health and 
+Human Services;;[noData]
+
+Clothia et al.;[noData]
+
+, 1987 J.;[noData]
+
+Mol.;[noData]
+
+Biol.;[noData]
+
+196:901- 
+917;;[noData]
+
+Clothia et al.;[noData]
+
+, 1989 Nature 342:877-883;;[noData]
+
+Lefranc, 1997 
+Immunol.;[noData]
+
+Today, 18:509;;[noData]
+
+and Chen et al.;[noData]
+
+, 1999 J.;[noData]
+
+Mol.;[noData]
+
+Biol.;[noData]
+
+293:865-881.;[noData]
+
+These and other methods have been reviewed 
+and are well within the realm of skills possessed by those in 
+the art;;[noData]
+
+see, e.;[noData]
+
+g.;[noData]
+
+, Honegger & Pluckthun, 2001 J.;[noData]
+
+Mol.;[noData]
+
+Biol.;[noData]
+
+309:657-670.;[noData]
+
+While the current inventors have employed the 
+SAS software to define the CDRs, the present invention fully 
+encompasses the different definitions around the sequences 
+and the varying CDR delineations arrived at through use of 
+any different analysis software or methods.;[noData]
+
+Said use and 
+resulting CDR definitions based on the presently disclosed 
+sequences is fully within the scope of the present disclosure 
+and anticipated herein.;[noData]
+
+[0047] 
+PCSK9-specific 
+molecule also have utility forvari- 
+ous diagnostic purposes in the detection and quantification of 
+PCSK9.;[noData]
+
+[0048] Disclosed PCSK9-specific antagonists are, further- 
+more, unique in that select embodiments have demonstrated a 
+preferential recognition of processed PCSK9, the active form 
+of PCSK9.;[noData]
+
+[0049] PCSK9-specific antagonists as disclosed herein are 
+desirable molecules for lowering plasma LDL cholesterol 
+levels and are of utility for any primate, mammal or vertebrate 
+of commercial or domestic veterinary importance.;[noData]
+
+PCSK9- 
+specific antagonists are of utility as well to inhibit the activity 
+of PCSK9 in any population of cells or tissues possessing the 
+LDL receptor.;[noData]
+
+The utility of the disclosed antagonists is 
+directly measurable by assays readily available to the skilled 
+artisan.;[noData]
+
+Means for measuring LDL uptake are described in the 
+literature;;[noData]
+
+see, e.;[noData]
+
+g.;[noData]
+
+, Barak & Webb, 1981 J.;[noData]
+
+CellBiol.;[noData]
+
+90:595- 
+604, and Stephan & Yurachek, 1993 J.;[noData]
+
+Lipid Res.;[noData]
+
+34:325330.;[noData]
+
+In addition, means for measuring LDL cholesterol in plasma 
+is well described in the literature;;[noData]
+
+see, e.;[noData]
+
+g.;[noData]
+
+, McNamara et al.;[noData]
+
+, 
+2006 Clinica Chimica Acta 369:158-167.;[noData]
+
+The particular 
+impact of the disclosed antagonists on cellular LDL uptake 
+may also be measured through a method which comprises 
+providing purified PCSK9 and labeled LDL particles to a cell 
+sample;;[noData]
+
+providing a PCSK9 antagonist to the cell sample;;[noData]
+
+incubating said cell sample for a period of time sufficient to 
+allow LDL particle uptake by the cells;;[noData]
+
+quantifying the 
+amount of label incorporated into the cell;;[noData]
+
+and identifying 
+those antagonists that result in an increase in the amount of 
+quantified label taken up by the cells as compared with that 
+observed when PCSK9 is administered alone.;[noData]
+
+An additional 
+method for measuring the impact of the disclosed antagonists 
+comprises providing purified PCSK9 and labeled LDL par- 
+ticles to a cell sample;;[noData]
+
+providing a PCSK9 antagonist to the 
+cell sample;;[noData]
+
+incubating said cell sample for a period of time 
+sufficient to allow LDL particle uptake by the cells;;[noData]
+
+isolating 
+cells of the cell sample by removing the supernate;;[noData]
+
+reducing 
+non-specific association of labeled LDL particles (whether to 
+the plate, the cells, or anything other than the LDL receptor);;[noData]
+
+US 2009/0246192 A1 Oct.;[noData]
+
+1, 2009 
+lysing the cells;;[noData]
+
+quantifying the amount of label retained 
+within the cell lysate;;[noData]
+
+and identifying those antagonists that 
+result in an increase in the amount of quantified label taken up 
+by the cells as compared with that observed when PCSK9 is 
+administered alone.;[noData]
+
+Antagonists that result in an increase in 
+the amount of quantified label are PCSK9 antagonists.;[noData]
+
+[0050] Any type of cell bearing the LDL receptor can be 
+employed in the above methods including, but not limited to 
+HEK cells, HepG2 cells, and CHO cells.;[noData]
+
+LDL particles 
+derived from any source are of use in the above-described 
+assays.;[noData]
+
+In particular assays, the LDL particles are fresh par- 
+ticles derived from blood.;[noData]
+
+This can be accomplished by any 
+method available to the skilled artisan including, but not 
+limited to, the method of Havel et al.;[noData]
+
+, 1955 J.;[noData]
+
+Cli n.;[noData]
+
+Invest.;[noData]
+
+34: 
+1345-1353.;[noData]
+
+The LDL particles may be labeled with fluores- 
+cence.;[noData]
+
+The labeled LDL particles may have incorporated 
+therein visible wavelength excited fluorophore 3, 3'-dioctade- 
+cylindocarbocyanine iodide (dil(3)) to form the highly fluo- 
+rescent LDL derivative dil(3)-LDL.;[noData]
+
+Any label which enables 
+the skilled artisan to detect LDL in the cellular lysate may be 
+used.;[noData]
+
+An LDL analog may be used that would only become 
+detectable (e.;[noData]
+
+g.;[noData]
+
+, become fluorescent or fluoresce at a different 
+wavelength, etc.;[noData]
+
+) when metabolized intracellularly or, for 
+instance, if it were to become associated with (or dissociated 
+from) other molecules in the process of becoming internal- 
+ized (e.;[noData]
+
+g.;[noData]
+
+a FRET assay, in which an LDL analog would 
+become associated with a secondary fluor, or else be dissoci- 
+ated from a quencher).;[noData]
+
+Any means available in the art for 
+detecting internalization of labeled LDL particles can be 
+employed.;[noData]
+
+The incubation time for the LDL particles and 
+PCSK9 with the cells is an amount of time sufficient to allow 
+LDL particle uptake by the cells.;[noData]
+
+This time may be within the 
+range of 5 minutes to 360 minutes.;[noData]
+
+The concentration of 
+PCSK9 added to the cells may be in the range of I nM to 5 pM 
+and, in specific methods, be in the range of 0.;[noData]
+
+1 nM to 3 pM.;[noData]
+
+One specific means by which the skilled artisan can deter- 
+mine a range of concentrations for a particular PCSK9 protein 
+is to develop a dose response curve in the LDL-uptake assay.;[noData]
+
+A concentration of PCSK9 can be selected that promotes 
+close to maximal loss of LDL-uptake and is still in the linear 
+range of the dose response curve.;[noData]
+
+Typically, this concentra- 
+tion is -5 times the EC-50 of the protein extracted from the 
+dose response curve.;[noData]
+
+The concentrations can vary by protein.;[noData]
+
+[0051] Broadly, PCSK9-specific antagonists as defined 
+herein selectively recognize and specifically bind to PCSK9.;[noData]
+
+An antibody is typically said to specifically bind an antigen 
+when the dissociation constant is ~1 pM, preferably ~100 
+nM and most preferably ~10 nM.;[noData]
+
+Use of the terms "selec- 
+tive" or "specific" herein, further, refers to the fact that the 
+disclosed antagonists do not show significant binding to pro- 
+teins other than PSCK9, except in those specific instances 
+where the antagonist is supplemented or designed to confer 
+an additional, distinct specificity to the PCSK9-specific bind- 
+ing portion (as, for example, in bispecific or bifunctional 
+molecules where the molecule is designed to bind two mol- 
+ecules or effect two functions, at least one of which is to 
+specifically bind PCSK9).;[noData]
+
+In specific embodiments, PCSK9- 
+specific antagonists bind to human and/or murine PCSK9 
+with a Ko of 1.;[noData]
+
+2x10 M or less.;[noData]
+
+In more specific embodi- 
+ments, PCSK9-specific antagonists bind to human and/or 
+murine PCSK9 with a Ko of Sx10 M or less, of 2x10 M or 
+less, or of Ix10 M or less.;[noData]
+
+In additional embodiments, 
+PCSK9-specific antagonists bind to human and/or murine 
+PCSK9 with a Ko of Ix10 M or less.;[noData]
+
+In further embodi- 
+ments, PCSK9-specific antagonists bind to human and/or 
+murine PCSK9 with a Ko of Sx10 M or less, or of I x10 M 
+or less.;[noData]
+
+In select embodiments, PCSK9-specific antagonists 
+bindtohumanand/ormurinePCSK9withaKooflx10 ' M 
+orless, a Kooflx10 "Morless, ora Koof lx10 ' M or 
+less.;[noData]
+
+In specific embodiments, PCSK9-specific antagonists 
+do not bind proteins other than PCSK9 at the above Kos.;[noData]
+
+Ko 
+refers to the dissociation constant obtained from the ratio of 
+Ku (the dissociation rate of a particular binding molecule- 
+target protein interaction) to K (the association rate of the 
+particular binding molecule-target protein interaction), or 
+Ku/K which is expressed as a molar concentration (M).;[noData]
+
+Ko 
+values can be determined using methods well established in 
+the art.;[noData]
+
+A preferred method for determining the Ko of a 
+binding molecule is by using surface plasmon resonance, for 
+example employing a biosensor system such as a Biacore™ 
+(GE Healthcare Life Sciences) system.;[noData]
+
+[0052] PCSK9-specific antagonists disclosed herein have 
+been shown to dose-dependently inhibit human and/or 
+murine PCSK9 dependent effects on LDL uptake.;[noData]
+
+Accord- 
+ingly, PCSK9-specific antagonists as disclosed herein are 
+characterized by their ability to counteract PCSK9-dependent 
+inhibition of LDL uptake into cells.;[noData]
+
+This uptake of LDL into 
+cells by the LDL receptor is referred to herein as "cellular 
+LDL uptake".;[noData]
+
+In specific embodiments, PCSK9-specific 
+antagonists counteract or antagonize human and/or murine 
+PCS K9-dependent inhibition o f LDL uptake into cells, exhib- 
+iting an ICso of less than 1.;[noData]
+
+0x10 M, or, in order of prefer- 
+ence, less than lx10 M, Ix10 M, Ix10 M, Ix10 ' M, 
+Ix10 " M and Ix10 ' M.;[noData]
+
+The extent of inhibition by any 
+PCSK9-specific antagonist may be measured quantitatively 
+in statistical comparison to a control, or via any alternative 
+method available in the art for assessing a negative effect on, 
+or inhibition of, PCSK9 function (he.;[noData]
+
+, any method capable of 
+assessing antagonism of PCSK9 function).;[noData]
+
+In specific 
+embodiments, the inhibition is at least about 10% inhibition.;[noData]
+
+In other embodiments, the inhibition is at least 20%, 30%, 
+40%, 50%, 60%, 70, %, 80%, 90%, or 95%.;[noData]
+
+Accordingly, 
+PCSK9-specific antagonists capable of effecting these levels 
+of inhibition of PCSK9 function form particular embodi- 
+ments hereo f.;[noData]
+
+[0053] A PCSK9-specific antagonist in accordance here- 
+with can be any binding molecule that specifically binds 
+human and/or murine PCSK9 protein including, but not lim- 
+ited to, antibody molecules as defined below, any PCSK9- 
+specific binding structure, any polypeptide or nucleic acid 
+structure that specifically binds PCSK9, and any of the fore- 
+going incorporated into various protein scaffolds;;[noData]
+
+including 
+but not limited to, various non-antibody-based scaffolds, and 
+various structures capable of affording or allowing for selec- 
+tive binding to PCSK9 including but not limited to small 
+modular immunopharmaceuticals (or "SMIPs";;[noData]
+
+see, Haan & 
+Maggos, 2004 Biocentury January 26);;[noData]
+
+Immunity proteins 
+(see, e.;[noData]
+
+g.;[noData]
+
+, Chak et al.;[noData]
+
+, 1996 Proc.;[noData]
+
+Nath Acad.;[noData]
+
+Sci.;[noData]
+
+USA 
+93:6437-6442);;[noData]
+
+cytochrome b562 (see Ku and Schultz, 1995 
+Proc.;[noData]
+
+Natl.;[noData]
+
+Acad.;[noData]
+
+Sci.;[noData]
+
+USA 92:6552-6556);;[noData]
+
+the peptide u2p8 
+(see Barthe et al.;[noData]
+
+, 2000 Protein Sci.;[noData]
+
+9:942-955);;[noData]
+
+avimers 
+(Avidia;;[noData]
+
+see Silverman et al.;[noData]
+
+, 2005 Nat.;[noData]
+
+Biotechnol.;[noData]
+
+23:1556- 
+1561);;[noData]
+
+DARPins (Molecular Partners;;[noData]
+
+see Binz et al.;[noData]
+
+, 2003 J.;[noData]
+
+Mol.;[noData]
+
+Bioh 332:489-503;;[noData]
+
+and Forrer et al.;[noData]
+
+, 2003 FEBS Lett.;[noData]
+
+539:2-6);;[noData]
+
+Tetranectins (see, Kastrup et al.;[noData]
+
+, 1998 Acta.;[noData]
+
+Crys- 
+tallogr.;[noData]
+
+D.;[noData]
+
+Biol.;[noData]
+
+Crystallogr.;[noData]
+
+54:757-766);;[noData]
+
+Adnectins (Adn- 
+exus;;[noData]
+
+see, Xu et al.;[noData]
+
+, 2002 Chem.;[noData]
+
+Biol.;[noData]
+
+9:933-942), Anticalins 
+(Pieris;;[noData]
+
+see Vogt & Skerra, 2004 Chemobiochem.;[noData]
+
+5:191-199;;[noData]
+
+US 2009/0246192 A1 Oct.;[noData]
+
+1, 2009 
+Beste et al.;[noData]
+
+, 1999 Proc.;[noData]
+
+Natl.;[noData]
+
+Acad.;[noData]
+
+Sci.;[noData]
+
+USA 96:1898-1903;;[noData]
+
+Lamia & Erdmann, 2003 J.;[noData]
+
+Mol.;[noData]
+
+Biol.;[noData]
+
+329:381-388;;[noData]
+
+and 
+Lamia & Erdmann, 2004 Protein Expr.;[noData]
+
+Purif.;[noData]
+
+33:39-47);;[noData]
+
+A-domain proteins (see North & Blacklow, 1999 Biochemis- 
+try 38:3926-3935), Lipocalins (see Schlehuber & Skerra, 
+2005 Drug Discov.;[noData]
+
+Today 10:23-33);;[noData]
+
+Repeat-motif proteins 
+such as Ankyrin repeat proteins (see Sedgwick & Smerdon, 
+1999 Trends Biochem.;[noData]
+
+Sci.;[noData]
+
+24:311-316;;[noData]
+
+Mosavi et al.;[noData]
+
+, 2002 
+Proc.;[noData]
+
+Natl.;[noData]
+
+Acad.;[noData]
+
+Sci.;[noData]
+
+USA 99:16029-16034;;[noData]
+
+and Binz et al.;[noData]
+
+, 
+2004 Nat.;[noData]
+
+Biotechnol.;[noData]
+
+22:575-582);;[noData]
+
+Insect Defensin A (see 
+Zhao et al.;[noData]
+
+, 2004 Peptides 25:629-635);;[noData]
+
+Kunitz domains (see 
+Roberts et al.;[noData]
+
+, 1992 Proc.;[noData]
+
+Natl.;[noData]
+
+Acad.;[noData]
+
+Sci.;[noData]
+
+USA 89:2429- 
+2433;;[noData]
+
+Roberts et al.;[noData]
+
+, 1992 Gene 121:9-15;;[noData]
+
+Dennis & Lazarus, 
+1994 J.;[noData]
+
+Biol.;[noData]
+
+Chem.;[noData]
+
+269:22129-22136;;[noData]
+
+and Dennis & Laz- 
+arus, 1994 J.;[noData]
+
+Biol.;[noData]
+
+Chem.;[noData]
+
+269:22137-22144);;[noData]
+
+PDZ-Domains 
+(see Schneider et al.;[noData]
+
+, 1999 Nat.;[noData]
+
+Biotechnol.;[noData]
+
+17:170-175);;[noData]
+
+Scorpion toxins such as Charybdotoxin (see Vita et al.;[noData]
+
+, 1998 
+Biopolymers 47:93-100);;[noData]
+
+10' fibronectin type III domain (or 
+IOFn3;;[noData]
+
+see Koide et al.;[noData]
+
+, 1998 J.;[noData]
+
+Mol.;[noData]
+
+Biol.;[noData]
+
+284:1141-1151, 
+and Xu et al.;[noData]
+
+, 2002 Chem.;[noData]
+
+Biol.;[noData]
+
+9:933-942);;[noData]
+
+CTLA-4 (extra- 
+cellular domain;;[noData]
+
+see Nuttall et al.;[noData]
+
+, 1999 Proteins 36:217-227;;[noData]
+
+and Irving et al.;[noData]
+
+, 2001 J.;[noData]
+
+Immunol.;[noData]
+
+Methods 248:31-45);;[noData]
+
+Knottins (see Souriau et al.;[noData]
+
+, 2005 Biochemistry 44:7143- 
+7155 and Lehtio et al.;[noData]
+
+, 2000 Proteins 41:316-322);;[noData]
+
+Neocarzi- 
+nostatin (see Heyd et al.;[noData]
+
+2003 Biochemistry 42:5674-5683);;[noData]
+
+carbohydrate binding module 4-2 (CBM4-2;;[noData]
+
+see Cicortas et 
+al.;[noData]
+
+, 2004 Protein Eng Des.;[noData]
+
+Sel.;[noData]
+
+17:213-221);;[noData]
+
+Tendamistat (see 
+McConnell & Hoess, 1995 J.;[noData]
+
+Mol.;[noData]
+
+Biol.;[noData]
+
+250:460-470, and Li 
+et al.;[noData]
+
+, 2003 Protein Eng.;[noData]
+
+16:65-72);;[noData]
+
+T cell receptor (see Holler 
+et al.;[noData]
+
+, 2000 Proc.;[noData]
+
+Natl.;[noData]
+
+Acad.;[noData]
+
+Sci.;[noData]
+
+USA 97:5387-5392;;[noData]
+
+Shusta 
+et al.;[noData]
+
+, 2000 Nat.;[noData]
+
+Biotechnol.;[noData]
+
+18:754-759;;[noData]
+
+and Li et al.;[noData]
+
+, 2005 
+Nat.;[noData]
+
+Biotechnol.;[noData]
+
+23:349-354);;[noData]
+
+Affibodies (Affibody;;[noData]
+
+see 
+Nord et al.;[noData]
+
+, 1995 Protein Eng.;[noData]
+
+8:601-608;;[noData]
+
+Nord et al.;[noData]
+
+, 1997 
+Nat.;[noData]
+
+Biotechnol.;[noData]
+
+15:772-777;;[noData]
+
+Gunneriusson et al.;[noData]
+
+, 1999 Pro- 
+tei n Eng 12:873-878);;[noData]
+
+and other selective binding proteins or 
+scaffolds recognized in the literature;;[noData]
+
+see, e.;[noData]
+
+g.;[noData]
+
+, Binz & Pliick- 
+thun, 2005 Curr.;[noData]
+
+Opin.;[noData]
+
+Biotech.;[noData]
+
+16:1-11;;[noData]
+
+Gill & Damle, 2006 
+Curr.;[noData]
+
+Opin.;[noData]
+
+Biotechnol.;[noData]
+
+17:1-6;;[noData]
+
+Hosse et al.;[noData]
+
+, 2006 Protein 
+Science 15:14-27;;[noData]
+
+Binz et al.;[noData]
+
+, 2005 Nat.;[noData]
+
+Biotechnol.;[noData]
+
+23:1257- 
+1268;;[noData]
+
+Hey et al.;[noData]
+
+, 2005 Trends in Biotechnol.;[noData]
+
+23:514-522;;[noData]
+
+Binz & Pliickthun, 2005 Curr.;[noData]
+
+Opin.;[noData]
+
+Biotech.;[noData]
+
+16:459-469;;[noData]
+
+Nygren & Skerra, 2004 J.;[noData]
+
+Immunolog.;[noData]
+
+Methods 290:3-28;;[noData]
+
+Nygren & Uhlen, 1997 Curr.;[noData]
+
+Opin.;[noData]
+
+Struct.;[noData]
+
+Biol.;[noData]
+
+7:463-469;;[noData]
+
+the disclosures of which are incorporated herein by reference.;[noData]
+
+Antibodies and the use of antigen-binding fragments is well 
+defined 
+andunderstoodintheliteratur.;[noData]
+
+The use of alternative 
+scaffolds for protein binding is well appreciated in the scien- 
+tific literature as well, see, e.;[noData]
+
+g.;[noData]
+
+, Binz & Pliickthun, 2005 Curr.;[noData]
+
+Opin.;[noData]
+
+Biotech.;[noData]
+
+16: 1-11;;[noData]
+
+Gill & Damle, 2006 Curr.;[noData]
+
+Opin.;[noData]
+
+Biotechnol.;[noData]
+
+17:1-6;;[noData]
+
+Hosse et al.;[noData]
+
+, 2006 Protein Science 15:14- 
+27;;[noData]
+
+Binz et al.;[noData]
+
+, 2005 Nat.;[noData]
+
+Biotechnol.;[noData]
+
+23:1257-1268;;[noData]
+
+Hey et 
+al.;[noData]
+
+, 2005 Trends in Biotechnol.;[noData]
+
+23:514-522;;[noData]
+
+Binz & Pliick- 
+thun, 2005 Curr.;[noData]
+
+Opin.;[noData]
+
+Biotech.;[noData]
+
+16:459-469;;[noData]
+
+Nygren & 
+Skerra, 2004 J.;[noData]
+
+Immunolog.;[noData]
+
+Methods 290:3-28;;[noData]
+
+Nygren & 
+Uhlen, 1997 Curr.;[noData]
+
+Opin.;[noData]
+
+Struct.;[noData]
+
+Biol.;[noData]
+
+7:463-469;;[noData]
+
+the disclo- 
+sures of which are incorporated herein by reference.;[noData]
+
+Accord- 
+ingly, non-antibody-based scaffolds or antagonist molecules 
+in accordance herewith exhibiting selectivity for PCSK9 that 
+counteract PCSK9-dependent inhibition of cellular LDL-up- 
+take form important embodiments of the present invention.;[noData]
+
+Aptamers (nucleic acid or peptide molecules capable of 
+selectively binding a target molecule) are one specific 
+example.;[noData]
+
+They can be selected from random sequence pools 
+or identified from natural sources such as riboswitches.;[noData]
+
+Pep- 
+tide aptamers, nucleic acid aptamers (e.;[noData]
+
+g.;[noData]
+
+, structured nucleic 
+acid, including both DNA and RNA-based structures) and 
+nucleic acid decoys can be effective for selectively binding 
+and inhibiting proteins of interest;;[noData]
+
+see, e.;[noData]
+
+g.;[noData]
+
+, Hoppe-Seyler & 
+Butz, 2000 J.;[noData]
+
+Mol.;[noData]
+
+Med.;[noData]
+
+78: 426-430;;[noData]
+
+Bock et al.;[noData]
+
+, 1992 Nature 
+355:564-566;;[noData]
+
+Bunka & Stockley, 2006 Nat.;[noData]
+
+Rev.;[noData]
+
+Microbiol.;[noData]
+
+4:588-596;;[noData]
+
+Martell et al.;[noData]
+
+, 2002 Molec.;[noData]
+
+Ther.;[noData]
+
+6:30-34;;[noData]
+
+Jayasena, 1999 Clin.;[noData]
+
+Chem.;[noData]
+
+45:1628-1650;;[noData]
+
+the disclosures of 
+which are incorporated herein by reference.;[noData]
+
+[0054] Importantly, the binding site (or epitope) for I D05 
+on PCSK9 was identified through limited proteolysis and 
+mass spectrometry ("LP-MS").;[noData]
+
+The limited proteolysis mass 
+spectrometry analysis involved incubating wild-type PCSK9 
+("wt-PCSK9") and a complex of wt-PCSK9 and I D05 with 
+endoproteinase enzymes of different specificity in carefully 
+controlled conditions.;[noData]
+
+Under such conditions, the endopro- 
+teases cleaved only exposed primary cleavage sites.;[noData]
+
+The 
+experiment was designed so that the binding of ID05 to 
+wt-hPCSK9 masked surface residues normally exposed on 
+wt-hPCSK9 not bound to the antibody.;[noData]
+
+Such masked residues 
+provided insight into the binding domain of I D05.;[noData]
+
+Through 
+such experiments, a novel neutralizing epitope conforma- 
+tional in nature and represented by peptides RYRAD (SEQ ID 
+NO: 42) AND REIEGR (SEQ ID NO: 37) was identified.;[noData]
+
+This 
+epitope falls within PCSK9's catalytic domain and provides a 
+novel target epitope for which to identify additional effective 
+PCSK9 antagonists.;[noData]
+
+Identification of additional PCSK9-spe- 
+cific antagonists binding this epitope is of significant interest 
+given I D05's PCSK9-neutralizing activity.;[noData]
+
+[0055] One means of identifying antagonists and particu- 
+larly antibodies that bind to the identified I D05 epitope or an 
+overlapping epitope is through a competition or similar assay 
+where the candidate antibody or binding molecule would 
+have to out-compete ID05 for the epitope.;[noData]
+
+Competitive 
+antagonists encompassed herein are molecules that inhibit 
+(Le.;[noData]
+
+, prevent or interfere with in comparison to a control) or 
+reduce I D05 binding by at least 50%, 60%, 70%, and 80% in 
+order of increasing preference (even more preferably, at least 
+90% and, most preferably, at least 95%) at I pM or less with 
+ID05 at or below its K~, and in particular those molecules 
+that antagonize (I) PCSK9 binding to the LDL receptor, (ii) 
+PCSK9 internalization into cells, or (iii) both PCSK9 binding 
+to the LDL receptor and PCSK9 internalization into cells.;[noData]
+
+Competition between binding members may be readily 
+assayed in vitro for example using ELISA and/or by moni- 
+toring the interaction of the antibodies with PCSK9 in solu- 
+tion.;[noData]
+
+The exact means for conducting the analysis is not 
+critical.;[noData]
+
+PCSK9 may be immobilized to a 96-well plate or 
+may be placed in a homogenous solution.;[noData]
+
+In specific embodi- 
+ments, the ability of unlabeled candidate antibody(ies) to 
+block the binding of labeled ID05 can be measured using 
+radioactive, enzyme or other labels.;[noData]
+
+In the reverse assay, the 
+ability of unlabeled antibodies to interfere with the interac- 
+tion of labeled ID05 with PCSK9 wherein said ID05 and 
+PCSK9 are already bound is determined.;[noData]
+
+In specific embodi- 
+ments, (I) PCSK9 is contacted with labeled ID05 (an anti- 
+body molecule which comprises a VL comprising SEQ ID 
+NO: 27 and a VH comprising SEQ ID NO: 11);;[noData]
+
+(ii) PCSK9 is 
+contacted with the candidate antibody or pool of antibodies;;[noData]
+
+and (iii) antibodies capable of interrupting or preventing com- 
+plexes between PCSK9 and I D05 are identified.;[noData]
+
+The readout 
+in such an example is through measurement of bound label.;[noData]
+
+ID05 and the candidate antibody(ies) may be added in any 
+order or at the same time.;[noData]
+
+A specific assay that may be run is 
+US 2009/0246192 A1 Oct.;[noData]
+
+1, 2009 
+that of Example 13 where the activity of an antibody found to 
+bind to the same epitope domain as ID05 is illustrated.;[noData]
+
+[0056] Antibodies identified as ID05 competitors in the 
+above or other suitable assays may be tested for the ability to 
+antagonize or neutralize (I) PCSK9 binding to the LDL recep- 
+tor;;[noData]
+
+and/or (ii) PCSK9 internalization into cells.;[noData]
+
+These param- 
+eters may be measured through the use of assays similar to 
+that employed or described in the current specification.;[noData]
+
+In 
+specific embodiments, the inhibition demonstrated by the 
+competing antibody is at least about 10% inhibition.;[noData]
+
+In other 
+embodiments, the inhibition is at least 20%, 30%, 40%, 50%, 
+60%, 70%, 80%, 90% or 95%.;[noData]
+
+[0057] The present invention specifically encompasses 
+PCSK9-specific antagonists and particularly monoclonal 
+antibody molecules (and their corresponding amino acid and 
+nucleic acid sequences) that selectively bind to the epitope 
+identified for I D05 or an overlapping epitope interfering with 
+I D05's binding to PCSK9.;[noData]
+
+Critical residues for I D05 binding 
+that were identified on the epitope of PCSK9 are those resi- 
+dues corresponding to residues Arg194, Glu197 and Arg199 
+of human PCSK9.;[noData]
+
+The narrow epitope comprising these 
+amino acid residues is represented by SEQ ID NO: 37 and 
+falls within the area of SEQ ID NO: 39 of human PCSK9 and 
+SEQ ID NO: 41 of murine PCSK9.;[noData]
+
+A secondary footprint of 
+the antibody is represented by SEQ ID NO: 42.;[noData]
+
+Monoclonal 
+antibodies that specifically bind to the conformational 
+epitope represented by SEQ ID NO: 37 and SEQ ID NO:42 or 
+an overlapping epitope antagonize or neutralize (I) PCSK9 
+binding to the LDL receptor;;[37, 42]
+
+(ii) PCSK9 internalization into 
+cells, or (iii) both.;[noData]
+
+Accordingly, monoclonal antibodies that 
+bind to an epitope on PCSK9 which comprises and/or con- 
+sists of: SEQ ID NO: 37, SEQ ID NO: 39 or SEQ ID NO: 41 
+form important embodiments of the present invention.;[37, 39, 41]
+
+Spe- 
+cific embodiments of the present invention relate to mono- 
+clonal antibodies that recognize the following epitopes on 
+PCSK9: SEQ ID NO: 37 and SEQ ID NO: 42.;[37, 42]
+
+A monoclonal 
+antibody molecule in accordance herewith may be an intact 
+(complete or full length) antibody, a substantially intact anti- 
+body, or a portion or fragment of an antibody comprising an 
+antigen-binding portion, e.;[noData]
+
+g.;[noData]
+
+, a Fab fragment, Fab' fragment 
+or F(ab')~ fragment of a murine antibody or of a chimeric 
+antibody or of a humanized antibody or of a human antibody.;[noData]
+
+Monoclonal, as used herein, refers to a homogeneous or sub- 
+stantially homogeneous (or pure) antibody population (he.;[noData]
+
+, at 
+least about 90%, 91%, 92%, 93%, 94%, 95%, 96%, more 
+preferably at least about 97% or 98%, or most preferably at 
+least 99% of the antibodies in the population are identical and 
+would compete in an ELISA assay for the same antigen or 
+epitope.;[noData]
+
+In specific embodiments of the present invention, the 
+present invention provides monoclonal antibodies that (I) 
+compete for binding to PCSK9 with a ID05 antibody mol- 
+ecule, reducing I D05 binding by at least 50% at I pM or less 
+with I D05 at or below its K~, (ii) block PCSK9 binding to the 
+LDL receptor, (iii) inhibit PCSK9 internalization into the cell, 
+and (iv) comprise a specific antigen-binding region, VH, VL, 
+set of CDRs or heavy CDR3, heavy and/or light chain or any 
+variant of these components described herein.;[noData]
+
+Additional 
+embodiments provide PCSK9-specific antagonists including 
+but not limited to monoclonal antibodies that recognize/bind 
+to SEQ ID NO: 37, SEQ ID NO: 39 or SEQ ID NO: 41, 
+wherein the PCSK9-specific antagonists bind to human and/ 
+or murine PCSK9 with a K~ of 1.;[noData]
+
+2x10 M or less, and 
+wherein the PCSK9-specific antagonist competes with I D05 
+for binding to PCSK9.;[noData]
+
+In specific embodiments hereof, the 
+PCSK9-specific antagonists are further defined by one or 
+more of the following qualities: they (I) reduce I D05 binding 
+by at least 50% at I pM or less with I D05 at or below its K~, 
+(ii) block PCSK9 binding to the LDL receptor, (iii) inhibit 
+PCSK9 internalization into the cell, and/or (iv) comprise a 
+specific antigen-binding region, VH, VL, set of CDRs or 
+heavy CDR3, heavy and/or light chain or any variant of these 
+components described herein.;[noData]
+
+In specific embodiments, the 
+PCSK9-specific antagonists in accordance with the above 
+comprise (I) the disclosed heavy and/or light chain variable 
+region CDR3 sequences (SEQ ID NOs: 17 and 7, respec- 
+tively), (ii) the disclosed heavy and/or light chain variable 
+regions CDRI (SEQ ID NOs: 13 and 3, respectively), CDR2 
+(SEQ ID NOs: 15 and 5, respectively) and CDR3 (SEQ ID 
+NOs;;[noData]
+
+17 and 7, respectively, (iii) the full complement (SEQ 
+ID NOs;;[noData]
+
+13, 15, 17, 3, 5 and 7) of disclosed heavy and light 
+chain CDRs within a variable region framework of a human 
+heavy and/or light chain sequence;;[noData]
+
+(iv) the disclosed VL 
+and/or VH regions (SEQ ID NOs: 27 and 11, respectively);;[noData]
+
+(v) the disclosed light and/or Fd chains (SEQ ID NO: I and 
+amino acids 1-233 of SEQ ID NO: 9 (or SEQ ID NO: 9)), or 
+(vi) the disclosed light and/or heavy chains (SEQ ID NOs: 26 
+and 25).;[noData]
+
+In specific embodiments, the PCSK9-specific 
+antagonists bind to/recognize both SEQ ID NOs: 37 and SEQ 
+ID NO: 42.;[noData]
+
+[0058] In any of the above assays for identifying antibodies 
+binding the same or overlapping epitope region as ID05, 
+binding of the known binder (Le.;[noData]
+
+, ID05 antibody molecule 
+known to bind residues Arg194, Glu197 and Arg199 of SEQ 
+ID NO: 37) as compared to the binding of the candidate 
+binder should be distinguishable.;[noData]
+
+This can (but need not) be 
+accomplished through the use of labels on either or both 
+molecules as will be readily appreciated by the skilled artisan.;[noData]
+
+Labels, as used herein, refer to another molecule or agent 
+incorporated into/affixed to the antibody molecule.;[noData]
+
+In one 
+embodiment, the label is a detectable marker, e.;[noData]
+
+g.;[noData]
+
+, a radiola- 
+beled amino acid or attachment to a polypeptide of biotinyl 
+moieties that can be detected by marked avidin (e.;[noData]
+
+g.;[noData]
+
+, strepta- 
+vidin containing a fluorescent marker or enzymatic activity 
+that can be detected by optical or colorimetric methods).;[noData]
+
+Various methods of labeling polypeptides and glycoproteins 
+are known in the art and may be used.;[noData]
+
+Examples of labels for 
+polypeptides include, but are not limited to, the following: 
+radioisotopes or radionuclides (e.;[noData]
+
+g.;[noData]
+
+, H, 
+' 
+C, 
+' 
+N, S, Y, 
+Tc, " 'In, ' I, ' 'I), fluorescent labels (e.;[noData]
+
+g.;[noData]
+
+, FITC, 
+rhodamine, lanthanide phosphors), enzymatic labels (e.;[noData]
+
+g.;[noData]
+
+, 
+horseradish peroxidase, [I-galactosidase, luciferase, alkaline 
+phosphatase), chemiluminescent markers, biotinyl groups, 
+predetermined polypeptide epitopes recognized by a second- 
+ary reporter (e.;[noData]
+
+g.;[noData]
+
+, leucine zipper pair sequences, binding sites 
+for secondary antibodies, metal binding domains, epitope 
+tags), magnetic agents, such as gadolinium chelates, toxins 
+such as pertussis toxin, taxol, cytochalasin B, gramicidin D, 
+ethidium bromide, emetine, mitomycin, etoposide, tenopo- 
+side, vincristine, vinblastine, colchicin, doxorubicin, dauno- 
+rubicin, dihydroxy anthracin dione, mitoxantrone, mithramy- 
+cin, actinomycin D, I-dehydrotestosterone, glucocorticoids, 
+procaine, tetracaine, lidocaine, propranolol, and puromycin 
+and analogs or homologs thereof.;[noData]
+
+In some embodiments, 
+labels are attached by spacer arms of various lengths to reduce 
+potential steric hindrance.;[noData]
+
+[0059] A ID05 antibody used for the competition assays 
+may be any antibody molecule which is of the I D05 descrip- 
+tion provided herein (ke.;[noData]
+
+any antibody molecule selective for 
+US 2009/0246192 A1 Oct.;[noData]
+
+1, 2009 
+PCSK9 which comprises a VL comprising SEQ ID NO: 27 
+and a VH comprising SEQ ID NO: 11).;[noData]
+
+Examples of such 
+antibodies include without limitation (I) a Fab which com- 
+prisess 
+a light chain comprising SEQ ID NO: I and an Fd chain 
+comprising amino acids 1-233 of SEQ ID NO: 9 (or SEQ ID 
+NO: 9);;[noData]
+
+(ii) a full length antibody molecule which comprises 
+a light chain comprising SEQ ID NO: 26 and a heavy chain 
+comprising SEQ ID NO: 25.;[noData]
+
+[0060] Peptides or peptidomimetics based on the regions 
+corresponding to SEQ ID NO: 39 or SEQ ID NO: 41 (and in 
+select embodiments the areas corresponding to SEQ ID NO: 
+37 and SEQ ID NO: 42) should have antagonistic properties 
+by preventing the interaction of PCSK9 with LDLR.;[noData]
+
+Impor- 
+tantly, peptides that comprise SEQ ID NO: 37 and SEQ ID 
+NO: 42 should generate neutralizing antibodies able to inhibit 
+PCSK9 binding to LDLR and/or inhibit PCSK9 internaliza- 
+tion into cells.;[noData]
+
+[0061] In specific embodiments, peptides encompassed 
+herein comprise SEQ ID NO: 39 OR SEQ ID NO: 41.;[noData]
+
+In 
+select embodiments, the peptides comprise SEQ ID NO: 37 
+and are less than 50 amino acids.;[noData]
+
+In certain embodiments, the 
+peptides comprise both SEQ ID NO: 37 and SEQ ID NO: 42 
+and are 40 amino acids or less.;[noData]
+
+In more specific embodiments, 
+the peptides comprise SEQ ID NO: 37 and are less than 40 
+amino acids, less than 30 amino acids, less than 20 amino 
+acids, or less than 10 amino acids.;[noData]
+
+[0062] Screening of peptides of the invention may be car- 
+ried out utilizing competition assays as described above.;[noData]
+
+If 
+the peptide being tested competes with a ID05 antibody 
+molecule (Le.;[noData]
+
+any antibody molecule selective for PCSK9 
+which comprises a VL comprising SEQ ID NO: 27 and a VH 
+comprising SEQ ID NO: 11) as shown by a decrease in 
+binding of such ID05 antibody molecule then it is likely that 
+the peptide and ID05 bind to the same, or a closely related, 
+epitope.;[noData]
+
+Still another way to determine whether a peptide has 
+the specificity of the ID05 antibody molecule is to pre-incu- 
+bate the I D05 antibody molecule with PCSK9 with which it 
+is normally reactive, and then add the peptide being tested 
+with demonstrated specificity for PCSK9 to determine 
+whether the peptide is inhibited in its ability to bind PCSK9.;[noData]
+
+If the peptide being tested is inhibited then, in all likelihood, 
+it has the same, or a functionally equivalent, epitope and 
+specificity as the ID05 antibody molecule.;[noData]
+
+[0063] Using routine procedures as outlined throughout the 
+instant specification and well known to those of ordinary skill 
+in the art, one can then determine whether a peptide which 
+binds to PCSK9 is useful by determining whether the peptide 
+is blocks PCSK9 from binding to the LDL receptor and/or 
+prevents PCSK9 internalization into cells.;[noData]
+
+[0064] Expression and selection of any of the PCSK9-spe- 
+cific antagonists described in the present application may be 
+achieved using suitable technologies including, but not lim- 
+ited to phage display (see, e.;[noData]
+
+g.;[noData]
+
+, International Application 
+Number WO 92/01047, Kay et al.;[noData]
+
+, 1996 Phage Display of 
+Peptides and Proteins: 3 Laboratory Manual, San Diego: 
+Academic Press), yeast display, bacterial display, T7 display, 
+and ribosome display (see, e.;[noData]
+
+g.;[noData]
+
+, Lowe & Jermutus, 2004 Curr.;[noData]
+
+Pharm.;[noData]
+
+Biotech.;[noData]
+
+517-527).;[noData]
+
+[0065] Particular PCSK9-specific antagonists forming part 
+of the present invention are antibody molecules or antibodies.;[noData]
+
+"Antibody molecule" or "Antibody" as described herein 
+refers to an immunoglobulin-derived structure with selective 
+binding to human and/or murine PCSK9 including, but not 
+limited to, a full length or whole antibody, an antigen binding 
+fragment (a fragment derived, physically or conceptually, 
+from an antibody structure), a derivative of any of the fore- 
+going, a fusion of any of the foregoing with another polypep- 
+tide, or any alternative structure/composition which incorpo- 
+rates any of the foregoing for purposes of selectively binding 
+to/inhibiting the function of PCSK9.;[noData]
+
+[0066] "Whole" antibodies or "full length" antibodies refer 
+to proteins that comprise two heavy (H) and two light (L) 
+chains inter-connected by disulfide bonds which comprise: 
+(I) in terms of the heavy chains, a variable region (abbrevi- 
+ated herein as "V~") and a heavy chain constant region which 
+comprises three domains, C~„C~~, and C~3;;[noData]
+
+and (2) in terms 
+of the light chains, a light chain variable region (abbreviated 
+herein as "Vz") and a light chain constant region which com- 
+prises one domain, Cz.;[noData]
+
+[0067] Antibody fragments and, more specifically, antigen 
+binding fragments are molecules possessing an antibody vari- 
+able region or segment thereof (which comprises one or more 
+of the disclosed CDR 3 domains, heavy and/or light within 
+framework regions of heavy and/or light chains, as appropri- 
+ate), which confers selective binding to PCSK9, and particu- 
+larly human and/or murine PCSK9.;[noData]
+
+Antibody fragments con- 
+taining such an antibody variable region include, but are not 
+limited to the following antibody molecules: a Fab, a F(ab')2, 
+a Fd, a Fv, a scFv, bispecific antibody molecules (antibody 
+molecules comprising a PCSK9-specific antibody or antigen 
+binding fragment as disclosed herein linked to a second func- 
+tional moiety having a different binding specificity than the 
+antibody, including, without limitation, another peptide or 
+protein such as an antibody, or receptor Iigand), a bispecific 
+single chain Fv dimer, an isolated CDR3, a minibody, a 
+'scAb', a dAb fragment, a diabody, a triabody, a tetrabody, a 
+minibody, and artificial antibodies based upon protein scaf- 
+folds, including but not limited to fibronectin type III 
+polypeptide antibodies (see, e.;[noData]
+
+g.;[noData]
+
+, U.;[noData]
+
+S.;[noData]
+
+Pat.;[noData]
+
+No.;[noData]
+
+6, 703, 199 and 
+International Application Numbers WO 02/32925 and WO 
+00/34784) or cytochrome B;;[noData]
+
+see, e.;[noData]
+
+g.;[noData]
+
+, Nygren et al.;[noData]
+
+, 1997 
+Curr.;[noData]
+
+Opinion Struct.;[noData]
+
+Biol.;[noData]
+
+7:463-469;;[noData]
+
+the disclosures of 
+which are incorporated herein by reference.;[noData]
+
+The antibody 
+portions or binding fragments may be natural, or partly or 
+wholly synthetically produced.;[noData]
+
+Such antibody portions can 
+be prepared by various means known by one of skill in the art, 
+including, but not limited to, conventional techniques, such as 
+papain or pepsin digestion.;[noData]
+
+[0068] The term "isolated" as used herein in reference to 
+antibody molecules, PCSK9-specific antagonists in general, 
+encoding nucleic acid or other describes a property as it 
+pertains to the disclosed PCSK9-specific antagonists, nucleic 
+acid or other that makes them different from that found in 
+nature.;[noData]
+
+The difference can be, for example, that they are of a 
+different purity than that found in nature, or that they are of a 
+different structure or form part of a different structure than 
+that found in nature.;[noData]
+
+A structure not found in nature, for 
+example, includes recombinant human immunoglobulin 
+structures including, but not limited to, recombinant human 
+immunoglobulin structures with optimized CDRs.;[noData]
+
+Other 
+examples of structures not found in nature are PCSK9-spe- 
+cific antagonists or nucleic acid substantially free of other 
+cellular material.;[noData]
+
+Isolated PCSK9-specific antagonists are 
+generally free of other protein-specific antagonists having 
+different protein specificities (ke.;[noData]
+
+, possess an affinity for other 
+than PCSK9).;[noData]
+
+[0069] In one particular aspect, the present invention pro- 
+vides isolated PCSK9-specific antagonists which antagonize 
+US 2009/0246192 A1 
+10 
+Oct.;[noData]
+
+1, 2009 
+PCSK9 function.;[noData]
+
+In particular embodiments, said PCSK9- 
+specific antagonists inhibit human and/or murine PCSK9's 
+antagonism of cellular LDL uptake by interfering with 
+PCSK9 binding to the LDL receptor and resultant PCSK9 cell 
+internalization.;[noData]
+
+Disclosed PCSK9-specific antagonists, thus, 
+form desirable molecules for lowering plasma LDL-choles- 
+terol levels;;[noData]
+
+see, e.;[noData]
+
+g.;[noData]
+
+, Cohen et al.;[noData]
+
+, 2005 Nat.;[noData]
+
+Genet.;[noData]
+
+37:161- 
+165 (wherein significantly lower plasma LDL cholesterol 
+levels were noted in individuals heterozygous for a nonsense 
+mutation in allele PCSK9);;[noData]
+
+Rashid et al.;[noData]
+
+, 2005 Proc.;[noData]
+
+Natl.;[noData]
+
+Head.;[noData]
+
+Sci.;[noData]
+
+USA 102:5374-5379 (wherein PCSK9-knockout 
+mice evidenced increased numbers of LDLRs in hepatocytes, 
+accelerated plasma LDL clearance, and significantly lower 
+plasma cholesterol levels);;[noData]
+
+and Cohen et al.;[noData]
+
+, 2006 N.;[noData]
+
+Engl.;[noData]
+
+J.;[noData]
+
+Med.;[noData]
+
+354:1264-1272 (wherein humans heterozygous for 
+mutated, loss of function, PCSK9 exhibited a significant 
+reduction in the long-term risk of developing atherosclerotic 
+heart disease).;[noData]
+
+[0070] Through repeat experiments, I D05 antibody mol- 
+ecules as disclosed herein dose-dependently inhibited the 
+effects of both human and/or murine PCSK9 on LDL uptake.;[noData]
+
+In specific embodiments, the present invention, thus, encom- 
+passes PCSK9-specific antagonists and, in more specific 
+embodiments, antibody molecules comprising the heavy and/ 
+or light chain variable regions (SEQ ID NO: 11 and 27, 
+respectively) contained within these ID05 antibody mol- 
+ecules or the heavy and/or light chains, e.;[noData]
+
+g.;[noData]
+
+, amino acids 
+1-233 of SEQ ID NO: 9 (or SEQ ID NO: 9) and SEQ ID NO: 
+I, respectively, or SEQ ID NOs: 25 and 26, respectively, as 
+well as equivalents (characterized as having one or more 
+conservative amino acid substitutions that do not degrade the 
+PCSK9-selective property of ID05) or homologs thereof.;[noData]
+
+Particular embodiments comprise isolated PCSK9-specific 
+antagonists that comprise the CDR domains disclosed herein 
+or sets of heavy and/or light chain CDR domains disclosed 
+herein, or equivalents thereof, characterized as having one or 
+more conservative amino acid substitutions.;[noData]
+
+[0071] Use of the terms "domain" or "region" herein sim- 
+ply refers to the respective portion of the antibody molecule 
+wherein the sequence or segment at issue will reside or, in the 
+alternative, currently resides.;[noData]
+
+[0072] In specific embodiments, the present invention pro- 
+vides isolated PCSK9-specific antagonists and, in more spe- 
+cific embodiments, antibody molecules comprising a heavy 
+chain variable region which comprises SEQ ID NO: 11;;[noData]
+
+equivalents thereof characterized as having one or more con- 
+servative amino acid substitutions, and homologs thereof.;[noData]
+
+The disclosed antagonists should counteract or inhibit human 
+and/or murine PCSK9-dependent inhibition of cellular LDL 
+uptake.;[noData]
+
+In specific embodiments, the present invention pro- 
+vides homologs of the disclosed antagonists characterized as 
+being at least 90'zo identical over the heavy chain variable 
+region to SEQ ID NO: 11;;[noData]
+
+said antagonists which inhibit 
+human and/or murine PCSK9-dependent inhibition of cellu- 
+lar LDL uptake by at least 10'zo.;[noData]
+
+[0073] In specific embodiments, the present invention pro- 
+vides isolated PCSK9-specific antagonists and, in more spe- 
+cific embodiments, antibody molecules comprising a light 
+chain variable region which comprises SEQ ID NO: 27;;[noData]
+
+equivalents thereof characterized as having one or more con- 
+servative amino acid substitutions, and homologs thereof.;[noData]
+
+The disclosed antagonists should counteract or inhibit human 
+and/or murine PCSK9-dependent inhibition of cellular LDL 
+uptake.;[noData]
+
+In specific embodiments, the present invention pro- 
+vides homologs of the disclosed antagonists characterized as 
+being at least 90'zo identical over the light chain variable 
+region to SEQ ID NO: 27;;[noData]
+
+said antagonists which inhibit 
+human and/or murine PCSK9-dependent inhibition of cellu- 
+lar LDL uptake by at least 10'zo.;[noData]
+
+[0074] In specific embodiments, the present invention pro- 
+vides isolated PCSK9-specific antibody molecules which 
+comprise a heavy chain variable region comprising SEQ ID 
+NO: 11 and a light chain variable region comprising SEQ ID 
+NO: 27;;[noData]
+
+or equivalents thereof characterized as having one or 
+more conservative amino acid substitutions in the prescribed 
+sequences.;[noData]
+
+Specific embodiments are said antagonists which 
+inhibit human and/or murine PCSK9-dependent inhibition of 
+cellular LDL uptake by at least 10'zo.;[noData]
+
+In specific embodi- 
+ments, the present invention provides homologs of the dis- 
+closed antagonists characterized as being at least 90'zo iden- 
+tical over the heavy and light chain variable regions to SEQ ID 
+NOs: 11 and 27, respectively;;[noData]
+
+said antagonists which inhibit 
+human and/or murine PCSK9-dependent inhibition of cellu- 
+lar LDL uptake by at least 10'zo.;[noData]
+
+[0075] In particular embodiments, the present invention 
+provides isolated PCSK9-specific antagonists and, in more 
+specific embodiments, PCSK9 antibody molecules that com- 
+prise variable heavy CDR3 sequence SEQ ID NO: 17;;[noData]
+
+and 
+equivalents thereof characterized as having one or more con- 
+servative amino acid substitutions;;[noData]
+
+specific embodiments of 
+which inhibit human and/or murine PCSK9-dependent inhi- 
+bition of cellular LDL uptake by at least 10'zo.;[noData]
+
+Specific 
+embodiments provide isolated antagonists which addition- 
+ally comprise in the heavy chain variable region CDRI and/or 
+CDR2 sequences comprising SEQ ID NO: 13 and/or SEQ ID 
+NO: 15, respectively;;[noData]
+
+or equivalents thereof characterized as 
+having one or more conservative amino acid substitutions in 
+any one or more of the CDR sequences.;[noData]
+
+In specific embodi- 
+ments, the present invention provides homologs of the dis- 
+closed antagonists characterized as being at least 90'zo iden- 
+tical over the CDR3 sequences or within each of the CDRI, 
+CDR2 and CDR3 sequences to SEQ ID NO: 17 or SEQ ID 
+NOs: 13, 15 and 17, respectively, as appropriate;;[noData]
+
+said antago- 
+nists which inhibit human and/or murine PCSK9-dependent 
+inhibition of cellular LDL uptake by at least 10'zo.;[noData]
+
+[0076] In particular embodiments, the present invention 
+provides isolated PCSK9-specific antagonists and, in more 
+specific embodiments, antibody molecules which comprise 
+variable light CDR3 sequence which comprises SEQ ID NO: 
+7;;[noData]
+
+and equivalents thereof characterized as having one or 
+more conservative amino acid substitutions;;[noData]
+
+specific embodi- 
+ments of which inhibit human and/or murine PCSK9-depen- 
+dent inhibition of cellular LDL uptake by at least 10'zo.;[noData]
+
+Spe- 
+cific embodiments provide isolated antagonists which 
+additionally comprise in the light chain variable region CDRI 
+and/or CDR2 sequences comprising SEQ ID NO: 3 and/or 
+SEQ ID NO: 5, respectively;;[noData]
+
+or an equivalent thereof charac- 
+terized as having one or more conservative amino acid sub- 
+stitutions in any one or more of the CDR sequences.;[noData]
+
+In spe- 
+cific embodiments, the present invention provides homologs 
+of the disclosed antagonists characterized as being at least 
+90'zo identical over the CDR3 sequences or within each of the 
+CDRI, CDR2 and CDR3 sequences to SEQ ID NO: 7 or SEQ 
+ID NOs: 3, 5 and 7, respectively, as appropriate;;[noData]
+
+said antago- 
+nists which inhibit human and/or murine PCSK9-dependent 
+inhibition of cellular LDL uptake by at least 10'zo.;[noData]
+
+[0077] In particular embodiments, the present invention 
+provides isolated PCSK9-specific antagonists and, in more 
+US 2009/0246192 A1 Oct.;[noData]
+
+1, 2009 
+specific embodiments, antibody molecules which comprise 
+heavy chain variable region CDR3 sequence and light chain 
+variable region CDR3 sequence comprising SEQ ID NOs: 17 
+and 7, respectively;;[noData]
+
+or equivalents thereof characterized as 
+having one or more conservative amino acid substitutions in 
+any one or more of the CDR3 sequences;;[noData]
+
+specific embodi- 
+ments of which inhibit human and/or murine PCSK9-depen- 
+dent inhibition of cellular LDL uptake by at least 10'zo.;[noData]
+
+In 
+specific embodiments, the present invention provides 
+homologs of the disclosed antagonists characterized as being 
+at least 90'zo identical over the heavy and light chain variable 
+region CDR3 sequences to SEQ ID NOs: 17 and 7, respec- 
+tively;;[noData]
+
+said antagonists which inhibit human and/or murine 
+PCSK9-dependent inhibition of cellular LDL uptake by at 
+least 10'zo.;[noData]
+
+[0078] Specific embodiments provide isolated PCSK9- 
+specific antagonists and, in more specific embodiments, anti- 
+body molecules which comprise heavy chain variable region 
+CDRI, CDR2, and CDR3 sequences and light chain variable 
+region CDRI, CDR2, and CDR3 sequences comprising SEQ 
+ID NOs: 13, 15, 17, 3, 5 and 7, respectively;;[noData]
+
+and equivalents 
+thereof characterized as having one or more conservative 
+amino acid substitutions in any one or more of the CDR 
+sequences;;[noData]
+
+specific embodiments of which inhibit human 
+and/or murine PCSK9-dependent inhibition of cellular LDL 
+uptake by at least 10'zo.;[noData]
+
+In specific embodiments, the present 
+invention provides homologs of the disclosed antagonists 
+characterized as being at least 90'zo identical over the heavy 
+and light chain variable region CDRI, CDR2 and CDR3 
+sequences to SEQ ID NOs: 13, 15, 17, 3, 5 and 7, respectively;;[noData]
+
+said antagonists which inhibit human and/or murine PCSK9- 
+dependent inhibition of cellular LDL uptake by at least 10'zo.;[noData]
+
+[0079] One particular aspect of the present invention 
+encompasses isolated PCSK9-specific antagonists and, in 
+more specific embodiments, antibody molecules which are 
+variants o f that disclosed above which comprise a heavy chain 
+variable region CDR3 sequence of SEQ ID NO: 45 wherein 
+the CDR3 sequence is not SEQ ID NO: 17;;[noData]
+
+specific embodi- 
+ments of which inhibit human and/or murine PCSK9-depen- 
+dent inhibition of cellular LDL uptake by at least 10'zo.;[noData]
+
+Fur- 
+ther embodiments hereof additionally comprise heavy chain 
+variable region CDRI sequence of SEQ ID NO: 43 wherein 
+the variant sequence is not SEQ ID NO: 13 and/or heavy chain 
+variable region CDR2 sequence of SEQ ID NO: 44 wherein 
+the variant sequence is not SEQ ID NO: 15;;[noData]
+
+specific embodi- 
+ments of which inhibit human and/or murine PCSK9-depen- 
+dent inhibition of cellular LDL uptake by at least 10'zo.;[noData]
+
+In 
+other embodiments, the present invention encompasses 
+heavy chain variable region sequence comprising CDRI, 
+CDR2, and CDR3 sequence which, respectively, comprises 
+SEQ ID NOs: 43, 44 and 45 in the respective regions, which 
+are, respectively, not SEQ ID NOs: 13, 15 and 17;;[noData]
+
+specific 
+embodiments of which inhibit human and/or murine PCSK9- 
+dependent inhibition of cellular LDL uptake by at least 10'zo.;[noData]
+
+[0080] Another aspect of the present invention encom- 
+passes isolated PCSK9-specific antagonists and, in more spe- 
+cific embodiments, antibody molecules which are variants of 
+that disclosed above which comprise a light chain variable 
+region CDR3 sequence of SEQ ID NO: 48 wherein the CDR3 
+sequence is not SEQ ID NO: 7;;[noData]
+
+specific embodiments of 
+which inhibit human and/or murine PCSK9-dependent inhi- 
+bition of cellular LDL uptake by at least 10'zo.;[noData]
+
+Further 
+embodiments hereof additionally comprise light chain vari- 
+able region CDRI sequence of SEQ ID NO: 46 wherein the 
+variant sequence is not SEQ ID NO: 3 and/or light chain 
+variable region CDR2 sequence of SEQ ID NO: 47 wherein 
+the variant sequence is not SEQ ID NO: 5;;[noData]
+
+specific embodi- 
+ments of which inhibit human and/or murine PCSK9-depen- 
+dent inhibition of cellular LDL uptake by at least 10'zo.;[noData]
+
+In 
+other embodiments, the present invention encompasses light 
+chain variable region sequence comprising CDRI, CDR2 and 
+CDR3 sequence which, respectively, comprises SEQ ID 
+NOs: 46, 47 and 48 in the respective regions, which are, 
+respectively, not SEQ ID NOs: 3, 5 and 7;;[noData]
+
+specific embodi- 
+ments of which inhibit human and/or murine PCSK9-depen- 
+dent inhibition of cellular LDL uptake by at least 10'zo.;[noData]
+
+[0081] Additional distinct embodiments encompass iso- 
+lated PCSK9-specific antagonists which comprise: (a) a 
+heavy chain variable region comprising CDRI, CDR2 and 
+CDR3 sequence, wherein (I) the CDRI sequence comprises 
+SEQ ID NO: 13 or SEQ ID NO: 43;;[noData]
+
+SEQ ID NO: 43 being 
+different in sequence from SEQ ID NO: 13;;[noData]
+
+(ii) the CDR2 
+sequence comprises SEQ ID NO: 15 or SEQ ID NO: 44;;[noData]
+
+SEQ 
+ID NO: 44 being different in sequence from SEQ ID NO: 15;;[noData]
+
+and (iii) the CDR3 sequence comprises SEQ ID NO: 17 or 
+SEQ ID NO: 45;;[noData]
+
+SEQ ID NO: 45 being different in sequence 
+from SEQ ID NO: 17;;[noData]
+
+and/or (b) a light chain variable region 
+comprising CDRI, CDR2 and CDR3 sequence, wherein (I) 
+the CDRI sequence comprises SEQ ID NO: 3 or SEQ ID NO: 
+46;;[noData]
+
+SEQ ID NO: 46 being different in sequence from SEQ ID 
+NO: 3;;[noData]
+
+(ii) the CDR2 sequence comprises SEQ ID NO: 5 or 
+SEQ ID NO: 47;;[noData]
+
+SEQ ID NO: 47 being different in sequence 
+from SEQ ID NO: 5;;[noData]
+
+and (iii) the CDR3 sequence comprises 
+SEQ ID NO: 7 or SEQ ID NO: 48;;[noData]
+
+SEQ ID NO: 48 being 
+different in sequence from SEQ ID NO: 7;;[noData]
+
+specific embodi- 
+ments of which inhibit human and/or murine PCSK9-depen- 
+dent inhibition of cellular LDL uptake by at least 10'zo.;[noData]
+
+[0082] Other aspects of the present invention encompass 
+isolated PCSK9-specific antagonists and, in more specific 
+embodiments, antibody molecules which are variants of that 
+disclosed above which comprise (I) a heavy chain variable 
+region sequence comprising CDRI, CDR2, and CDR3 
+sequence which, respectively, comprises SEQ ID NOs: 43, 44 
+and 45 in the respective regions, which are, respectively, not 
+SEQ ID NOs:13, 15 and 17;;[noData]
+
+and (ii) a light chain variable 
+region sequence comprising CDRI, CDR2 and CDR3 
+sequence which, respectively, comprises SEQ ID NOs: 46, 47 
+and 48 in the respective regions, which are, respectively, not 
+SEQ ID NOs: 3, 5 and 7;;[noData]
+
+specific embodiments of which 
+inhibit human and/or murine PCSK9-dependent inhibition of 
+cellular LDL uptake by at least 10'zo.;[noData]
+
+[0083] In specific embodiments herein the CDRs are in 
+place of the corresponding regions of ID05 with out without 
+conservative amino acid substitutions;;[noData]
+
+specific embodiments 
+of which inhibit human and/or murine PCSK9-dependent 
+inhibition of cellular LDL uptake by at least 10'zo.;[noData]
+
+In particu- 
+lar embodiments, the present invention encompasses isolated 
+PCSK9-specific antagonists and, in more specific embodi- 
+ments, antibody molecules comprising heavy and/or light 
+chain variable regions comprising SEQ ID NOs: 50 and 49, 
+respectively;;[noData]
+
+said variants SEQ ID NOs which are not SEQ ID 
+NOs: 11 and 27, respectively;;[noData]
+
+specific embodiments of which 
+inhibit human and/or murine PCSK9-dependent inhibition of 
+cellular LDL uptake by at least 10'zo.;[noData]
+
+[0084] Specific embodiments include any isolated PCSK9- 
+specific antagonist and, in more specific embodiments, anti- 
+body molecules which comprise heavy chain variable region 
+sequence found in any of SEQ ID NOs: 51-56, optionally 
+US 2009/0246192 A1 
+12 
+Oct.;[noData]
+
+1, 2009 
+comprising a light chain variable region sequence disclosed 
+herein (e.;[noData]
+
+g.;[noData]
+
+, SEQ ID NO: 27);;[noData]
+
+specific embodiments of which 
+inhibit human and/or murine PCSK9-dependent inhibition of 
+cellular LDL uptake by at least 10'zo.;[noData]
+
+Other embodiments 
+include any isolated PCSK9-specific antagonist and, in more 
+specific embodiments, antibody molecules which comprise 
+light chain variable region sequence found in any of SEQ ID 
+NOs: 57-60, optionally comprising a heavy chain variable 
+region sequence disclosed herein (e.;[noData]
+
+g.;[noData]
+
+, SEQ ID NO: 11);;[noData]
+
+specific embodiments of which inhibit human and/or murine 
+PCSK9-dependent inhibition of cellular LDL uptake by at 
+least 10'zo.;[noData]
+
+[0085] Particular embodiments are isolated PCSK9-spe- 
+cific antagonists which comprise the above-described VH and 
+VL regions in a full length antibody.;[noData]
+
+Specific embodiments 
+herein further comprise a series of amino acids selected from 
+the group consisting of: SEQ ID NO: 21 (IgGI), SEQ ID NO: 
+22 (IgG2), SEQ ID NO: 23 (IgG4) and SEQ ID NO: 24 (IgG2 
+m4).;[noData]
+
+[0086] Conservative amino acid substitutions, as one of 
+ordinary skill in the art will appreciate, are substitutions that 
+replace an amino acid residue with one imparting similar or 
+better (for the intended purpose) functional and/or chemical 
+characteristics.;[noData]
+
+Antagonists bearing such conservative amino 
+acid substitutions can be tested for retained or better activity 
+using functional assays available in the art or described 
+herein.;[noData]
+
+PCSK9-specific antagonists possessing one or more 
+conservative amino acid substitutions which retain the ability 
+to selectively bind to human PCSK9 and antagonize PCSK9 
+functioning at a level the same or better than I D05 antibody 
+molecules as described herein are referred to herein as "func- 
+tional equivalents" of the disclosed antagonists and form 
+specific embodiments of the present invention.;[noData]
+
+Conservative 
+amino acid substitutions are often ones in which the amino 
+acid residue is replaced with an amino acid residue having a 
+similar side chain.;[noData]
+
+Families of amino acid residues having 
+similar side chains have been defined in the art.;[noData]
+
+These fami- 
+lies include amino acids with basic side chains (e.;[noData]
+
+g.;[noData]
+
+, lysine, 
+arginine, histidine), acidic side chains (e.;[noData]
+
+g.;[noData]
+
+, aspartic acid, 
+glutamic acid), uncharged polar side chains (e.;[noData]
+
+g.;[noData]
+
+, glycine, 
+asparagine, glutamine, serine, threonine, tyrosine, cysteine, 
+tryptophan), nonpolar side chains (e.;[noData]
+
+g.;[noData]
+
+, alanine, valine, leu- 
+cine, isoleucine, proline, phenylalanine, methionine), beta- 
+branched side chains (e.;[noData]
+
+g.;[noData]
+
+, threonine, valine, isoleucine) and 
+aromatic side chains (e.;[noData]
+
+g.;[noData]
+
+, tyrosine, phenylalanine, tryp- 
+tophan, histidine).;[noData]
+
+Such modifications are not designed to 
+significantly reduce or alter the binding or functional inhibi- 
+tion characteristics of the PCSK9-specific antagonist, albeit 
+they may improve such properties.;[noData]
+
+The purpose for making a 
+substitution is not significant and can include, but is by no 
+means limited to, replacing a residue with one better able to 
+maintain or enhance the structure of the molecule, the charge 
+or hydrophobicity o f the molecule, or the size of the molecule.;[noData]
+
+For instance, one may desire simply to substitute a less 
+desired residue with one of the same polarity or charge.;[noData]
+
+Such 
+modifications can be introduced by standard techniques 
+known in the art, such as site-directed mutagenesis and PCR- 
+mediated mutagenesis.;[noData]
+
+One specific means by which those of 
+skill in the art accomplish conservative amino acid substitu- 
+tions is alanine scanning mutagenesis as discussed in, for 
+example, MacLennan et al.;[noData]
+
+, 1998 Acta Physio/.;[noData]
+
+Seand.;[noData]
+
+Supp/.;[noData]
+
+643:55-67, and Sasaki et al.;[noData]
+
+, 1998 Adv.;[noData]
+
+Biophys.;[noData]
+
+35:1-24.;[noData]
+
+[0087] In another aspect, the present invention provides 
+isolated PCSK9-specific antagonists and, in more specific 
+embodiments, antibody molecules which comprise heavy 
+and/or light chain variable regions comprising amino acid 
+sequences that are homologous to the corresponding amino 
+acid sequences of the disclosed antibodies, wherein the anti- 
+body molecules inhibit PCSK9-dependent inhibition of cel- 
+lular LDL uptake.;[noData]
+
+Specific embodiments are antagonists 
+which comprise heavy and/or light chain variable regions 
+which are at least 90'zo identical to disclosed heavy and/or 
+light chain variable regions, respectively.;[noData]
+
+Reference to "at 
+least 90'zo identical" includes at least 90, 91, 92, 93, 94, 95, 96, 
+97, 98, 99 and 100'zo identical sequences along the full length 
+of the molecule disclosed herein.;[noData]
+
+[00SS] PCSK9-specific antagonists with amino acid 
+sequences homologous to the amino acid sequences of 
+antagonists described herein are typically produced to 
+improve one or more of the properties of the antagonist with- 
+out negatively impacting its specificity for PCSK9.;[noData]
+
+One 
+method of obtaining such sequences, which is not the only 
+method available to the skilled artisan, is to mutate sequence 
+encoding the PCSK9-specific antagonist or specificity-deter- 
+mining region(s) thereof, express an antagonist comprising 
+the mutated sequence(s), and test the encoded antagonist for 
+retained function using available functional assays including 
+those described herein.;[noData]
+
+Mutation may be by site-directed or 
+random mutagenesis.;[noData]
+
+As one of skill in the art will appreciate, 
+however, other methods of mutagenesis can readily bring 
+about the same effect.;[noData]
+
+For example, in certain methods, the 
+spectrum of mutants are constrained by non-randomly target- 
+ing conservative substitutions based on either amino acid 
+chemical or structural characteristics, or else by protein struc- 
+tural considerations.;[noData]
+
+In affinity maturation experiments, sev- 
+eral such mutations may be found in a single selected mol- 
+ecule, whether they are randomly or non-randomly selected.;[noData]
+
+There are also various structure-based approaches toward 
+affinity maturation as demonstrated in, e.;[noData]
+
+g.;[noData]
+
+, U.;[noData]
+
+S.;[noData]
+
+Pat.;[noData]
+
+No.;[noData]
+
+7, 117, 096, PCT Pub.;[noData]
+
+Nos.;[noData]
+
+: WO 02/084277 and WO 
+03/099999;;[noData]
+
+the disclosures of which are incorporated herein 
+by reference.;[noData]
+
+[0089] As used herein, the percent homology between two 
+amino acid or nucleic acid sequences is equivalent to the 
+percent identity between the two sequences, and these two 
+terms will be used interchangeably throughout.;[noData]
+
+As used 
+herein, 'zo identity of two nucleic acid or amino acid 
+sequences is determined using the algorithm of Karlin and 
+Altschul (Proc.;[noData]
+
+Natl.;[noData]
+
+Acad.;[noData]
+
+Sci.;[noData]
+
+USA 90:5873-5877, 1993).;[noData]
+
+Such an algorithm is incorporated into the NBLAST and 
+XBLAST programs of Altschul et al.;[noData]
+
+, 1990 J.;[noData]
+
+Mol.;[noData]
+
+Biol.;[noData]
+
+215:403-410.;[noData]
+
+BLAST nucleotide searches are performed 
+with the NBLAST program, score=100, wordlength=12, to 
+obtain nucleic acid sequences homologous to a nucleic acid 
+molecule of the invention.;[noData]
+
+BLAST protein searches are per- 
+formed with the XBLAST program, score=50, 
+wordlength=3, to obtain amino acid sequences homologous 
+to an amino acid sequence disclosed herein.;[noData]
+
+To obtain gapped 
+alignments for comparison purposes, Gapped BLAST is uti- 
+lized as described in Altschul et al.;[noData]
+
+, 1997 Nucleic Acids Res.;[noData]
+
+25:3389-3402.;[noData]
+
+When utilizing BLAST and Gapped BLAST 
+programs, the default parameters of the respective programs 
+(e.;[noData]
+
+g.;[noData]
+
+, XBLAST and NBLAST) are used.;[noData]
+
+[0090] Utilization of components of one or more disclosed 
+PCSK9-specific molecules to produce other binding mol- 
+ecules with similar or better specificity is well within the 
+realm of one skilled in the art.;[noData]
+
+This can be accomplished, for 
+example, using techniques of recombinant DNA technology.;[noData]
+
+US 2009/0246192 A1 
+13 
+Oct.;[noData]
+
+1, 2009 
+One specific example of this involves the introduction of 
+DNA encoding the immunoglobulin variable region, or one or 
+more of the CDRs, of an antibody to the variable region, 
+constant region, or constant region plus framework regions, 
+as appropriate, of a different immunoglobulin.;[noData]
+
+Such mol- 
+ecules form important aspects of the present invention.;[noData]
+
+Spe- 
+cific immunoglobulins or the corresponding sequences, into 
+which particular disclosed sequences may be inserted or, in 
+the alternative, form the essential part of, include but are not 
+limited to the following antibody molecules which form par- 
+ticular embodiments of the present invention: a Fab (monova- 
+lent fragment with variable light (VL), variable heavy (VH), 
+constant light (CL) and constant heavy I (CHI) domains), a 
+F(ab')~ (bivalent fragment comprising two Fab fragments 
+linked by a disulfide bridge or alternative at the hinge region), 
+a Fd (VH and CHI domains), a Fv (VL and VH domains), a 
+scFv (a single chain Fv where VL and VH are joined by a 
+linker, e.;[noData]
+
+g.;[noData]
+
+, a peptide linker, see, e.;[noData]
+
+g.;[noData]
+
+, Bird et al.;[noData]
+
+, 1988 Science 
+242:423-426, Huston et al.;[noData]
+
+, 1988 PNAS USA 85:5879-5883), 
+a bispecific antibody molecule (an antibody molecule com- 
+prising a PCSK9-specific antibody or antigen binding frag- 
+ment as disclosed herein linked to a second functional moiety 
+having a different binding specificity than the antibody, 
+including, without limitation, another peptide or protein such 
+as an antibody, or receptor Iigand), a bispecific single chain 
+Fv dimer (see, e.;[noData]
+
+g.;[noData]
+
+, PCT/US92/09965), an isolated CDR3, a 
+minibody (single chain-CH3 fusion that self assembles into a 
+bivalent dimer of about 80 kDa), a 'scAb' (an antibody frag- 
+ment containing VH and VL as well as either CL or CHI), a 
+dAb fragment (VH domain, see, e.;[noData]
+
+g.;[noData]
+
+, Ward et al.;[noData]
+
+, 1989 Nature 
+341:544-546, and McCafferty et al.;[noData]
+
+, 1990 Nature 348:552- 
+554;;[noData]
+
+or VL domain;;[noData]
+
+Holt et al.;[noData]
+
+, 2003 Trends in Biotechnology 
+21:484-489), a diabody (see, e.;[noData]
+
+g.;[noData]
+
+, Holliger et al.;[noData]
+
+, 1993 PNAS 
+USA 90:6444-6448 and International Application Number 
+WO 94/13804), a triabody, a tetrabody, a minibody (a scFv 
+joined to a CH3;;[noData]
+
+see, e.;[noData]
+
+g.;[noData]
+
+, Hu et al.;[noData]
+
+, 1996 Cancer Res.;[noData]
+
+56:3055-3061), IgG, IgGI, IgG2, IgG3, IgG4, IgM, IgD, IgA, 
+IgE or any derivatives thereof, and artificial antibodies based 
+upon protein scaffolds, including but not limited to fibronec- 
+tin type III polypeptide antibodies (see, e.;[noData]
+
+g.;[noData]
+
+, U.;[noData]
+
+S.;[noData]
+
+Pat.;[noData]
+
+No.;[noData]
+
+6, 703, 199 and International Application Number WO 
+02/32925) or cytochrome B;;[noData]
+
+see, e.;[noData]
+
+g.;[noData]
+
+, Koide et al.;[noData]
+
+, 1998 J.;[noData]
+
+Molec.;[noData]
+
+Biol.;[noData]
+
+284:1141-1151, and Nygren et al.;[noData]
+
+, 1997 Current 
+Opinion in Structural Biology 7:463-469;;[noData]
+
+the disclosures of 
+which are incorporated herein by reference.;[noData]
+
+Certain antibody 
+molecules including, but not limited to, Fv, scFv, diabody 
+molecules or domain antibodies (Domantis) may be stabi- 
+lized by incorporating di sulfid bridges to line the VH and VL 
+domains, see, e.;[noData]
+
+g.;[noData]
+
+, Reiter et al.;[noData]
+
+, 1996 Nature Biotech.;[noData]
+
+14:1239-1245;;[noData]
+
+the disclosure of which is incorporated herein 
+by reference.;[noData]
+
+Bispecific antibodies may be produced using 
+conventional technologies (see, e.;[noData]
+
+g.;[noData]
+
+, Holliger & Winter, 1993 
+Current Opinion Biotechnol.;[noData]
+
+4:446-449, specific methods of 
+which include production chemically, or from hybrid hybri- 
+domas) and other technologies including, but not limited to, 
+the BiTE™ technology (molecules possessing antigen bind- 
+ing regions of different specificity with a peptide linker) and 
+knobs-into-holes engineering (see, e.;[noData]
+
+g.;[noData]
+
+, Ridgeway et al.;[noData]
+
+, 
+1996 Protein Eng.;[noData]
+
+9:616-621;;[noData]
+
+the disclosure of which is 
+incorporated herein by reference).;[noData]
+
+Bispecific diabodies may 
+be produced in E.;[noData]
+
+coli, and these molecules as other PCSK9- 
+specific antagonists, as one of skill in the art will appreciate, 
+may be selected using phage display in the appropriate librar- 
+ies (see, e.;[noData]
+
+g.;[noData]
+
+, International Application Number WO 
+94/13804;;[noData]
+
+the disclosure of which is incorporated herein by 
+reference).;[noData]
+
+[0091] Variable domains, into which CDRs of interest are 
+inserted, may be obtained from any germ-line or rearranged 
+human variable domain.;[noData]
+
+Variable domains may also be syn- 
+thetically produced.;[noData]
+
+The CDR regions can be introduced into 
+the respective variable domains using recombinant DNA 
+technology.;[noData]
+
+One means by which this can be achieved is 
+described in Marks et al.;[noData]
+
+, 1992 Bio/'Technology 10:779-783;;[noData]
+
+the disclosure of which is incorporated herein by reference.;[noData]
+
+A 
+variable heavy domain may be paired with a variable light 
+domain to provide an antigen binding site.;[noData]
+
+In addition, inde- 
+pendent regions (e.;[noData]
+
+g.;[noData]
+
+, a variable heavy domain alone) may be 
+used to bind antigen.;[noData]
+
+The artisan is well aware, as well, that 
+two domains of an Fv fragment, VL and VH, while perhaps 
+coded by separate genes, may be joined, using recombinant 
+methods, by a synthetic linker that enables them to be made as 
+a single protein chain in which the VL and VH regions pair to 
+form monovalent molecules (scFvs).;[noData]
+
+[0092] Specific embodiments provide the CDR(s) in germ- 
+line framework regions.;[noData]
+
+Framework regions, including but 
+not limited to human framework regions, are known to those 
+of skill in the art (e.;[noData]
+
+g.;[noData]
+
+, a human or non-human framework).;[noData]
+
+The framework regions may be naturally occurring or con- 
+sensus framework regions.;[noData]
+
+In one aspect, the framework 
+region of an antibody of the invention is human (see, e.;[noData]
+
+g.;[noData]
+
+, 
+Clothia et al.;[noData]
+
+, 1998 J.;[noData]
+
+Mol.;[noData]
+
+Biol.;[noData]
+
+278:457-479 for a listing of 
+human framework regions;;[noData]
+
+said disclosure of which is incor- 
+porated herein by reference in its entirety).;[noData]
+
+Specific embodi- 
+ments herein provide heavy chain variable CDR3 SEQ ID 
+NO: 17 into VHIA 3 in place of the relevant CDR.;[noData]
+
+Specific 
+embodiments herein provide heavy chain variable CDRI, 
+CDR2 and/or CDR3 sequences (SEQ ID NO:s 13, 15 and 17, 
+respectively) into VHIA 3 in place of the relevant CDRs.;[noData]
+
+Specific embodiments herein provide light chain variable 
+CDR3 SEQ ID NO: 7 into VKI 4 in place of the relevant 
+CDR.;[noData]
+
+Specific embodiments herein provide light chain vari- 
+able CDRI, CDR2 and/or CDR3 sequences (SEQ ID NO: s 3, 
+5 and 7, respectively) into VKI 4 in place of the relevant 
+CDRs.;[noData]
+
+Specific embodiments further provide heavy chain 
+variable CDR3 SEQ ID NO: 17 and light chain variable 
+CDR3 SEQ ID NO: 7 into VHIA 3 and VK14 germline 
+sequences, respectively.;[noData]
+
+Further embodiments, provide 
+heavy chain variable CDRI, CDR2 and/or CDR3 sequences 
+(SEQ ID NO:s 13, 15 and 17, respectively) into VHIA 3 in 
+place of the relevant CDRs;;[noData]
+
+and light chain variable CDRI, 
+CDR2 and/or CDR3 sequences (SEQ ID NO:s 3, 5 and 7, 
+respectively) into VKI 4 in place of the relevant CDRs.;[noData]
+
+[0093] The present invention encompasses antibody mol- 
+ecules that are human, humanized, deimmunized, chimeric 
+and primatized.;[noData]
+
+The invention also encompasses antibody 
+molecules produced by the process of veneering;;[noData]
+
+see, e.;[noData]
+
+g.;[noData]
+
+, 
+Mark et al.;[noData]
+
+, 1994 Handbook of Experimental Pharmacology, 
+vol.;[noData]
+
+113: The pharmacology of monoclonal Antibodies, 
+Springer-Verlag, pp.;[noData]
+
+105-134;;[noData]
+
+the disclosure of which is 
+incorporated herein by reference.;[noData]
+
+"Human" in reference to 
+the disclosed antibody molecules specifically refers to anti- 
+body molecules having variable and/or constant regions 
+derived from human germline immunoglobulin sequences, 
+wherein said sequences may, but need not, be modified/al- 
+tered to have certain amino acid substitutions or residues that 
+are not encoded by human germline immunoglobulin 
+sequence.;[noData]
+
+Such mutations can be introduced by methods 
+US 2009/0246192 A1 
+14 
+Oct.;[noData]
+
+1, 2009 
+including, but not limited to, random or site-specific 
+mutagenesis in vitro, or by somatic mutation in vivo.;[noData]
+
+Specific 
+examples of mutation techniques discussed in the literature 
+are that disclosed in Gram et al.;[noData]
+
+, 1992 PNAS USA 89:3576- 
+3580;;[noData]
+
+Barbas et al.;[noData]
+
+, 1994 PNAS USA 91:3809-3813, and 
+Schier et al.;[noData]
+
+, 1996 J.;[noData]
+
+Mol.;[noData]
+
+Biol.;[noData]
+
+263:551-567;;[noData]
+
+the disclosures 
+of which are incorporated herein by reference.;[noData]
+
+These are only 
+specific examples and do not represent the only available 
+techniques.;[noData]
+
+There are a plethora of mutation techniques in the 
+scientific literature which are available to, and widely appre- 
+ciated by, the skilled artisan.;[noData]
+
+"Humanized" in reference to the 
+disclosed antibody molecules refers specifically to antibody 
+molecules wherein CDR sequences derived from another 
+mammalian species, such as a mouse, are grafted onto human 
+framework sequences.;[noData]
+
+"Primatized" in reference to the dis- 
+closed antibody molecules refers to antibody molecules 
+wherein CDR sequences of a non-primate are inserted into 
+primate framework sequences, see, e.;[noData]
+
+g.;[noData]
+
+, WO 93/02108 and 
+WO 99/55369;;[noData]
+
+the disclosures of which are incorporated 
+herein by reference.;[noData]
+
+[0094] Specific antibodies of the present invention are 
+monoclonal antibodies and, in particular embodiments, are in 
+one of the following antibody formats: IgD, IgA, IgE, IgM, 
+IgGI, IgG2, IgG3, IgG4 or any derivative of any of the fore- 
+going.;[noData]
+
+The language "derivatives 
+thereof 
+' or "derivatives" in 
+this respect includes, inter alia, (I) antibodies and antibody 
+molecules with conservative modifications in one or both 
+variable regions (Le.;[noData]
+
+, VH and/or VL), (ii) antibodies and 
+antibody molecules with manipulations in the constant 
+regions of the heavy and/or light chains, and/or (fii) antibod- 
+ies and antibody molecules that contain additional chemical 
+moieties which are not normally a part of the immunoglobulin 
+molecule (e.;[noData]
+
+g.;[noData]
+
+, pegylation).;[noData]
+
+[0095] Manipulations of the variable regions can be within 
+one or more of the VH and/or VL CDR regions.;[noData]
+
+Site-directed 
+mutagenesis, random mutagenesis or other method for gen- 
+erating sequence or molecule diversity can be utilized to 
+create mutants which can subsequently be tested for a par- 
+ticular functional property of interest in available in vitro or in 
+vivo assays including those described herein.;[noData]
+
+[0096] Antibodies of the present invention also include 
+those in which modifications have been made to the frame- 
+work residues within VH and/or VL to improve one or more 
+properties of the antibody of interest.;[noData]
+
+Typically, such frame- 
+work modifications are made to decrease the immunogenicity 
+of the antibody.;[noData]
+
+For example, one approach is to "backmu- 
+tate" one or more framework residues to the corresponding 
+germline sequence.;[noData]
+
+More specifically, an antibody that has 
+undergone somatic mutation may contain framework resi- 
+dues that differ from the germline sequence from which the 
+antibody is derived.;[noData]
+
+Such residues can be identified by com- 
+paring the antibody framework sequences to the germline 
+sequences from which the antibody is derived.;[noData]
+
+Such "back- 
+mutated" antibodies are also intended to be encompassed by 
+the invention.;[noData]
+
+Another type of framework modification 
+involves mutating one or more residues within the framework 
+region, or even within one or more CDR regions, to remove T 
+cell epitopes to thereby reduce the potential immunogenicity 
+of the antibody.;[noData]
+
+This approach is also referred to as "deim- 
+munization" and is described in further detail in U.;[noData]
+
+S.;[noData]
+
+Patent 
+Publication No.;[noData]
+
+20030153043 by Carr et al;;[noData]
+
+the disclosure of 
+which is incorporated herein by reference.;[noData]
+
+[0097] In addition or alternative to modifications made 
+within the framework or CDR regions, antibodies of the 
+invention may be engineered to include modifications within 
+the Fc or constant regions, where present, typically to alter 
+one or more functional properties of the antibody, such as 
+serum half-life, complement fixation, Fc receptor binding, 
+and/or antigen-dependent cellular cytotoxicity.;[noData]
+
+[0098] The concept of generating "hybrids" or "combina- 
+torial" IgG forms comprising various antibody isotypes to 
+hone in on desired effector functionality has generally been 
+described;;[noData]
+
+see, e.;[noData]
+
+g.;[noData]
+
+, Tao et al.;[noData]
+
+, 1991 J.;[noData]
+
+Exp.;[noData]
+
+Med.;[noData]
+
+173:1025- 
+1028.;[noData]
+
+A specific embodiment of the present invention encom- 
+passes antibody molecules that possess specific manipula- 
+tions in the Fc region which have been found to result in 
+reduced or altered binding to F c7R receptors, C 1 q or F cRn on 
+the part of the antibody.;[noData]
+
+The present invention, therefore, 
+encompasses antibodies in accordance with the present 
+description that do not provoke (or provoke to a lesser extent) 
+antibody-dependent cellular cytotoxicity ("ADCC"), 
+complement-mediated cytotoxicity ("CMC"), or form 
+immune complexes, while retaining normal pharmacokinetic 
+("PK") properties.;[noData]
+
+Specific embodiments of the present 
+invention provide an antibody molecule as defined in accor- 
+dance with the present invention which comprises, as part of 
+its immunoglobulin structure, SEQ ID NO: 24 and, in par- 
+ticular embodiments, residues 107-326 of SEQ ID NO: 24 as 
+part of the immunoglobulin structure.;[noData]
+
+The present invention 
+encompasses antibody molecules which comprise: (I) a light 
+chain comprising SEQ ID NO: I, and (ii) a heavy chain 
+comprising SEQ ID NO: 11 in sequence with (adjacent to) or 
+followed by a series of amino acids selected from the group 
+consisting of: SEQ ID NO: 21 (IgGI), SEQ ID NO: 22 
+(IgG2), SEQ ID NO: 23 (IgG4) and SEQ ID NO: 24 (IgG2 
+m4).;[noData]
+
+FIG.;[noData]
+
+6 illustrates a comparison of sequence comprising 
+SEQ ID NO: 24, particularly IgG2 m4, with IgGI, IgG2, and 
+IgG4.;[noData]
+
+Amino acid sequences for mature, secreted anti- 
+PCSK9 IgG2 m4 heavy and light chains can be found as SEQ 
+ID NOs: 25 and 26, respectively.;[noData]
+
+Antibody molecules 
+encoded at least in part by said sequence are encompassed 
+herein.;[noData]
+
+[0099] Specific PCSK9-specific antagonists may carry a 
+detectable label, or may be conjugated to a toxin (e.;[noData]
+
+g.;[noData]
+
+, a 
+cytotoxin), a radioactive isotope, a radionuclide, a liposome, 
+a targeting moiety, a biosensor, a cationic tail, or an enzyme 
+(e.;[noData]
+
+g.;[noData]
+
+, via a peptidyl bond or linker).;[noData]
+
+Such PCSK9-specific 
+antagonist compositions form an additional aspect of the 
+present invention.;[noData]
+
+[0100] In another aspect, the present invention provides 
+isolated nucleic acid encoding disclosed PCSK9-specific 
+antagonists.;[noData]
+
+"Isolated" as mentioned prior refers to the prop- 
+erty of the thing referred to that makes them different from 
+that found in nature.;[noData]
+
+The difference can be, for example, that 
+they are of a different purity than that found in nature, or that 
+they are of a different structure or form part of a different 
+structure than that found in nature.;[noData]
+
+An example of nucleic 
+acid not found in nature is, for example, nucleic acid substan- 
+tially free of other cellular material.;[noData]
+
+The nucleic acid may be 
+present in whole cells, in a cell lysate, or in a partially purified 
+or substantially pure form.;[noData]
+
+In specific instances, a nucleic 
+acid may be isolated when purified away from other cellular 
+components or other contaminants, e.;[noData]
+
+g.;[noData]
+
+, other cellular nucleic 
+acids or proteins, for example, using standard techniques, 
+including without limitation, alkaline/SDS treatment, CsCI 
+banding, column chromatography, agarose gel electrophore- 
+sis and other suitable methods known in the art.;[noData]
+
+The nucleic 
+acid may include DNA (inclusive of cDNA) and/or RNA.;[noData]
+
+US 2009/0246192 A1 
+15 
+Oct.;[noData]
+
+1, 2009 
+Nucleic acids of the present invention can be obtained using 
+standard molecular biology techniques.;[noData]
+
+For antibodies 
+expressed by hybridomas (e.;[noData]
+
+g.;[noData]
+
+, hybridomas prepared from 
+transgenic mice carrying human immunoglobulin genes), 
+cDNAs encoding the light and heavy chains of the antibody 
+made by the hybridoma can be obtained by standard PCR 
+amplification or cDNA cloning techniques.;[noData]
+
+For antibodies 
+obtained from an immunoglobulin gene library (e.;[noData]
+
+g.;[noData]
+
+, using 
+phage display techniques), nucleic acid encoding the anti- 
+body can be recovered from the library.;[noData]
+
+[0101] The present invention encompasses isolated nucleic 
+acid encoding disclosed variable heavy and/or light chains 
+and select components thereof, particularly the disclosed 
+variable or respective CDR regions and, in particular CDR3.;[noData]
+
+In specific embodiments hereof, the CDR(s) are provided 
+within antibody framework regions and, in particular 
+embodiments, human framework regions.;[noData]
+
+Specific embodi- 
+ments provide isolated nucleic acid encoding the CDR(s) into 
+germline framework regions including, but not limited to, 
+human germline framework regions.;[noData]
+
+Specific embodiments 
+herein provide isolated nucleic acid encoding heavy chain 
+CDR SEQ ID NO: 17 (in specific embodiments, said nucleic 
+acid of which comprises SEQ ID NO: 18) into VHIA 3 in 
+place of the nucleic acid encoding the relevant CDR.;[noData]
+
+Specific 
+embodiments herein provide nucleic acid encoding heavy 
+chain variable CDRI, CDR2 and/or CDR3 sequences SEQ 
+ID NOs: 13, 15 and 17, respectively (and, in particular 
+embodiments, said nucleic acid of which comprises SEQ ID 
+NOs: 14, 16 and 18, respectively) into VHIA 3 in place of 
+the relevant CDRs.;[noData]
+
+Specific embodiments herein provide iso- 
+lated nucleic encoding light chain CDR SEQ ID NO: 7 (in 
+specific embodiments, said nucleic acid of which comprises 
+SEQ ID NO: 8) into VKI 4 in place of the nucleic acid 
+encoding the relevant CDR.;[noData]
+
+Specific embodiments herein 
+provide nucleic acid encoding light chain variable CDRI, 
+CDR2 and/or CDR3 sequences SEQ ID NOs: 3, 5 and 7, 
+respectively (and, in particular embodiments, said nucleic 
+acid of which comprises SEQ ID NOs: 4, 6 and 8, respec- 
+tively) into VKI 4 in place of the relevant CDRs.;[noData]
+
+Specific 
+embodiments further provide heavy chain variable CDR3 
+SEQ ID NO: 17 (and, in particular embodiments, said nucleic 
+acid of which comprises SEQ ID NO: 18) and light chain 
+variable CDR3 SEQ ID NO: 7 (and, in particular embodi- 
+ments, said nucleic acid of which comprises SEQ ID NO: 8) 
+into VH I A 3 and VKI 4 germline sequences, respectively.;[noData]
+
+Further embodiments provide heavy chain variable CDRI, 
+CDR2 and/or CDR3 sequences SEQ ID NOs: 13, 15 and 17, 
+respectively (and, in particular embodiments, said nucleic 
+acid of which comprises SEQ ID NOs: 14, 16 and 18, respec- 
+tively) into VHIA 3 in place of the relevant CDRs;;[noData]
+
+and light 
+chain variable CDRI, CDR2 and/or CDR3 sequences SEQ 
+ID NOs: 3, 5 and 7, respectively (and, in particular embodi- 
+ments, said nucleic acid of which comprises SEQ ID NOs: 4, 
+6 and 8, respectively) into VKI 4 in place of the relevant 
+CDRs.;[noData]
+
+[0102] The isolated nucleic acid encoding the variable 
+regions can be provided within any desired antibody mol- 
+ecule format including, but not limited to, the following: 
+F(ab')~, a Fab, a Fv, a scFv, bispecific antibody molecules 
+(antibody molecules comprising a PCSK9-specific antibody 
+or antigen binding fragment as disclosed herein linked to a 
+second functional moiety having a different binding specific- 
+ity than the antibody, including, without limitation, another 
+peptide or protein such as an antibody, or receptor Iigand), a 
+bispecific single chain Fv dimer, a minibody, a dAb fragment, 
+diabody, triabody or tetrabody, a minibody, IgG, IgGI, IgG2, 
+IgG3, IgG4, IgM, IgD, IgA, IgE or any derivatives thereof.;[noData]
+
+[0103] Specific embodiments provide isolated nucleic acid 
+which encodes PCSK9-specific antagonists and, in more spe- 
+cific embodiments, antibody molecules comprising a heavy 
+chain variable domain which comprises SEQ ID NO: 11;;[noData]
+
+specific embodiments of which comprise nucleic acid 
+sequence SEQ ID NO: 12.;[noData]
+
+Specific embodiments of the 
+present invention provide isolated nucleic acid encoding 
+PCSK9-specific antagonists and, in more specific embodi- 
+ments, antibody molecules, which additionally comprise: (I) 
+nucleic acid encoding heavy chain CDRI amino acid 
+sequence SEQ ID NO: 13 (specific embodiments of which 
+comprise nucleic acid SEQ ID NO: 14) and/or (ii) nucleic 
+acid encoding heavy chain CDR2 amino acid sequence SEQ 
+ID NO: 15 (specific embodiments of which comprise nucleic 
+acid SEQ ID NO: 16).;[noData]
+
+Specific embodiments provide isolated 
+nucleic acid encoding PCSK9-specific antagonists and, in 
+more specific embodiments, antibody molecules comprising 
+a light chain variable domain which comprises SEQ ID NO: 
+27;;[noData]
+
+specific embodiments of which comprise nucleic acid 
+sequence SEQ ID NO: 28.;[noData]
+
+Specific embodiments of the 
+present invention provide isolated nucleic acid encoding 
+PCSK9-specific antagonists and, in more specific embodi- 
+ments, antibody molecules, which additionally comprise: (I) 
+nucleic acid encoding light chain CDRI amino acid sequence 
+SEQ ID NO: 3 (specific embodiments of which comprise 
+nucleic acid SEQ ID NO: 4) and/or (ii) nucleic acid encoding 
+light chain CDR2 amino acid sequence SEQ ID NO: 5 (spe- 
+cific embodiments of which comprise nucleic acid SEQ ID 
+NO: 6).;[noData]
+
+Specific embodiments provide isolated nucleic acid 
+encoding PCSK9-specific antagonists and, in more specific 
+embodiments, antibody molecules which comprise a heavy 
+chain variable domain which comprises SEQ ID NO: 11;;[noData]
+
+spe- 
+cific embodiments of which comprise nucleic acid sequence 
+SEQ ID NO: 12;;[noData]
+
+and a light chain variable domain which 
+comprises SEQ ID NO: 27;;[noData]
+
+specific embodiments of which 
+comprise nucleic acid sequence SEQ ID NO: 28.;[noData]
+
+Specific 
+embodiments provide isolated nucleic acid encoding (I) 
+heavy chain CDRI, CDR2 and/or CDR3 sequences (SEQ ID 
+NOs: 13, 15 and 17, respectively;;[noData]
+
+specific embodiments of 
+which comprise nucleic acid SEQ ID NOs: 14, 16 and/or 18, 
+respectively) preferably in a framework region (including but 
+not limited to a human framework region);;[noData]
+
+and (ii) light chain 
+CDRI, CDR2 and/or CDR3 sequences (SEQ ID NO: 3, 5 and 
+7, respectively;;[noData]
+
+specific embodiments of which comprise 
+nucleic acid SEQ ID NOs: 4, 6 and/or 8, respectively) pref- 
+erably in a framework region (including but not limited to a 
+human framework region).;[noData]
+
+The present invention further pro- 
+vides in specific embodiments, homologs of the antagonists 
+disclosed above, characterized as being at least 90% identical 
+over the heavy and/or light chain variable regions, or the CDR 
+regions, as appropriate, whichever is present to the corre- 
+sponding sequences of I D05.;[noData]
+
+[0104] Additional embodiments provide isolated nucleic 
+acid encoding PCSK9-specific antagonists and, in more spe- 
+cific embodiments, antibody molecules which comprise a 
+light chain comprising SEQ ID NO: I (specific embodiments 
+of which comprise nucleic acid SEQ ID NO: 2) and a heavy 
+chain or Fd chain comprising amino acids 1-233 of SEQ ID 
+NO: 9, or SEQ ID NO: 9 (specific embodiments of which 
+comprise nucleic acid 1-699 of SEQ ID NO: 10, or SEQ ID 
+NO: 10, respectively).;[noData]
+
+Further embodiments provide isolated 
+US 2009/0246192 A1 
+16 
+Oct.;[noData]
+
+1, 2009 
+nucleic acid encoding PCSK9-specific antagonists and, in 
+more specific embodiments, antibody molecules which com- 
+prise a light chain comprising SEQ ID NO: 26 (specific 
+embodiments of which comprise SEQ ID NO: 30) and a 
+heavy chain comprising SEQ ID NO: 25 (specific embodi- 
+ments of which comprise SEQ ID NO: 29).;[noData]
+
+The present 
+invention further provides in specific embodiments, 
+homologs of the antagonists disclosed above, characterized 
+as being at least 90'zo identical over the heavy and/or light 
+chains to the corresponding sequences of ID05.;[noData]
+
+[0105] Specific embodiments of the present invention 
+encompass nucleic acid encoding antibody molecules that 
+possess manipulations in the Fc region which result in 
+reduced or altered binding to F cyR receptors, C I q, or F cRn on 
+the part of the antibody.;[noData]
+
+One specific embodiment of the 
+present invention is isolated nucleic acid which encodes for 
+antibody molecules comprising as part of their immunoglo- 
+bulin structure SEQ ID NO: 24 and, in particular embodi- 
+ments, residues 107-326 of SEQ ID NO: 24.;[noData]
+
+In specific 
+embodiments, synthetic PCSK9-specific antagonists can be 
+produced by expression from nucleic acid generated from 
+oligonucleotides synthesized and assembled within suitable 
+expression vectors;;[noData]
+
+see, e.;[noData]
+
+g.;[noData]
+
+, Knappick et al.;[noData]
+
+, 2000 J.;[noData]
+
+Mol.;[noData]
+
+Biol.;[noData]
+
+296:57-86, and Krebs et al.;[noData]
+
+, 2001 J.;[noData]
+
+Immunol.;[noData]
+
+Methods 
+254: 67-84.;[noData]
+
+[0106] The present invention encompasses nucleic acid 
+encoding antibody molecules which comprise: (I) nucleic 
+acid encoding a light chain comprising SEQ ID NO: I (spe- 
+cific embodiments of which comprise nucleic acid SEQ ID 
+NO: 2), and (ii) nucleic acid encoding a heavy chain compris- 
+ing SEQ ID NO: 11 (specific embodiments of which com- 
+prise nucleic acid SEQ ID NO: 12) followed in sequence by 
+(adjacent to) a set of nucleotides encoding for a set of amino 
+acids selected from the group consisting of: SEQ ID NO: 21 
+(IgGI), SEQ ID NO: 22 (IgG2), SEQ ID NO: 23 (IgG4) and 
+SEQ ID NO: 24 (IgG2 m4).;[noData]
+
+Nucleotide sequences for mature, 
+secreted anti-PCSK9 IgG2 m4 heavy and light chains can be 
+found as SEQ ID NOs: 29 and 30, respectively.;[noData]
+
+Plasmid 
+sequences comprising heavy and light chain ID05 anti- 
+PCSK9 IgG2 m4 antibody molecules can be found as SEQ ID 
+NOs: 31 and 32, respectively.;[noData]
+
+Nucleic acid encoding such 
+antibody molecules form important embodiments hereof.;[noData]
+
+[0107] Also included within the present invention are iso- 
+lated nucleic acids comprising nucleotide sequences which 
+are at least about 90'zo identical and more preferably at least 
+about 95'zo identical to the full length of the nucleotide 
+sequences described herein, and which nucleotide sequences 
+encode PCSK9-specific antagonists which inhibit PCSK9- 
+dependent inhibition of cellular LDL uptake by at least 10'zo.;[noData]
+
+[0108] Reference to "at least about 90'zo identical" through- 
+out the application includes at least about 90, 91, 92, 93, 94, 
+95, 96, 97, 98, 99 or 100'zo identical.;[noData]
+
+[0109] The invention further provides isolated nucleic acid 
+at least a portion of which hybridizes to the complement of 
+nucleic acid consisting of SEQ ID NO: 12 and/or SEQ ID NO: 
+28 under stringent hybridization conditions, said nucleic acid 
+of which confers upon antibody molecules the ability to spe- 
+cifically bind PCSK9 and antagonize PCSK9 function, and 
+PCSK9-specific antagonists expressed employing said 
+nucleic acid.;[noData]
+
+Methods for hybridizing nucleic acids are well- 
+known in the art;;[noData]
+
+see, e.;[noData]
+
+g.;[noData]
+
+, Ausubel, Current Protocols in 
+Molecular Biology, John Wiley & Sons, N.;[noData]
+
+Y.;[noData]
+
+, 6.;[noData]
+
+3.;[noData]
+
+1-63.;[noData]
+
+6, 
+1989.;[noData]
+
+Stringent hybridization conditions involve hybridizing 
+at 68' C.;[noData]
+
+in SxSSC/SxDenhardt's solution (or equivalent)/1.;[noData]
+
+0'zo SDS, and washing in 0.;[noData]
+
+2xSSC/0.;[noData]
+
+1'zo SDS at room tem- 
+perature.;[noData]
+
+Moderately stringent conditions include washing in 
+3xSSC at 42' C.;[noData]
+
+The parameters of salt concentration and 
+temperature can be varied to achieve the optimal level of 
+identity between the probe and the target nucleic acid.;[noData]
+
+The 
+skilled artisan can manipulate various hybridization and/or 
+washing conditions to specifically target nucleic acid in the 
+hybridizing portion that is at least 80, 85, 90, 95, 98, or 99'zo 
+identical to SEQ ID NO: 12 and/or SEQ ID NO: 28.;[noData]
+
+Basic 
+parameters affecting the choice of hybridization conditions 
+and guidance for devising suitable conditions are set forth by 
+Sambrook et al.;[noData]
+
+, Molecular Cloni ng: A Laboratory Manual, 
+Cold Spring Harbor Laboratory Press, Cold Spring Harbor, 
+N.;[noData]
+
+Y.;[noData]
+
+, chapters 9 and 11, 1989 and Ausubel et al.;[noData]
+
+(eds), Cur- 
+rent Protocols in Molecular Biology, John Wiley & Sons, 
+Inc.;[noData]
+
+, sections 2.;[noData]
+
+10 and 6.;[noData]
+
+3-6.;[noData]
+
+4, 1995 (the disclosures of which 
+are incorporated herein by reference), and can be readily 
+determined by those having ordinary skill in the art.;[noData]
+
+PCSK9 
+antagonists having one or more variable regions comprising 
+nucleic acid which hybridizes to the complement of nucleic 
+acid consisting of SEQ ID NO: 12 and/or SEQ ID NO: 28 
+under stringent hybridization conditions should be effective 
+in antagonizing one or more functions of PCSK9.;[noData]
+
+Said 
+antagonists and encoding nucleic acid, thus, form important 
+embodiments of the present invention.;[noData]
+
+[0110] In another aspect, the present invention provides 
+vectors comprising the nucleic acid disclosed herein.;[noData]
+
+Vectors 
+in accordance with the present invention include, but are not 
+limited to, plasmids and other expression constructs (e.;[noData]
+
+g.;[noData]
+
+, 
+phage or phagemid, as appropriate) suitable for the expres- 
+sion of the desired antibody molecule at the appropriate level 
+for the intended purpose;;[noData]
+
+see, e.;[noData]
+
+g.;[noData]
+
+, Sambrook & Russell, 
+Molecular Cloning: A Laboratory Manual: 3' Edition, Cold 
+Spring Harbor Laboratory Press;;[noData]
+
+the disclosure of which is 
+incorporated herein by reference.;[noData]
+
+For most cloning purposes, 
+DNA vectors may be used.;[noData]
+
+Typical vectors include plasmids, 
+modified viruses, bacteriophage, cosmids, yeast artificial 
+chromosomes, bacterial artificial chromosomes, and other 
+forms of episomal or integrated DNA.;[noData]
+
+It is well within the 
+purview of the skilled artisan to determine an appropriate 
+vector for a particular gene transfer, generation of a recom- 
+binant PCSK9-specific antagonist, or other use.;[noData]
+
+In specific 
+embodiments, in addition to a recombinant gene, the vector 
+may also contain an origin of replication for autonomous 
+replication in a host cell, appropriate regulatory sequences, 
+such as a promoter, a termination sequence, a polyadenyla- 
+tion sequence, an enhancer sequence, a selectable marker, a 
+limited number of useful restriction enzyme sites, and/or 
+other sequences as appropriate and the potential for high copy 
+number.;[noData]
+
+Examples of expression vectors for the production of 
+protein-specific antagonists are well known in the art;;[noData]
+
+see, 
+e.;[noData]
+
+g.;[noData]
+
+, Persic et al.;[noData]
+
+, 1997 Gene 187:9-18;;[noData]
+
+Boel et al.;[noData]
+
+, 2000 J.;[noData]
+
+Immunol.;[noData]
+
+Methods 239:153-166, and Liang et al.;[noData]
+
+, 2001 J.;[noData]
+
+Immunol.;[noData]
+
+Methods 247:119-130;;[noData]
+
+the disclosures of which are 
+incorporated herein by reference.;[noData]
+
+If desired, nucleic acid 
+encoding the antagonist may be integrated into the host chro- 
+mosome using techniques well known in the art;;[noData]
+
+see, e.;[noData]
+
+g.;[noData]
+
+, 
+Ausubel, Current Protocols in Molecular Biology, John 
+Wiley & Sons, 1999, and Marks et al.;[noData]
+
+, International Applica- 
+tion Number WO 95/17516.;[noData]
+
+Nucleic acid may also be 
+expressed on plasmids maintained episomally or incorpo- 
+rated into an artificial chromosome;;[noData]
+
+see, e.;[noData]
+
+g.;[noData]
+
+, Csonka et al.;[noData]
+
+, 
+2000 J.;[noData]
+
+Cell Science 113:3207-3216;;[noData]
+
+Vanderbyl et al.;[noData]
+
+, 2002 
+Molecular Therapy 5:10.;[noData]
+
+Specifically with regards to anti- 
+US 2009/0246192 A1 
+17 
+Oct.;[noData]
+
+1, 2009 
+body molecules, the antibody light chain gene and the anti- 
+body heavy chain gene can be inserted into separate vectors 
+or, more typically, both genes may be inserted into the same 
+expression vector.;[noData]
+
+Nucleic acid encoding any PCSK9-spe- 
+cific antagonist or component thereof can be inserted into an 
+expression vector using standard methods (e.;[noData]
+
+g.;[noData]
+
+, ligation of 
+complementary restriction sites on the nucleic acid fragment 
+and vector, or blunt end ligation if no restriction sites are 
+present).;[noData]
+
+Another specific example o f how this may be carried 
+out is through use of recombinational methods, e.;[noData]
+
+g.;[noData]
+
+the Clon- 
+tech "InFusion" system, or Invitrogen "TOPO" system (both 
+in vitro), or intracellularly (e.;[noData]
+
+g.;[noData]
+
+the Cre-Lox system).;[noData]
+
+Specifi- 
+cally with regards to antibody molecules, the light and heavy 
+chain variable regions can be used to create full-length anti- 
+body genes of any antibody isotype by inserting them into 
+expression vectors already encoding heavy chain constant 
+and light chain constant regions of the desired isotype such 
+that the VH segment is operatively linked to the CH segment 
+(s) within the vector and the VL segment is operatively linked 
+to the CL segment within the vector.;[noData]
+
+Additionally or alterna- 
+tively, the recombinant expression vector comprising nucleic 
+acid encoding a PCSK9-specific antagonist can encode a 
+signal peptide that facilitates secretion of the antagonist from 
+a host cell.;[noData]
+
+The nucleic acid can be cloned into the vector such 
+that the nucleic acid encoding a signal peptide is linked in- 
+frame adjacent to the PCSK9-specific antagonist-encoding 
+nucleic acid.;[noData]
+
+The signal peptide may be an immunoglobulin 
+or a non-immunoglobulin signal peptide.;[noData]
+
+Any technique 
+available to the skilled artisan may be employed to introduce 
+the nucleic acid into the host cell;;[noData]
+
+see, e.;[noData]
+
+g.;[noData]
+
+, Morrison, 1985 
+Science, 229:1202.;[noData]
+
+Methods of subcloning nucleic acid mol- 
+ecules of interest into expression vectors, transforming or 
+trans fecting host cells containing the vectors, and methods of 
+making substantially pure protein comprising the steps of 
+introducing the respective expression vector into a host cell, 
+and cultivating the host cell under appropriate conditions are 
+well known.;[noData]
+
+The PCSK9-specific antagonist so produced 
+may be harvested from the host cells in conventional ways.;[noData]
+
+Techniques suitable for the introduction of nucleic acid into 
+cells of interest will depend on the type of cell being used.;[noData]
+
+General techniques include, but are not limited to, calcium 
+phosphate trans fection, DEAE-Dextran, electroporation, 
+liposome-mediated transfection and transduction using 
+viruses appropriate to the cell line of interest (e.;[noData]
+
+g.;[noData]
+
+, retrovirus, 
+vaccinia, baculovirus, or bacteriophage).;[noData]
+
+[0111] In another aspect, the present invention provides 
+isolated cell(s) comprising nucleic acid encoding disclosed 
+PCSK9-specific antagonists.;[noData]
+
+A variety of different cell lines 
+are contemplated herein and can be used for the recombinant 
+production of PCSK9-specific antagonists, including but not 
+limited to those from prokaryotic organisms (e.;[noData]
+
+g.;[noData]
+
+, E.;[noData]
+
+co/i, 
+Bacillus, and Streptomyces) and from eukaryotic (e.;[noData]
+
+g.;[noData]
+
+, yeast, 
+Baculovirus, and mammalian);;[noData]
+
+see, e.;[noData]
+
+g.;[noData]
+
+, Breitling et al.;[noData]
+
+, 
+Recombinant antibodies, John Wiley & Sons, Inc.;[noData]
+
+and Spek- 
+trum Akademischer Verlag, 1999;;[noData]
+
+the disclosure of which is 
+incorporated herein by reference.;[noData]
+
+Plant cells, including trans- 
+genic plants, and animal cells, including transgenic animals 
+(other than humans), comprising the nucleic acid or antago- 
+nists disclosed herein are also contemplated as part of the 
+present invention.;[noData]
+
+Suitable mammalian cells or cell lines 
+including, but not limited to, those derived from Chinese 
+Hamster Ovary (CHO cells, including but not limited to 
+DHFR~HO cells (described in Urlaub and Chasin, 1980 
+Proc.;[noData]
+
+Natl.;[noData]
+
+Acad.;[noData]
+
+Sci.;[noData]
+
+USA 77:4216-4220) used, for example, 
+with a DHFR selectable marker (e.;[noData]
+
+g.;[noData]
+
+, as described in Kauf- 
+man and Sharp, 1982 Mol.;[noData]
+
+Biol.;[noData]
+
+159:601-621), NSO 
+myeloma cells (where a GS expression system as described in 
+WO 87/04462, WO 89/01036, and EP 338, 841 may be used), 
+COS cells, SP2 cells, HeLa cells, baby hamster kidney cells, 
+YB2/0 rat myeloma cells, human embryonic kidney cells, 
+human embryonic retina cells, and others comprising the 
+nucleic acid or antagonists disclosed herein form additional 
+embodiments of the present invention;;[noData]
+
+the preceding cited 
+disclosures of which are incorporated herein by reference.;[noData]
+
+Specific embodiments of the present invention comprising 
+nucleic acid encoding disclosed PCSK9-specific antagonists 
+include, but are not limited to, E.;[noData]
+
+coli;;[noData]
+
+see, e.;[noData]
+
+g.;[noData]
+
+, Pluckthun, 
+1991 Bio/'Technology 9:545-551, or yeast, such as Pi eh/a, and 
+recombinant derivatives thereof (see, e.;[noData]
+
+g.;[noData]
+
+, Li et al.;[noData]
+
+, 2006 Nat.;[noData]
+
+Biotechnol.;[noData]
+
+24:210-215);;[noData]
+
+the preceding disclosures of which 
+are incorporated herein by reference.;[noData]
+
+Specific embodiments 
+of the present invention relate to eukaryotic cells comprising 
+nucleic acid encoding the disclosed PCSK9-specific antago- 
+nists, see, Chadd & Chamow, 2001 Current Opinion in Bio- 
+technology 12:188-194, Andersen & Krummen, 2002 Cur- 
+rent Opinion in Biotechnology 13:117, Larrick & Thomas, 
+2001 Current Opinion in Biotechnolo@r 12:411-418;;[noData]
+
+the dis- 
+closures of which are incorporated herein by reference.;[noData]
+
+Spe- 
+cific embodiments of the present invention relate to mamma- 
+lian cells comprising nucleic acid encoding the disclosed 
+PCSK9-specific antagonists which are able to produce 
+PCSK9-specific antagonists with proper post translational 
+modifications.;[noData]
+
+Post translational modifications include, but 
+are by no means limited to, disulfide bond formation and 
+glyco syl ation.;[noData]
+
+Another type o f post translational modification 
+is signal peptide cleavage.;[noData]
+
+Preferred embodiments herein 
+have the appropriate glycosylation;;[noData]
+
+see, e.;[noData]
+
+, Yoo et al.;[noData]
+
+, 2002 J.;[noData]
+
+Immunol.;[noData]
+
+Methods 261: 1-20;;[noData]
+
+the disclosure o f which is incor- 
+porated herein by reference.;[noData]
+
+Naturally occurring antibodies 
+contain at least one N-linked carbohydrate attached to a heavy 
+chain.;[noData]
+
+Id.;[noData]
+
+Different types of mammalian host cells can be used 
+to provide for efficient post-translational modifications.;[noData]
+
+Examples of such host cells include Chinese Hamster Ovary 
+(CHO), HeLa, C6, PC12, and myeloma cells;;[noData]
+
+see, Yoo et al.;[noData]
+
+, 
+2002 J.;[noData]
+
+Immunol.;[noData]
+
+Methods 261: 1-20, and Persic et al.;[noData]
+
+, 1997 
+Gene 187:9-18;;[noData]
+
+the disclosures of which are incorporated 
+herein by reference.;[noData]
+
+[0112] In another aspect, the present invention provides 
+isolated cell(s) comprising a polypeptide of the present inven- 
+tion.;[noData]
+
+[0113] In another aspect, the present invention provides a 
+method of making a PCSK9-specific antagonist of the present 
+invention, which comprises incubating a cell comprising 
+nucleic acid encoding the PCSK9-specific antagonist, or a 
+heavy and/or light chain or a fragment thereof (e.;[noData]
+
+g.;[noData]
+
+, VH 
+and/or VL, or one or more of the disclosed heavy and/or light 
+chain variable region CDRs) of a desired PCSK9-specific 
+antagonist (dictated by the desired antagonist) with specific- 
+ity for human and/or murine PCSK9 under conditions that 
+allow the expression of the PCSK9-specific antagonist, or the 
+expression and assembly of said heavy and/or light chains or 
+fragment into a PCSK9-specific antagonist, and isolating said 
+PCSK9-specific antagonist from the cell.;[noData]
+
+One example by 
+which to generate particular desired heavy and/or light chain 
+sequence or fragment is to first amplify (and modify) the 
+germline heavy and/or light chain variable sequences or frag- 
+ment using PCR.;[noData]
+
+Germline sequence for human heavy and/or 
+light variable regions are readily available to the skilled arti- 
+US 2009/0246192 A1 
+18 
+Oct.;[noData]
+
+1, 2009 
+san, see, e.;[noData]
+
+g.;[noData]
+
+, the "Vbase" human germline sequence data- 
+base, and Kabat, E.;[noData]
+
+A.;[noData]
+
+et al.;[noData]
+
+, 1991 Sequences of Proteins of 
+Immunological Interest, Fifth Edition, U.;[noData]
+
+S.;[noData]
+
+Department of 
+Health and Human Services, NIH Publication No.;[noData]
+
+91-3242;;[noData]
+
+Tomlinson, I.;[noData]
+
+M.;[noData]
+
+et al.;[noData]
+
+, 1992 "The Repertoire of Human 
+Germline VH Sequences Reveals about Fifty Groups of VH 
+Segments with Different Hypervariable Loops" J.;[noData]
+
+Mol.;[noData]
+
+Biol.;[noData]
+
+227:776-798;;[noData]
+
+and Cox, J.;[noData]
+
+P.;[noData]
+
+L.;[noData]
+
+et al.;[noData]
+
+, 1994 "A Directory of 
+Human Germ-line VK Segments Reveals a Strong Bias in 
+their Usage" Eun J.;[noData]
+
+Immunol.;[noData]
+
+24:827-836;;[noData]
+
+the disclosures of 
+which are incorporated herein by reference.;[noData]
+
+Mutagenesis of 
+germline sequences may be carried out using standard meth- 
+ods, e.;[noData]
+
+g.;[noData]
+
+, PCR-mediated mutagenesis where the mutations 
+are incorporated into PCR primers, or site-directed mutagen- 
+esis.;[noData]
+
+If full-length antibodies are desired, sequence is avail- 
+able for the human heavy chain constant region genes;;[noData]
+
+see, 
+e.;[noData]
+
+g.;[noData]
+
+, Kabat.;[noData]
+
+E.;[noData]
+
+A.;[noData]
+
+et al.;[noData]
+
+, 1991 Sequences of Proteins of Immu- 
+nological Interest, Fifth Edition, U.;[noData]
+
+S.;[noData]
+
+Department of Health 
+and Human Services, NIH Publication No.;[noData]
+
+91-3242.;[noData]
+
+Frag- 
+ments containing these regions may be obtained, for example, 
+by standard PCR amplification.;[noData]
+
+Alternatively, the skilled arti- 
+san can avail him/herself of vectors already encoding heavy 
+and/or light chain constant regions.;[noData]
+
+[0114] Available techniques exist to recombinantly pro- 
+duce other antibody molecules which retain the specificity of 
+an original antibody.;[noData]
+
+A specific example of this is where DNA 
+encoding the immunoglobulin variable region or the CDRs is 
+introduced into the constant regions, or constant regions and 
+framework regions, or simply the framework regions, of 
+another antibody molecule;;[noData]
+
+see, e.;[noData]
+
+g.;[noData]
+
+, EP-184, 187, GB 
+2188638, and EP-239400;;[noData]
+
+the disclosures of which are incor- 
+porated herein by reference.;[noData]
+
+Cloning and expression of anti- 
+body molecules, including chimeric antibodies, are described 
+in the literature;;[noData]
+
+see, e.;[noData]
+
+g.;[noData]
+
+, EP 0120694 and EP 0125023;;[noData]
+
+the 
+disclosures of which are incorporated herein by reference.;[noData]
+
+[0115] Antibody molecules in accordance with the present 
+invention may, in one instance, be raised and then screened 
+for characteristics identified herein using known techniques.;[noData]
+
+Basic techniques for the preparation of monoclonal antibod- 
+ies are described in the literature, see, e.;[noData]
+
+g.;[noData]
+
+, Kohler and Mil- 
+stein (1975, Nature 256:495-497);;[noData]
+
+the disclosure of which is 
+incorporated herein by reference.;[noData]
+
+Fully human monoclonal 
+antibodies can be produced by available methods.;[noData]
+
+These 
+methods include, but are by no means limited to, the use of 
+genetically engineered mouse strains which possess an 
+immune system whereby the mouse antibody genes have 
+been inactivated and in turn replaced with a repertoire of 
+functional human antibody genes, while leaving other com- 
+ponents of the mouse immune system unchanged.;[noData]
+
+Such 
+genetically engineered mice allow for the natural in vivo 
+immune response and affinity maturation process which 
+results in high affinity, full human monoclonal antibodies.;[noData]
+
+This technology is well known in the art and is fully detailed 
+in various publications, including but not limited to U.;[noData]
+
+S.;[noData]
+
+Pat.;[noData]
+
+Nos.;[noData]
+
+5, 44, , 066;;[noData]
+
+5, 569, 825;;[noData]
+
+5, 625, 126;;[noData]
+
+5, 633, 425;;[noData]
+
+5, 789, 650;;[noData]
+
+5, 877, 397;;[noData]
+
+5, 661, 016;;[noData]
+
+5, 814, 318;;[noData]
+
+5, 874, 299;;[noData]
+
+5, 770, 249 (as- 
+signed to GenPharm International and available through 
+Medarex, under the umbrella of the "UltraMab Human Anti- 
+body Development System" );;[noData]
+
+as well as U.;[noData]
+
+S.;[noData]
+
+Pat.;[noData]
+
+Nos.;[noData]
+
+5, 939, 
+598;;[noData]
+
+6, 075, 181;;[noData]
+
+6, 114, 598;;[noData]
+
+6, 150, 584 and related family 
+members (assigned to Abgenix, disclosing their XenoM- 
+ouse technology);;[noData]
+
+the disclosures of which are incorporated 
+herein by reference.;[noData]
+
+See also reviews from Kellerman and 
+Green, 2002 Curn Opinion in Biotechnology 13:593-597, and 
+Kontermann & Stefan, 2001 Antibody Engineering, Springer 
+Laboratory Manuals;;[noData]
+
+the disclosures of which are incorpo- 
+rated herein by reference.;[noData]
+
+[0116] Alternatively, a library of PCSK9-specific antago- 
+nists in accordance with the present invention may be brought 
+into contact with PCSK9, and ones able to demonstrate spe- 
+cific binding selected.;[noData]
+
+Functional studies can then be carried 
+out to ensure proper functionality, e.;[noData]
+
+g.;[noData]
+
+, inhibition of PCSK9- 
+dependent inhibition of cellular LDL uptake.;[noData]
+
+There are vari- 
+ous techniques available to the skilled artisan for the selection 
+of protein-specific molecules from libraries using enrichment 
+technologies including, but not limited to, phage display (e.;[noData]
+
+g.;[noData]
+
+, 
+see technology from Cambridge Antibody Technology 
+("CAT") disclosed in U.;[noData]
+
+S.;[noData]
+
+Pat.;[noData]
+
+Nos.;[noData]
+
+5, 66, , 322;;[noData]
+
+5, 733, 743;;[noData]
+
+5, 871, 907;;[noData]
+
+5, 872, 215;;[noData]
+
+5, 885, 793;;[noData]
+
+5, 962, 255;;[noData]
+
+6, 140, 471;;[noData]
+
+6, 225, 447;;[noData]
+
+6, 291, 650;;[noData]
+
+6, 492, 160;;[noData]
+
+6, 521, 404;;[noData]
+
+6, 544, 731;;[noData]
+
+6, 555, 313;;[noData]
+
+6, 582, 915;;[noData]
+
+6, 593, 081, as well as other U.;[noData]
+
+S.;[noData]
+
+family 
+members and/or applications which rely on priority filing GB 
+9206318, filed May 24, 1992;;[noData]
+
+see also Vaughn et al.;[noData]
+
+, 1996, 
+Nature Biotechnology 14:309-314), ribosome display (see, 
+e.;[noData]
+
+g.;[noData]
+
+, Hanes and Pluckthun, 1997 Proc.;[noData]
+
+Natl.;[noData]
+
+Acad.;[noData]
+
+Sci.;[noData]
+
+94:4937-4942), bacterial display (see, e.;[noData]
+
+g.;[noData]
+
+, Georgiou, et al.;[noData]
+
+, 
+1997 Nature Biotechnology 15:29-34) and/or yeast display 
+(see, e.;[noData]
+
+g.;[noData]
+
+, Kieke, et al.;[noData]
+
+, 1997 Protein Engineering 10:1303- 
+1310);;[noData]
+
+the preceding disclosures of which are incorporated 
+herein by reference.;[noData]
+
+A library, for example, can be displayed 
+on the surface of bacteriophage particles, with nucleic acid 
+encoding the PCSK9-specific antagonist or fragment thereof 
+expressed and displayed on its surface.;[noData]
+
+Nucleic acid may then 
+be isolated from bacteriophage particles exhibiting the 
+desired level of activity and the nucleic acid used in the 
+development of desired antagonist.;[noData]
+
+Phage display has been 
+thoroughly described in the literature;;[noData]
+
+see, e.;[noData]
+
+g.;[noData]
+
+, Kontermann 
+& Stefan, supra, and International Application Number WO 
+92/01047;;[noData]
+
+the disclosures of which are incorporated herein by 
+reference.;[noData]
+
+Specifically with regard to antibody molecules, 
+individual heavy or light chain clones in accordance with the 
+present invention may also be used to screen for complemen- 
+tary heavy or light chains, respectively, capable of interaction 
+therewith to form a molecule of the combined heavy and light 
+chains;;[noData]
+
+see, e.;[noData]
+
+g.;[noData]
+
+, International Application Number WO 
+92/01047.;[noData]
+
+Any method of panning which is available to the 
+skilled artisan may be used to identify PCSK9-specific 
+antagonists.;[noData]
+
+Another specific method for accomplishing this 
+is to pan against the target antigen in solution, e.;[noData]
+
+g.;[noData]
+
+biotiny- 
+lated, soluble PCSK9, and then capture the PCSK9-specific 
+antagonist-phage complexes on streptavidin-coated magnetic 
+beads, which are then washed to remove nonspecifically- 
+bound phage.;[noData]
+
+The captured phage can then be recovered from 
+the beads in the same way they would be recovered from the 
+surface of a plate, (e.;[noData]
+
+g.;[noData]
+
+DTT) as described herein.;[noData]
+
+[0117] PCSK9-specific antagonists may be purified by 
+techniques available to one of skill in the art.;[noData]
+
+Titers of the 
+relevant antagonist preparation, ascites, hybridoma culture 
+fluids, or relevant sample may be determined by various sero- 
+logical or immunological assays which include, but are not 
+limited to, precipitation, passive agglutination, enzyme- 
+linked immunosorbent antibody ("ELISA") techniques and 
+radioimmunoassay ("RIA") techniques.;[noData]
+
+[0118] The present invention relates in part to methods 
+employing PCSK9-specific antagonists described herein for 
+antagonizing PCSK9 function;;[noData]
+
+said methods of which are 
+further described below.;[noData]
+
+Use of the term "antagonizing" 
+throughout the present application refers to the act of oppos- 
+US 2009/0246192 A1 
+19 
+Oct.;[noData]
+
+1, 2009 
+ing, inhibiting, counteracting, neutralizing or curtailing one 
+or more functions of PCSK9.;[noData]
+
+Inhibition or antagonism of one 
+or more of PCSK9-associated functional properties can be 
+readily determined according to methodologies known to the 
+art (see, e.;[noData]
+
+g.;[noData]
+
+, Barak & Webb, 1981 J.;[noData]
+
+Cell Biol.;[noData]
+
+90:595-604;;[noData]
+
+Stephan & Yurachek, 1993 J.;[noData]
+
+Lipid Res.;[noData]
+
+34:325330;;[noData]
+
+and 
+McNamara et al.;[noData]
+
+, 2006 Ciinioa Chimica Acta 369:158-167) 
+as well as those described herein.;[noData]
+
+Inhibition or antagonism 
+will effectuate a decrease in PCSK9 activity relative to that 
+seen in the absence of the antagonist or, for example, that seen 
+when a control antagonist of irrelevant specificity is present.;[noData]
+
+Preferably, a PCSK9-specific antagonist in accordance with 
+the present invention antagonizes PCSK9 functioning to the 
+point that there is a decrease of at least 10'zo, of the measured 
+parameter including but not limited to the activities disclosed 
+herein, and more preferably, a decrease of at least 20 lo, 30 lo, 
+40 lo, 50 lo, 60 lo, 70lo, 80 lo, 90 lo and 95 lo of the measured 
+parameter.;[noData]
+
+Such inhibition/antagonism of PCSK9 function- 
+ing is particularly effective in those instances where PCSK9 
+functioning is contributing at least in part to a particular 
+phenotype, disease, disorder or condition which is negatively 
+impacting the subject.;[noData]
+
+[0119] In one aspect, the present invention provides a 
+method for antagonizing the activity of PCSK9, which com- 
+prises contacting a cell, population of cells or tissue sample 
+capable of being affected by PCSK9 (Le.;[noData]
+
+, which expresses 
+and/or comprises LDL receptors) with a PCSK9-specific 
+antagonist disclosed herein under conditions that allow said 
+antagonist to bind to PCSK9 when present and inhibit 
+PCSK9's inhibition of cellular LDL uptake.;[noData]
+
+Specific embodi- 
+ments of the present invention include such methods wherein 
+the cell is a human cell.;[noData]
+
+Additional embodiments of the 
+present invention include such methods wherein the cell is a 
+murine cell.;[noData]
+
+[0120] In another aspect, the present invention provides a 
+method for antagonizing the activity of PCSK9 in a subject, 
+which comprises administering to the subject a therapeuti- 
+cally effective amount of a PCSK9-specific antagonist of the 
+present invention.;[noData]
+
+In specific embodiments, the methods for 
+antagonizing PCSK9 function are for the treatment of a 
+PCSK9-associated disease, disorder or condition or, alterna- 
+tively, a disease, disorder or condition that could benefit from 
+the effects of a PCSK9 antagonist.;[noData]
+
+The medicament would be 
+useful in a subject(s) exhibiting a condition associated with 
+PCSK9 activity, or a condition where the functioning of 
+PCSK9 is contraindicated for a particular subject.;[noData]
+
+In select 
+embodiments, the condition may be hypercholesterolemia, 
+coronary heart disease, metabolic syndrome, acute coronary 
+syndrome or related conditions.;[noData]
+
+[0121] The present invention, thus, contemplates the use of 
+PCSK9-specific antagonists described herein in various 
+methods of treatment where antagonizing PCSK9 function is 
+desirable.;[noData]
+
+The method of treatment can be prophylactic or 
+therapeutic in nature.;[noData]
+
+In specific embodiments, the present 
+invention relates to a method of treatment for a condition 
+associated with/attributed to PCSK9 activity, or a condition 
+where the functioning of PCSK9 is contraindicated for a 
+particular subject, which comprises administering to the sub- 
+ject a therapeutically effective amount of a PCSK9-specific 
+antagonist of the present invention.;[noData]
+
+In select embodiments, 
+the condition may be hypercholesterolemia, coronary heart 
+disease, metabolic syndrome, acute coronary syndrome or 
+related conditions.;[noData]
+
+[0122] Methods of treatment in accordance with the present 
+invention comprise administering to an individual a therapeu- 
+tically (or prophylactically) effective amount of a PCSK9- 
+specific antagonist of the present invention.;[noData]
+
+Use of the terms 
+"therapeutically effective" or "prophylactically effective" in 
+reference to an amount refers to the amount necessary at the 
+intended dosage to achieve the desired therapeutic/prophy- 
+lactic effect for the period of time desired.;[noData]
+
+The desired effect 
+may be, for example, amelioration of at least one symptom 
+associated with the treated condition.;[noData]
+
+These amounts will 
+vary, as the skilled artisan will appreciate, according to vari- 
+ous factors, including but not limited to the disease state, age, 
+sex and weight of the individual, and the ability of the 
+PCSK9-specific antagonist to elicit the desired effect in the 
+individual.;[noData]
+
+The response may be documented by in vitro 
+assay, in vivo non-human animal studies, and/or further sup- 
+ported from clinical trials.;[noData]
+
+[0123] The PCSK9-specific antagonist may be adminis- 
+tered as a pharmaceutical composition.;[noData]
+
+The present inven- 
+tion, thus, provides a pharmaceutically acceptable composi- 
+tion comprising a PCSK9-specific antagonist of the invention 
+and a pharmaceutically acceptable carrier including but not 
+limited to an excipient, diluent, stabilizer, buffer, or alterna- 
+tive designed to facilitate administration of the antagonist in 
+the desired format and amount to the treated individual.;[noData]
+
+[0124] The pharmaceutical composition may be formu- 
+lated by any number of strategies known in the art, see, e.;[noData]
+
+g.;[noData]
+
+, 
+McGoff and Scher, 2000 Solution Formulation of Proteins/ 
+Peptides: In McNally, E.;[noData]
+
+J.;[noData]
+
+, ed.;[noData]
+
+Protein Formulation and 
+Delivery.;[noData]
+
+New York, N.;[noData]
+
+Y.;[noData]
+
+: Marcel Dekker;;[noData]
+
+pp.;[noData]
+
+139-158;;[noData]
+
+Akers & Defilippis, 2000, Peptides and Proteins as 
+Parenteral Solutions.;[noData]
+
+In Pharmaceutical Formulation 
+Development of Peptides and Proteins.;[noData]
+
+Philadelphia, Pa.;[noData]
+
+: 
+Taylor and Francis;;[noData]
+
+pp.;[noData]
+
+145-177;;[noData]
+
+Akers et al.;[noData]
+
+, 2002, Pharm.;[noData]
+
+Biotechnoh 14:47-127.;[noData]
+
+A pharmaceutically acceptable com- 
+position suitable for patient administration will contain an 
+effective amount of the PCSK9-specific antagonist in a for- 
+mulation which both retains biological activity while also 
+promoting maximal stability during storage within an accept- 
+able temperature range.;[noData]
+
+[0125] The antagonist-based pharmaceutically acceptable 
+composition may, in particular embodiments, be in liquid or 
+solid form, or in the form of gas particles or aerosolized 
+particles.;[noData]
+
+Any technique for production of liquid or solid 
+formulations may be utilized.;[noData]
+
+Such techniques are well within 
+the realm of the abilities of the skilled artisan.;[noData]
+
+Solid formu- 
+lations may be produced by any available method including, 
+but not limited to, lyophilization, spray drying, or drying by 
+supercritical fluid technology.;[noData]
+
+Solid formulations for oral 
+administration may be in any form rendering the antagonist 
+accessible to the patient in the prescribed amount and within 
+the prescribed period of time.;[noData]
+
+The oral formulation can take 
+the form of a number of solid formulations including, but not 
+limited to, a tablet, capsule, or powder.;[noData]
+
+Solid formulations 
+may alternatively be lyophilized and brought into solution 
+prior to administration for either single or multiple dosing 
+according to methods well known to the skilled artisan.;[noData]
+
+Antagonist compositions should generally be formulated 
+within a biologically relevant pH range and may be buffered 
+to maintain a proper pH range during storage.;[noData]
+
+Both liquid and 
+solid formulations generally require storage at lower tem- 
+peratures (e.;[noData]
+
+g.;[noData]
+
+, 2-8' C.;[noData]
+
+) in order to retain stability for longer 
+periods.;[noData]
+
+Formulated antagonist compositions, especially liq- 
+uid formulations, may contain a bacteriostat to prevent or 
+US 2009/0246192 A1 
+20 
+Oct.;[noData]
+
+1, 2009 
+minimize proteolysis during storage, including but not lim- 
+ited to effective concentrations (e.;[noData]
+
+g.;[noData]
+
+, ~1% w/v) of benzyl 
+alcohol, phenol, m-cresol, chlorobutanol, methylparaben, 
+and/or propylparaben.;[noData]
+
+A bacteriostat may be contraindicated 
+for some patients.;[noData]
+
+Therefore, a lyophilized formulation may 
+be reconstituted in a solution either containing or not contain- 
+ing such a component.;[noData]
+
+Additional components may be added 
+to either a buffered liquid or solid antagonist formulation, 
+including but not limited to sugars as a cryoprotectant (in- 
+cluding but not limited to polyhydroxy hydrocarbons such as 
+sorbitol, mannitol, glycerol, and dulcitol and/or disaccharides 
+such as sucrose, lactose, maltose, or trehalose) and, in some 
+instances, a relevant salt (including but not limited to NaCI, 
+KCI, or LICI).;[noData]
+
+Such antagonist formulations, especially liq- 
+uid formulations slated for long term storage, will rely on a 
+useful range of total osmolarity to both promote long term 
+stability at temperatures of, for example, 2-8' C.;[noData]
+
+or higher, 
+while also making the formulation useful forparenteral injec- 
+tion.;[noData]
+
+As appropriate, preservatives, stabilizers, buffers, anti- 
+oxidants and/or other additives may be included.;[noData]
+
+The formu- 
+lations may contain a divalent cation (including but not 
+limited to MgC12, CaC12, and MnC12);;[noData]
+
+and/or a non-ionic 
+surfactant (including but not limited to Polysorbate-80 
+(Tween 80™), Polysorbate-60 (Tween 60™), Polysorbate-40 
+(Tween 40™), and Polysorbate-20 (Tween 20™) polyoxy- 
+ethylene alkyl ethers, including but not limited to Brij 58™, 
+Brij35™, as well as others such as Triton X-100™, Triton 
+X-114™, NP40™, Span 85 and the Pluronic series of non- 
+ionic surfactants (e.;[noData]
+
+g.;[noData]
+
+, Pluronic 121)).;[noData]
+
+Any combination of 
+such components form specific embodiments of the present 
+invention.;[noData]
+
+[0126] Pharmaceutical compositions in liquid format may 
+include a liquid carrier, e.;[noData]
+
+g.;[noData]
+
+, water, petroleum, animal oil, 
+vegetable oil, mineral oil, or synthetic oil.;[noData]
+
+The liquid format 
+may also include physiological saline solution, dextrose or 
+other saccharide solution or glycols, such as ethylene glycol, 
+propylene glycol or polyethylene glycol.;[noData]
+
+[0127] Preferably, the pharmaceutical composition may be 
+in the form of a parenterally acceptable aqueous solution that 
+is pyrogen-free with suitable pH, tonicity, and stability.;[noData]
+
+Phar- 
+maceutical compositions may be formulated for administra- 
+tion after dilution in isotonic vehicles, for example, Sodium 
+Chloride Injection, Ringer's Injection, or Lactated Ringer's 
+Inj ection.;[noData]
+
+[0128] One aspect of the present invention is a pharmaceu- 
+tical composition which comprises: (I) about 50 to about 200 
+mg/mL of a PCSK9-specific antagonist described herein;;[noData]
+
+(ii) 
+a polyhydroxy hydrocarbon (including but not limited to 
+sorbitol, mannitol, glycerol and dulcitol) and/or a disaccha- 
+ride (including but not limited to sucrose, lactose, maltose and 
+trehalose);;[noData]
+
+the total of said polyhydroxy hydrocarbon and/or 
+disaccharide being about 1% to about 6% weight per volume 
+("w/v") of the formulation;;[noData]
+
+(fii) about 5 mM to about 200 mM 
+of histidine, imidazole, phosphate or acetic acid which serves 
+as a buffering agent to prevent pH drift over the shelf life of 
+the pharmaceutical composition and as a tonicity modifier;;[noData]
+
+(iv) about 5 mM to about 200 mM of arginine, proline, phe- 
+nylalanine, alanine, glycine, lysine, glutamic acid, aspartic 
+acid or methionine to counteract aggregation;;[noData]
+
+(v) about 
+0.;[noData]
+
+01M to about O.;[noData]
+
+IM of hydrochloric acid ("HCI") in an 
+amount sufficient to achieve a pH in the range of about 5.;[noData]
+
+5 to 
+about 7.;[noData]
+
+5;;[noData]
+
+and (vi) a liquid carrier including but not limited to 
+sterile water, petroleum, animal oil, vegetable oil, mineral oil, 
+synthetic oil, physiological saline solution, dextrose or other 
+saccharide solution or glycols, such as ethylene glycol, pro- 
+pylene glycol or polyethylene glycol;;[noData]
+
+wherein said pharma- 
+ceutical composition has a pH in the range of about 5.;[noData]
+
+5 to 
+about 7.;[noData]
+
+5;;[noData]
+
+and wherein said pharmaceutical composition 
+optionally comprises about 0.;[noData]
+
+01% to about 1% w/v of the 
+formulation of a non-ionic surfactant (including but not lim- 
+ited to Polysorbate-80 (Tween 80™), Polysorbate-60 (Tween 
+60™) Polysorbate-40 (Tween 40™), and Polysorbate-20 
+(Tween 20™), polyoxyethylene alkyl ethers, including but 
+not limited to Brij 58™, Brij35™, as well as others such as 
+Triton X-100™, Triton X-114™, NP40™, Span 85 and the 
+Pluronic series of non-ionic surfactants (e.;[noData]
+
+g.;[noData]
+
+, Pluronic 121)).;[noData]
+
+[0129] HCI may be added as free acid, Histidine-HCI or 
+Arginine-HCI.;[noData]
+
+Where supplied as Histidine-HCI or Arginine- 
+HCI, the total amounts of Histidine or Arginine in the HCI 
+form should be that specified above.;[noData]
+
+Accordingly, some or all 
+of the HCI depending on the amounts of Histidine and/or 
+Arginine may be supplied as Histidine-HCI and/or Arginine- 
+HCI;;[noData]
+
+as appropriate.;[noData]
+
+Use of the term "about" with respect to 
+amounts disclosed in the specification means within 10% of 
+the specified numbers provided.;[noData]
+
+A range provided as, for 
+example" in "about 50 to about 200" expressly includes as 
+distinct embodiments each number within said range.;[noData]
+
+As such 
+in the above example, embodiments including but not limited 
+to those having 50, 100, 125, 150 and 200 form specific 
+embodiments herein.;[noData]
+
+Pharmaceutical compositions as dis- 
+closed herein have general applicability despite the mode of 
+administration.;[noData]
+
+In specific embodiments, the disclosed phar- 
+maceutical compositions are useful for subcutaneous admin- 
+istration as a liquid or upon reconstitution of a lyophilized 
+form.;[noData]
+
+In specific embodiments, PCSK9-specific antagonists 
+employed in the disclosed formulations may be pegylated or 
+form part of fusion proteins.;[noData]
+
+[0130] Specific aspects of the present invention relate to the 
+above disclosed pharmaceutical compositions which com- 
+prise: (I) about 50 to about 200 mg/mL of a PCSK9-specific 
+antagonist described herein;;[noData]
+
+(ii) about 1% to about 6% (in 
+particular embodiments from about 2% to about 6%) w/v 
+mannitol, trehalose or sucrose;;[noData]
+
+(iii) about 10 mM to about 100 
+mM of histidine;;[noData]
+
+(iv) about 25 mM to about 100 mM of 
+arginine or proline;;[noData]
+
+(v) about 0.;[noData]
+
+02 M to about 0.;[noData]
+
+05M of 
+hydrochloric acid ("HCI") in an amount sufficient to achieve 
+a pH in the range of about 5.;[noData]
+
+8 to about 7;;[noData]
+
+and (vi) a liquid 
+carrier including but not limited to sterile water, petroleum, 
+animal oil, vegetable oil, mineral oil, synthetic oil, physi- 
+ological saline solution, dextrose or other saccharide solution 
+or glycols, such as ethylene glycol, propylene glycol or poly- 
+ethylene glycol;;[noData]
+
+wherein said pharmaceutical composition 
+has a pH in the range of about 5.;[noData]
+
+8 to about 7;;[noData]
+
+and wherein said 
+pharmaceutical composition optionally comprising about 
+0.;[noData]
+
+01% to about 1% w/v of the formulation of a non-ionic 
+surfactant (including but not limited to Polysorbate-80 
+(Tween 80™), Polysorbate-60 (Tween 60™), Polysorbate-40 
+(Tween 40™) and Polysorbate-20 (Tween 20™) polyoxy- 
+ethylene alkyl ethers, including but not limited to Brij 58™, 
+Brij35™, as well as others such as Triton X-100™, Triton 
+X-114™, NP40™, Span 85 and the Pluronic series of non- 
+ionic surfactants (e.;[noData]
+
+g.;[noData]
+
+, Pluronic 121)).;[noData]
+
+[0131] Specific embodiments provide pharmaceutical 
+compositions which comprise: (I) 50 to 200 mg/mL of a 
+PCSK9-specific antagonist described herein;;[noData]
+
+(ii) about 1% to 
+about 6% (in particular embodiments from about 2% to about 
+6%) w/v mannitol, trehalose or sucrose;;[noData]
+
+(iii) about 10 mM to 
+about 150 mM of histidine;;[noData]
+
+(iv) about 10 mM to about 150 
+US 2009/0246192 A1 
+21 
+Oct.;[noData]
+
+1, 2009 
+mM of arginine or proline;;[noData]
+
+(v) about 0.;[noData]
+
+03 M to about 0.;[noData]
+
+05 M 
+of hydrochloric acid ("HCI") in an amount sufficient to 
+achieve a pH in the range of about 5.;[noData]
+
+8 to about 6.;[noData]
+
+5;;[noData]
+
+and (vi) a 
+liquid carrier including but not limited to sterile water, petro- 
+leum, animal oil, vegetable oil, mineral oil, synthetic oil, 
+physiological saline solution, dextrose or other saccharide 
+solution or glycols, such as ethylene glycol, propylene glycol 
+or polyethylene glycol;;[noData]
+
+wherein said pharmaceutical compo- 
+sition has a pH in the range of about 5.;[noData]
+
+8 to about 6.;[noData]
+
+5;;[noData]
+
+and 
+wherein said pharmaceutical composition optionally com- 
+prising about 0.;[noData]
+
+01'zo to about I'zo w/v of Polysorbate-80 
+(Tween 80™) or Polysorbate-20 (Tween 20™).;[noData]
+
+[0132] Specific embodiments herein provide pharmaceuti- 
+cal compositions which comprise: (I) 50 to 200 mg/mL of a 
+PCSK9-specific antagonist described herein;;[noData]
+
+(ii) about I'zo to 
+about 6'zo (in particular embodiments from about 2'zo to about 
+6'zo) w/v sucrose;;[noData]
+
+(iii) about 25 mM to about 100 mM of 
+histidine;;[noData]
+
+(iv) about 25 mM to about 100 mM of arginine;;[noData]
+
+(v) 
+about 0.;[noData]
+
+040 M to about 0.;[noData]
+
+045 M of hydrochloric acid ("HCI") 
+in an amount sufficient to achieve a pH of about 6;;[noData]
+
+and (vi) 
+sterile water;;[noData]
+
+wherein said pharmaceutical composition has a 
+pH of about 6;;[noData]
+
+and wherein said pharmaceutical composition 
+optionally comprising about 0.;[noData]
+
+01'zo to about I'zo w/v of 
+Polysorbate-80 (Tween 80™) or Polysorbate-20 (Tween 
+20™).;[noData]
+
+In specific embodiments thereof, the levels of histidine 
+and arginine are within 25 mM of each other and, in other 
+embodiments are the same.;[noData]
+
+[0133] Specific embodiments herein provide pharmaceuti- 
+cal compositions which comprise (I) 50 to 200 mg/mL of a 
+PCSK9-specific antagonist described herein;;[noData]
+
+(ii) sucrose, his- 
+tidine and arginine in one of the following amounts: (a) about 
+I'zo w/v sucrose, about 10 mM histidine and about 25 mM 
+arginine;;[noData]
+
+(b) about 2'zo w/v sucrose, about 25 mM histidine 
+and about 25 mM arginine;;[noData]
+
+(c) about 3'zo w/v sucrose, about 
+50 mM histidine and about 50 mM arginine;;[noData]
+
+or (d) about 6'zo 
+w/v sucrose, about 100 mM histidine and about 100 mM 
+arginine;;[noData]
+
+(fii) about 0.;[noData]
+
+04 mol or, alternatively, about 1.;[noData]
+
+46 g of 
+HCI;;[noData]
+
+and (iv) sterile water;;[noData]
+
+wherein said pharmaceutical com- 
+position has a pH of about 6;;[noData]
+
+and wherein said pharmaceutical 
+composition optionally comprising about 0.;[noData]
+
+01'zo to about I'zo 
+w/v of Polysorbate-80 (Tween 80™) or Polysorbate-20 
+(Tween 20™).;[noData]
+
+Specific embodiments herein are wherein the 
+amounts of sucrose, histidine and arginine in (ii) above are 
+that described in (c) or (d).;[noData]
+
+[0134] Specific embodiments herein provide pharmaceuti- 
+cal compositions as described which comprise 50 to 200 
+mg/ml of any one of the various PCSK9-specific antagonists 
+described herein.;[noData]
+
+For purposes of exemplification of one dis- 
+tinct embodiment thereof, and not to be construed as a limi- 
+tation, is the following: a pharmaceutical formulation as 
+described above which comprises: a PCSK9-specific antago- 
+nist which comprises: (a) a light chain comprising SEQ ID 
+NO: 26;;[noData]
+
+and (b) a heavy chain comprising SEQ ID NO: 25;;[noData]
+
+wherein said PCSK9-specific antagonist is an antibody mol- 
+ecule that antagonizes PCSK9's inhibition of cellular LDL 
+uptake.;[noData]
+
+[0135] Particular embodiments herein are pharmaceutical 
+compositions according to the above description which are 
+lyophilized and reconstituted.;[noData]
+
+In specific embodiments, said 
+protein concentration in said lyophilized and reconstituted 
+solution is up to 2-fold higher than in the pre-lyophilized 
+composition.;[noData]
+
+In specific embodiments, the protein or PCSK9- 
+specific antagonist concentration in the lyophilized and/or 
+reconstituted pharmaceutical composition is in the range of 
+about 50 mg/mL to about 300 mg/mL.;[noData]
+
+Diluents useful for 
+reconstituting the lyophilized pharmaceutical compositions 
+include but are not limited to sterile water, bacteriostatic 
+water for injection ("BWFI"), phosphate-buffered saline, a 
+sterile saline solution, physiological saline solution, Ringer's 
+solution or dextrose solution and may in specific embodi- 
+ments contain 0.;[noData]
+
+01-1'zo (w/v) of Polysorbate-80 (Tween 
+80™) or Polysorbate-20 (Tween 20™).;[noData]
+
+In specific embodi- 
+ments, lyophilized powder can be reconstituted with I/60.;[noData]
+
+2x 
+original volume (or 0.;[noData]
+
+167 mL) up to Ix (I mL).;[noData]
+
+[0136] Exemplary embodiments of the present invention 
+are pharmaceutical compositions as described herein which 
+are stable.;[noData]
+
+Other embodiments of the present invention are 
+pharmaceutical compositions as described herein which are 
+stable to lyophilization and reconstitution.;[noData]
+
+Various methods 
+are available to the skilled artisan to prepare lyophil ized com- 
+positions;;[noData]
+
+see, e.;[noData]
+
+g.;[noData]
+
+, Martin & Mo, 2007 "Stability Consider- 
+ations for Lyophilized Biologics" Amer.;[noData]
+
+Pharm.;[noData]
+
+Rev.;[noData]
+
+"Stable" as used herein refers to the property of the protein or 
+PCSK9-specific antagonist to retain its physical or chemical 
+stability, conformational integrity, or its ability to exhibit less 
+denaturation, protein clipping, aggregation, fragmentation, 
+acidic variant formation or loss of biological activity com- 
+pared with a control sample at a temperature in the range of 
+4-37' C.;[noData]
+
+for at least about 30 days.;[noData]
+
+Other embodiments 
+remain stable for up to 3 months, 6 months, 12 months, 2 
+years or longer periods at the above temperatures.;[noData]
+
+In specific 
+embodiments the formulation exhibits no significant changes 
+at 2-8' C.;[noData]
+
+for at least 6 months, and preferably 12 months, 2 
+years or longer, in order of preference.;[noData]
+
+Specific embodiments 
+experience less than 10'zo or, in particular embodiments, less 
+than 5'zo of denaturation, protein clipping, aggregation, frag- 
+mentation, acidic variant formation or loss ofbiological activ- 
+ity compared with a control sample at a temperature in the 
+range of 25-45' C.;[noData]
+
+(or alternatively 2-8' C.;[noData]
+
+) for at least about 
+30 days, 3 months, 6 months, 12 months, 2 years or longer.;[noData]
+
+Stability of the formulations can be tested via several means 
+known to the skilled artisan including, but not limited to Size 
+Exclusion Chromatography (SEC-HPLC) to measure aggre- 
+gation and fragmentation, Dynamic Light Scattering (DLS) 
+to measure particle size of concentrated samples, capillary 
+SDS-PAGE to measure fragmentation and capillary iso-elec- 
+tric focusing (cIEF) or cation exchange chromatography 
+("CEX") to measure acidic variants formation.;[noData]
+
+Techniques 
+suitable for the analysis of protein stability are well under- 
+stood by those of skill in the art: see review in Peptide and 
+Protein Drug Delivery, 247-301, Vincent Lee Ed.;[noData]
+
+, Marcel 
+Dekker, Inc.;[noData]
+
+, New York, N.;[noData]
+
+Y.;[noData]
+
+, Pubs.;[noData]
+
+(1991) and Jones, 1993 
+Adv.;[noData]
+
+Drug Delivery Rev.;[noData]
+
+10:29-90.;[noData]
+
+[0137] Pharmaceutical compositions as described herein 
+should be sterile.;[noData]
+
+There are various techniques available to the 
+skilled artisan to accomplish this including, but not limited to, 
+filtration through sterile filtration membranes.;[noData]
+
+In specific 
+embodiments, employing lyophilized and reconstituted com- 
+positions, this may be done prior to or following lyophiliza- 
+tion and reconstitution.;[noData]
+
+[0138] Dosing of antagonist therapeutics is well within the 
+realm of the skilled artisan, see, e.;[noData]
+
+g.;[noData]
+
+, Lederman et al.;[noData]
+
+, 1991 
+Int.;[noData]
+
+J.;[noData]
+
+Cancer 47:659-664;;[noData]
+
+Bagshawe et al.;[noData]
+
+, 1991 Antibody, 
+Immunoconj ugates and Radiopltarmaceuticals 4:915-922, 
+and will vary based on a number of factors including but not 
+limited to the particular PCSK9-specific antagonist utilized, 
+the patient being treated, the condition of the patient, the area 
+being treated, the route of administration, and the treatment 
+US 2009/0246192 A1 
+22 
+Oct.;[noData]
+
+1, 2009 
+desired.;[noData]
+
+A physician or veterinarian of ordinary skill can 
+readily determine and prescribe the effective therapeutic 
+amount of the antagonist.;[noData]
+
+Dosage ranges may be from about 
+0.;[noData]
+
+01 to 100 mg/kg, and more usually 0.;[noData]
+
+05 to 25 mg/kg, of the 
+host body weight.;[noData]
+
+For example, dosages can be 03 mg/kg 
+body weight, I mg/kg body weight, 3 mg/kg body weight, 5 
+mg/kg body weight or 10 mg/kg body weight or within the 
+range of 1-10 mg/kg.;[noData]
+
+For purposes of illustration, and not 
+limitation, in specific embodiments, a dose of 5 mg to 2.;[noData]
+
+0 g 
+may be utilized to deliver the antagonist systemically.;[noData]
+
+Opti- 
+mal precision in achieving concentrations of antagonist 
+within a range that yields efficacy without toxicity requires a 
+regimen based on the kinetics of the drug's availability to the 
+target site(s).;[noData]
+
+This involves a consideration of the distribution, 
+equilibrium, and elimination of the PCSK9-specific antago- 
+nist.;[noData]
+
+Antagonists described herein may be used alone at 
+appropriate dosages.;[noData]
+
+Alternatively, co-administration or 
+sequential administration of other agents may be desirable.;[noData]
+
+It 
+will be possible to present a therapeutic dosing regime for the 
+PCSK9-specific antagonists of the present invention in con- 
+junction with alternative treatment regimes.;[noData]
+
+For example, 
+PCS K9-specific antagonists may be used in combination or in 
+conjunction with other drugs (therapeutic and/or prophylac- 
+tic), including but not limited to cholesterol-lowering drugs, 
+for example, cholesterol absorption inhibitors (e.;[noData]
+
+g.;[noData]
+
+, Zetia) 
+and cholesterol synthesis inhibitors (e.;[noData]
+
+g.;[noData]
+
+, Zocor and 
+Vytorln).;[noData]
+
+The present invention contemplates such combi- 
+nations and they form an important embodiment hereof.;[noData]
+
+Accordingly, the present invention relates to methods of treat- 
+ment as described above where the PCSK9-specific antago- 
+nist is administered/delivered simultaneously with, following 
+or prior to another drug or drugs (therapeutic and/or prophy- 
+lactic), including but not limited to cholesterol-lowering 
+drugs, cholesterol absorption inhibitors and cholesterol 
+absorption inhibitors.;[noData]
+
+[0139] Individuals (subjects) capable of treatment as 
+described herein include primates, human and non-human, 
+and include any non-human mammal or vertebrate of com- 
+mercial or domestic veterinary importance.;[noData]
+
+[0140] The PCSK9-specific antagonist may be adminis- 
+tered to an individual by any route of administration appre- 
+ciated in the art, including but not limited to oral administra- 
+tion, administration by injection (specific embodiments of 
+which include intravenous, subcutaneous, intraperitoneal or 
+intramuscular injection), administration by inhalation, intra- 
+nasal, or topical administration, either alone or in combina- 
+tion with other agents designed to assist in the treatment of the 
+individual.;[noData]
+
+The PCSK9-specific antagonist may also be 
+administered by injection devices, injector pens, needleless 
+devices;;[noData]
+
+and subcutaneous patch delivery systems.;[noData]
+
+The route 
+of administration should be determined based on a number of 
+considerations appreciated by the skilled artisan including, 
+but not limited to, the desired physiochemical characteristics 
+of the treatment.;[noData]
+
+Treatment may be provided on a daily, 
+weekly, biweekly, or monthly basis, or any other regimen that 
+delivers the appropriate amount of PCSK9-specific antago- 
+nist to the individual at the prescribed times such that the 
+desired treatment is effected and maintained.;[noData]
+
+The formula- 
+tions may be administered in a single dose or in more than one 
+dose at separate times.;[noData]
+
+[0141] Also contemplated are methods of using the dis- 
+closed antagonists in the manufacture of a medicament for 
+treatment of a PCSK9-associated disease, disorder or condi- 
+tion or, alternatively, a disease, disorder or condition that 
+could benefit from the effects of a PCSK9 antagonist.;[noData]
+
+The 
+medicament would be useful in a subject(s) exhibiting a con- 
+dition associated with PCSK9 activity, or a condition where 
+the functioning of PCSK9 is contraindicated for a particular 
+subject.;[noData]
+
+In select embodiments, the condition may be hyper- 
+cholesterolemia, coronary heart disease, metabolic syn- 
+drome, acute coronary syndrome or related conditions.;[noData]
+
+[0142] PCSK9-specific antagonists disclosed herein may 
+also be used as a method of diagnosis of PCSK9.;[noData]
+
+In select 
+embodiments, the present invention encompasses methods of 
+identifying or quantifying the level of PCSK9 present in a 
+sample (including but not limited to a biological sample, e.;[noData]
+
+g.;[noData]
+
+, 
+serum or blood) which comprises contacting the sample with 
+a PCSK9-specific antagonist described herein and detecting 
+or quantifying, respectively, binding to PCSK9.;[noData]
+
+The PCSK9- 
+specific antagonist may be used in various assay formats 
+known to the skilled artisan and may form part of a kit (the 
+general features of a kit of which are further described below).;[noData]
+
+[0143] The present invention further provides for the 
+administration of disclosed anti-PCSK9 antagonists for pur- 
+poses of gene therapy.;[noData]
+
+Through such methods, cells of a 
+subject are trans formed with nucleic acid encoding a PCSK9- 
+specific antagonist of the invention.;[noData]
+
+Subjects comprising the 
+nucleic acids then produce the PCSK9-specific antagonists 
+endogenously.;[noData]
+
+Previously, Alvarez, et al, Clinical Cancer 
+Research 6:3081-3087, 2000, introduced single-chain anti- 
+ErbB2 antibodies to subjects using a gene therapy approach.;[noData]
+
+The methods disclosed by Alvarez, et al, supra, may be easily 
+adapted for the introduction of nucleic acids encoding an 
+anti-PCSK9 antibody of the invention to a subject.;[noData]
+
+[0144] Nucleic acids encoding any PCSK9-specific 
+antagonist may be introduced to a subject.;[noData]
+
+[0145] The nucleic acids may be introduced to the cells of 
+a subject by any means known in the art.;[noData]
+
+In preferred embodi- 
+ments, the nucleic acids are introduced as part of a viral 
+vector.;[noData]
+
+Examples of preferred viruses from which the vectors 
+may be derived include lentiviruses, herpes viruses, adenovi- 
+ruses, adeno-associated viruses, vaccinia virus, baculovirus, 
+alphavirus, influenza virus, and other recombinant viruses 
+with desirable cellular tropism.;[noData]
+
+[0146] Various companies produce viral vectors commer- 
+cially, including, but by no means limited to, Avigen, Inc.;[noData]
+
+(Alameda, Calif.;[noData]
+
+AAV vectors), Cell Genesys (Foster City, 
+Calif.;[noData]
+
+retroviral, adenoviral, AAV vectors, and lentiviral vec- 
+tors), Clontech (retroviral and baculoviral vectors), Genovo, 
+Inc.;[noData]
+
+(Sharon Hill, Pa.;[noData]
+
+adenoviral and AAV vectors), Genvec 
+(adenoviral vectors), IntroGene (Leiden, Netherlands;;[noData]
+
+aden- 
+oviral vectors), Molecular Medicine (retroviral, adenoviral, 
+AAV, and herpes viral vectors), Norgen (adenoviral vectors), 
+Oxford BioMedica (Oxford, United Kingdom;;[noData]
+
+lentiviral vec- 
+tors), and Transgene (Strasbourg, France;;[noData]
+
+adenoviral, vac- 
+cinia, retroviral, and lentiviral vectors).;[noData]
+
+[0147] Methods for constructing and using viral vectors are 
+known in the art (see, e g.;[noData]
+
+, Miller, et al, Bio Techniques 7: 980- 
+990, 1992).;[noData]
+
+Preferably, the viral vectors are replication defec- 
+tive, that is, they are unable to replicate autonomously, and 
+thus are not infectious, in the target cell.;[noData]
+
+Preferably, the rep- 
+lication defective virus is a minimal virus, i.;[noData]
+
+e.;[noData]
+
+, it retains only 
+the sequences of its genome which are necessary for encapsi- 
+dating the genome to produce viral particles.;[noData]
+
+Defective 
+viruses, which entirely or almost entirely lack viral genes, are 
+preferred.;[noData]
+
+Use of defective viral vectors allows for adminis- 
+US 2009/0246192 A1 
+23 
+Oct.;[noData]
+
+1, 2009 
+tration to cells in a specific, localized area, without concern 
+that the vector can infect other cells.;[noData]
+
+Thus, a specific tissue 
+can be specifically targeted.;[noData]
+
+[0148] Examples of vectors comprising attenuated or 
+defective DNA virus sequences include, but are not limited to, 
+a defective herpes virus vector (Kanno et al, Cancer Gen.;[noData]
+
+Ther.;[noData]
+
+6:147-154, 1999;;[noData]
+
+Kaplitt et al, J.;[noData]
+
+Neurosci.;[noData]
+
+Meth.;[noData]
+
+71:125-132, 1997 and Kaplitt et al, J.;[noData]
+
+Neuro Onc.;[noData]
+
+19:137- 
+147, 1994).;[noData]
+
+[0149] Adenoviruses are eukaryotic DNA viruses that can 
+be modified to efficiently deliver a nucleic acid of the inven- 
+tion to a variety of cell types.;[noData]
+
+Attenuated adenovirus vectors, 
+such as the vector described by Strafford-Perricaudet et al, J.;[noData]
+
+Clin.;[noData]
+
+Invest.;[noData]
+
+90:626-630, 1992 are desirable in some 
+instances.;[noData]
+
+Various replication defective adenovirus and mini- 
+mum adenovirus vectors have been described (PCT Publica- 
+tion Nos.;[noData]
+
+WO94/26914, WO94/28938, WO94/28152, 
+WO94/12649, WO95/02697 and WO96/22378).;[noData]
+
+The replica- 
+tion defective recombinant adenoviruses according to the 
+invention can be prepared by any technique known to a person 
+skilled in the art (Levrero et al, Gene 101:195, 1991;;[noData]
+
+EP 
+185573;;[noData]
+
+Graham, EMBO J.;[noData]
+
+3:2917, 1984;;[noData]
+
+Graham et al, J.;[noData]
+
+Gen.;[noData]
+
+Virol.;[noData]
+
+36:59, 1977).;[noData]
+
+[0150] The adeno-associated viruses (AAV) are DNA 
+viruses of relatively small size which can integrate, in a stable 
+and site-specific manner, into the genome of the cells which 
+they infect.;[noData]
+
+They are able to infect a wide spectrum of cells 
+without inducing any effects on cellular growth, morphology 
+or differentiation, and they do not appear to be involved in 
+human patho logies.;[noData]
+
+The use of vectors derived from the AAVs 
+for trans ferring genes in vitro and in vivo has been described 
+(see Daly, et al, Gene Ther.;[noData]
+
+8:1343-1346, 2001, Larson et al, 
+Adv.;[noData]
+
+Exp.;[noData]
+
+Med.;[noData]
+
+Bio.;[noData]
+
+489:45-57, 2001;;[noData]
+
+PCT Publication Nos.;[noData]
+
+WO 91/18088 and WO 93/09239;;[noData]
+
+U.;[noData]
+
+S.;[noData]
+
+Pat.;[noData]
+
+Nos.;[noData]
+
+4, 797, 368 
+and 5, 139, 941 and EP 488528B I).;[noData]
+
+[0151] In another embodiment, the gene can be introduced 
+in a retroviral vector, e.;[noData]
+
+g.;[noData]
+
+, as described in U.;[noData]
+
+S.;[noData]
+
+Pat.;[noData]
+
+Nos.;[noData]
+
+5, 399, 346, 4, 650, 764, 4, 980, 289, and 5, 124, 263;;[noData]
+
+Mann et al, 
+Cell 33:153, 1983;;[noData]
+
+Markowitz et al, J.;[noData]
+
+Vi rol.;[noData]
+
+, 62:1120, 1988;;[noData]
+
+EP 453242 and EP178220.;[noData]
+
+The retroviruses are integrating 
+viruses which infect dividing cells.;[noData]
+
+[0152] Lentiviral vectors can be used as agents for the 
+direct delivery and sustained expression of nucleic acids 
+encoding a PCSK9-specific antagonist of the invention in 
+several tissue types, including brain, retina, muscle, liver and 
+blood.;[noData]
+
+The vectors can efficiently transduce dividing and 
+nondividing cells in these tissues, and maintain long-term 
+expression of the PCSK9-specific antagonist.;[noData]
+
+For a review, 
+see Zufferey et al, J.;[noData]
+
+Virol.;[noData]
+
+72:9873-80, 1998 and Kafri et al, 
+Curr.;[noData]
+
+Opi n.;[noData]
+
+Mol.;[noData]
+
+Ther.;[noData]
+
+3:316-326, 2001.;[noData]
+
+Lentiviral packaging 
+cell lines are available and known generally in the art.;[noData]
+
+They 
+facilitate the production of high-titer lentivirus vectors for 
+gene therapy.;[noData]
+
+An example is a tetracycline-inducible VSV-G 
+pseudotyped lentivirus packaging cell line which can gener- 
+ate virus particles at titers greater than 10 IU/ml for at least 3 
+to 4 days;;[noData]
+
+see Kafri et al, J.;[noData]
+
+Virol.;[noData]
+
+73:576-584, 1999.;[noData]
+
+The 
+vector produced by the inducible cell line can be concentrated 
+as needed for efficiently transducing nondividing cells in 
+vitro and in vivo.;[noData]
+
+[0153] Sindbis virus is a member of the alphavirus genus 
+and has been studied extensively since its discovery in various 
+parts of the world beginning in 1953.;[noData]
+
+Gene transduction 
+based on alphavirus, particularly Sindbis virus, has been 
+well-studied in vitro (see Straus et al, Microbiol.;[noData]
+
+Rev.;[noData]
+
+, 58:491- 
+562, 1994;;[noData]
+
+Bredenbeek et al, J.;[noData]
+
+Virol.;[noData]
+
+, 67:6439-6446, 1993;;[noData]
+
+Ijima et al, Int.;[noData]
+
+J.;[noData]
+
+Cancer 80:110-118, 1999 and Sawai et al, 
+Biochim.;[noData]
+
+Biophyr.;[noData]
+
+Res.;[noData]
+
+Comm.;[noData]
+
+248:315-323, 1998.;[noData]
+
+Many 
+properties of alphavirus vectors make them a desirable alter- 
+native to other virus-derived vector systems being developed, 
+including rapid engineering of expression constructs, produc- 
+tion of high-titered stocks of infectious particles, infection of 
+nondividing cells, and high levels of expression (Strauss et al, 
+1994 supra).;[noData]
+
+Use of Sindbis virus for gene therapy has been 
+described.;[noData]
+
+(Wahlfors et al, Gene.;[noData]
+
+Ther.;[noData]
+
+7:472-480, 2000 and 
+Lundstrom, J.;[noData]
+
+Recep.;[noData]
+
+Sig.;[noData]
+
+Transduct.;[noData]
+
+Res.;[noData]
+
+19(1-4):673-686, 
+1999.;[noData]
+
+[0154] In another embodiment, a vector can be introduced 
+to cells by lipofection or with other transfection facilitating 
+agents (peptides, polymers, etc.;[noData]
+
+).;[noData]
+
+Synthetic cationic lipids 
+can be used to prepare liposomes for in vivo and in vitro 
+trans fection of a gene encoding a marker (Feigner et al, Proc.;[noData]
+
+Natl.;[noData]
+
+Acad.;[noData]
+
+Sci.;[noData]
+
+USA 84:7413-7417, 1987 and Wang et al, 
+Proc.;[noData]
+
+Natl.;[noData]
+
+Acad.;[noData]
+
+Sci.;[noData]
+
+USA 84:7851-7855, 1987).;[noData]
+
+Useful lipid 
+compounds and compositions for transfer of nucleic acids are 
+described in PCT Publication Nos.;[noData]
+
+WO 95/18863 and WO 
+96/17823, and in U.;[noData]
+
+S.;[noData]
+
+Pat.;[noData]
+
+No.;[noData]
+
+5, 459, 127.;[noData]
+
+[0155] It is also possible to introduce the vector in vivo as a 
+naked DNA plasmid.;[noData]
+
+Naked DNA vectors for gene therapy 
+can be introduced into desired host cells by methods known in 
+the art, e.;[noData]
+
+g.;[noData]
+
+, electroporation, microinjection, cell fusion, 
+DEAE dextran, calcium phosphate precipitation, use of a 
+gene gun, or use of a DNA vector transporter (see, e.;[noData]
+
+g.;[noData]
+
+, 
+Wilson, et al, J.;[noData]
+
+Biol.;[noData]
+
+Chem.;[noData]
+
+267:963-967, 1992;;[noData]
+
+Williams et 
+al, Proc.;[noData]
+
+Natl.;[noData]
+
+Acad.;[noData]
+
+Sci.;[noData]
+
+USA 88:2726-2730, 1991).;[noData]
+
+Other 
+reagents commonly used for trans fection of plasmids include, 
+but are by no means limited to, FuGene, Lipofectin, and 
+Lipofectamine.;[noData]
+
+Receptor-mediated DNA delivery 
+approaches can also be used (Wu et al, J.;[noData]
+
+Biol.;[noData]
+
+Chem.;[noData]
+
+263: 
+14621-14624, 1988).;[noData]
+
+U.;[noData]
+
+S.;[noData]
+
+Pat.;[noData]
+
+Nos.;[noData]
+
+5, 580, 859 and 5, 589, 466 
+disclose delivery of exogenous DNA sequences, free of trans- 
+fection facilitating agents, in a mammal.;[noData]
+
+Recently, a relatively 
+low voltage, high efficiency in vivo DNA transfer technique, 
+termed electrotransfer, has been described (Vilquin et al, 
+Gene Ther.;[noData]
+
+8:1097, 2001;;[noData]
+
+Payen et al, Exp.;[noData]
+
+Hematol.;[noData]
+
+29:295- 
+300, 2001;;[noData]
+
+Mir, Bioelectrochemistry 53:1-10, 2001;;[noData]
+
+PCT 
+Publication Nos.;[noData]
+
+WO 99/01157, WO 99/01158 and WO 
+99/01175).;[noData]
+
+[0156] Pharmaceutical compositions suitable for such gene 
+therapy approaches and comprising nucleic acids encoding 
+an anti-PCSK9 antagonist of the present invention are 
+included within the scope of the present invention.;[noData]
+
+[0157] In another aspect, the present invention provides a 
+method for identifying, isolating, quantifying or antagoniz- 
+ing PCSK9 in a sample of interest using a PCSK9-specific 
+antagonist of the present invention.;[noData]
+
+The PCSK9-specific 
+antagonists may be utilized as research tools in immu- 
+nochemical assays, such as Western blots, ELISAs, radioim- 
+munoassay, immunohistochemical assays, immunoprecipita- 
+tions, or other immunochemical assays known in the art (see, 
+e.;[noData]
+
+g.;[noData]
+
+, Immunological Techniques Laboratory Manual, ed.;[noData]
+
+Goers, J.;[noData]
+
+1993, Academic Press) or various purification pro- 
+tocols.;[noData]
+
+The antagonists may have a label incorporated therein 
+or affixed thereto to facilitate ready identification or measure- 
+ment of the activities associated therewith.;[noData]
+
+One skilled in the 
+art is readily familiar with the various types of detectable 
+labels (e.;[noData]
+
+g.;[noData]
+
+, enzymes, dyes, or other suitable molecules which 
+US 2009/0246192 A1 
+24 
+Oct.;[noData]
+
+1, 2009 
+are either readily detectable or cause some activity/result that 
+is readily detectable) which are or may be useful in the above 
+protocols.;[noData]
+
+[015S] An additional aspect of the present invention are kits 
+comprising PCSK9-specific antagonists or pharmaceutical 
+compositions disclosed herein and instructions for use.;[noData]
+
+Kits 
+typically but need not include a label indicating the intended 
+use of the contents of the kit.;[noData]
+
+The term label includes any 
+writing, or recorded material supplied on or with the kit, or 
+which otherwise accompanies the kit.;[noData]
+
+In specific embodi- 
+ments wherein the pharmaceutical composition is provided 
+lyophilized, the kit may include sterile water or saline for 
+reconstitution of the formulation into liquid form.;[noData]
+
+In specific 
+embodiments, the amount of water or saline is from about 0.;[noData]
+
+1 
+ml to 1.;[noData]
+
+0 ml.;[noData]
+
+[0159] ;[noData]
+
