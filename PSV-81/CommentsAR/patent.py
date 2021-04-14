@@ -62,7 +62,6 @@ class Patent:
         
         #Claimed as string
         for claimed in lines:
-        
 			#Find the required sentence with epitope info
 			sentenceToEvaluate = ''
 			for regex in bindingPattern:
@@ -123,3 +122,4 @@ class Patent:
 					valuesDict["num"] = int(i)
 					sequencesDict["values"].append(valuesDict)
 			self.claimedResidues.append(sequencesDict)
+
